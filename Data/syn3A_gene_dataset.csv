@@ -1,0 +1,13 @@
+locus_tag,gene_name,length_bp,functional_category,essentiality
+JCVISYN3A_0520,ftsZ,1170,cell_division,essential
+JCVISYN3A_0521,ftsA,1250,cell_division,essential
+JCVISYN3A_0522,sepF,450,cell_division,essential
+JCVISYN3A_0001,dnaA,1350,dna_replication,essential
+JCVISYN3A_0440,dnaK,1800,stress_response,essential
+JCVISYN3A_0441,dnaJ,1100,stress_response,essential
+JCVISYN3A_0390,groEL,1650,stress_response,essential
+JCVISYN3A_0391,groES,300,stress_response,essential
+JCVISYN3A_0120,thioredoxin,320,oxidative_stress,essential
+JCVISYN3A_0650,v_type_atpase,2500,ph_homeostasis,essential
+JCVISYN3A_0210,recA,1050,dna_repair,essential
+JCVISYN3A_0090,uvrA,2800,dna_repair,essential

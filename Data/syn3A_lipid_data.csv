@@ -1,0 +1,7 @@
+lipid_name,concentration_mol_percent,function_class,source
+cholesterol,30.0,membrane_stabilizer,environmental_scavenging
+phosphatidylglycerol_PG,45.0,structural_bilayer,de_novo_synthesis
+cardiolipin_CL,15.0,membrane_curvature,de_novo_synthesis
+phosphatidylcholine_PC,8.0,structural_bilayer,environmental_scavenging
+free_fatty_acids,2.0,remodeling_pool,environmental_scavenging
+diether_PC,0.0,structural_alternative,experimental_diet

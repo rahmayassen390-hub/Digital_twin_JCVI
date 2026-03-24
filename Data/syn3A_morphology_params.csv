@@ -1,0 +1,11 @@
+parameter_name,value,unit,description
+cell_diameter_min,400,nm,minimum_observed_diameter
+cell_diameter_max,500,nm,maximum_observed_diameter
+generation_time,105,minutes,average_doubling_time
+ribosome_count,187,count,average_ribosomes_per_cell
+genome_size,543379,bp,total_base_pairs
+gene_count,493,count,total_protein_coding_genes
+surface_area_to_volume,0.012,nm^-1,estimated_ratio
+nucleoid_volume_fraction,0.9,fraction,cell_spanning_occupancy
+cytoplasmic_volume_fraction,0.4,fraction,macromolecular_crowding
+ftsZ_ring_diameter,350,nm,estimated_septal_ring_size

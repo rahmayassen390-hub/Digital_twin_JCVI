@@ -1,0 +1,16 @@
+process,parameter_name,value,unit,description
+replication,initiation_time,8,minutes,average_time_for_dnaA_initiation
+replication,elongation_rate,45,bp/s,average_dna_polymerase_speed
+replication,total_time,50,minutes,time_to_duplicate_543kbp_genome
+transcription,elongation_rate,15,nt/s,average_rna_polymerase_speed
+translation,elongation_rate,19,aa/s,average_ribosome_speed
+translation,ribosome_count,187,count,average_ribosomes_available
+translation,rprotein_count,500-700,range,estimated_total_ribosomal_proteins
+degradation,mRNA_half_life,1,minute,average_time_for_mRNA_decay
+degradation,protein_half_life,25,hours,average_time_for_protein_decay
+cell_cycle,doubling_time,105,minutes,time_to_complete_cell_cycle
+cell_size,diameter,400,nm,standard_cell_diameter_for_model
+genome,size,543379,bp,total_genome_length
+genome,gene_count,493,count,total_annotated_genes
+genome,protein_coding_genes,452,count,genes_translated_to_proteins
+genome,rna_genes,35,count,tRNA_and_rRNA_genes

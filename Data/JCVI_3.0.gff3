@@ -1,0 +1,988 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP014940.1 1 531490
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1806462
+CP014940.1	Genbank	region	1	531490	.	+	.	ID=CP014940.1:1..531490;Dbxref=taxon:1806462;Is_circular=true;Name=ANONYMOUS;gbkey=Src;genome=chromosome;mol_type=other DNA;old-name=synthetic Mycoplasma mycoides JCVI-Syn3.0
+CP014940.1	Genbank	gene	1	1353	.	+	.	ID=gene-JCVISYN3_0001;Name=JCVISYN3_0001;gbkey=Gene;locus_tag=JCVISYN3_0001
+CP014940.1	Genbank	CDS	1	1353	.	+	0	ID=cds-AMW76285.1;Parent=gene-JCVISYN3_0001;Dbxref=NCBI_GP:AMW76285.1;Name=AMW76285.1;gbkey=CDS;locus_tag=JCVISYN3_0001;product=DnaA: initiation of DNA replication in bacteria;protein_id=AMW76285.1;transl_table=4
+CP014940.1	Genbank	gene	1511	2638	.	+	.	ID=gene-JCVISYN3_0002;Name=JCVISYN3_0002;gbkey=Gene;locus_tag=JCVISYN3_0002
+CP014940.1	Genbank	CDS	1511	2638	.	+	0	ID=cds-AMW76286.1;Parent=gene-JCVISYN3_0002;Dbxref=NCBI_GP:AMW76286.1;Name=AMW76286.1;gbkey=CDS;locus_tag=JCVISYN3_0002;product=DNA polymerase III%2C beta subunit: sliding clamp;protein_id=AMW76286.1;transl_table=4
+CP014940.1	Genbank	gene	2675	3217	.	+	.	ID=gene-JCVISYN3_0003;Name=JCVISYN3_0003;gbkey=Gene;locus_tag=JCVISYN3_0003
+CP014940.1	Genbank	CDS	2675	3217	.	+	0	ID=cds-AMW76287.1;Parent=gene-JCVISYN3_0003;Dbxref=NCBI_GP:AMW76287.1;Name=AMW76287.1;gbkey=CDS;locus_tag=JCVISYN3_0003;product=RnmV: processing of the 5' and 3' ends of 5S rRNA;protein_id=AMW76287.1;transl_table=4
+CP014940.1	Genbank	gene	3207	4007	.	+	.	ID=gene-JCVISYN3_0004;Name=JCVISYN3_0004;gbkey=Gene;locus_tag=JCVISYN3_0004
+CP014940.1	Genbank	CDS	3207	4007	.	+	0	ID=cds-AMW76288.1;Parent=gene-JCVISYN3_0004;Dbxref=NCBI_GP:AMW76288.1;Name=AMW76288.1;gbkey=CDS;locus_tag=JCVISYN3_0004;product=KsgA: rRNA adenine dimethyltransferase;protein_id=AMW76288.1;transl_table=4
+CP014940.1	Genbank	gene	4064	5155	.	+	.	ID=gene-JCVISYN3_0005;Name=JCVISYN3_0005;gbkey=Gene;locus_tag=JCVISYN3_0005
+CP014940.1	Genbank	CDS	4064	5155	.	+	0	ID=cds-AMW76289.1;Parent=gene-JCVISYN3_0005;Dbxref=NCBI_GP:AMW76289.1;Name=AMW76289.1;gbkey=CDS;locus_tag=JCVISYN3_0005;product=hypothetical protein;protein_id=AMW76289.1;transl_table=4
+CP014940.1	Genbank	gene	5515	7419	.	+	.	ID=gene-JCVISYN3_0006;Name=JCVISYN3_0006;gbkey=Gene;locus_tag=JCVISYN3_0006
+CP014940.1	Genbank	CDS	5515	7419	.	+	0	ID=cds-AMW76290.1;Parent=gene-JCVISYN3_0006;Dbxref=NCBI_GP:AMW76290.1;Name=AMW76290.1;gbkey=CDS;locus_tag=JCVISYN3_0006;product=GyrB: catalyzes the interconversion of DNA topological isomers;protein_id=AMW76290.1;transl_table=4
+CP014940.1	Genbank	gene	7435	9939	.	+	.	ID=gene-JCVISYN3_0007;Name=JCVISYN3_0007;gbkey=Gene;locus_tag=JCVISYN3_0007
+CP014940.1	Genbank	CDS	7435	9939	.	+	0	ID=cds-AMW76291.1;Parent=gene-JCVISYN3_0007;Dbxref=NCBI_GP:AMW76291.1;Name=AMW76291.1;gbkey=CDS;locus_tag=JCVISYN3_0007;product=GyrA: catalyzes the interconversion of DNA topological isomers;protein_id=AMW76291.1;transl_table=4
+CP014940.1	Genbank	gene	9991	10968	.	-	.	ID=gene-JCVISYN3_0008;Name=JCVISYN3_0008;gbkey=Gene;locus_tag=JCVISYN3_0008
+CP014940.1	Genbank	CDS	9991	10968	.	-	0	ID=cds-AMW76292.1;Parent=gene-JCVISYN3_0008;Dbxref=NCBI_GP:AMW76292.1;Name=AMW76292.1;gbkey=CDS;locus_tag=JCVISYN3_0008;product=RnsD: nucleoside ABC transporter%2C permease protein;protein_id=AMW76292.1;transl_table=4
+CP014940.1	Genbank	gene	10968	13535	.	-	.	ID=gene-JCVISYN3_0009;Name=JCVISYN3_0009;gbkey=Gene;locus_tag=JCVISYN3_0009
+CP014940.1	Genbank	CDS	10968	13535	.	-	0	ID=cds-AMW76293.1;Parent=gene-JCVISYN3_0009;Dbxref=NCBI_GP:AMW76293.1;Name=AMW76293.1;gbkey=CDS;locus_tag=JCVISYN3_0009;product=RnsC: nucleoside ABC transporter%2C permease protein;protein_id=AMW76293.1;transl_table=4
+CP014940.1	Genbank	gene	13525	15141	.	-	.	ID=gene-JCVISYN3_0010;Name=JCVISYN3_0010;gbkey=Gene;locus_tag=JCVISYN3_0010
+CP014940.1	Genbank	CDS	13525	15141	.	-	0	ID=cds-AMW76294.1;Parent=gene-JCVISYN3_0010;Dbxref=NCBI_GP:AMW76294.1;Name=AMW76294.1;gbkey=CDS;locus_tag=JCVISYN3_0010;product=RnsA: nucleoside ABC transporter%2C ATP-binding protein;protein_id=AMW76294.1;transl_table=4
+CP014940.1	Genbank	gene	15153	16799	.	-	.	ID=gene-JCVISYN3_0011;Name=JCVISYN3_0011;gbkey=Gene;locus_tag=JCVISYN3_0011
+CP014940.1	Genbank	CDS	15153	16799	.	-	0	ID=cds-AMW76295.1;Parent=gene-JCVISYN3_0011;Dbxref=NCBI_GP:AMW76295.1;Name=AMW76295.1;gbkey=CDS;locus_tag=JCVISYN3_0011;product=RnsB: nucleoside ABC transporter%2C solute binding protein;protein_id=AMW76295.1;transl_table=4
+CP014940.1	Genbank	gene	16986	18515	.	-	.	ID=gene-JCVISYN3_0012;Name=JCVISYN3_0012;gbkey=Gene;locus_tag=JCVISYN3_0012
+CP014940.1	Genbank	CDS	16986	18515	.	-	0	ID=cds-AMW76296.1;Parent=gene-JCVISYN3_0012;Dbxref=NCBI_GP:AMW76296.1;Name=AMW76296.1;gbkey=CDS;locus_tag=JCVISYN3_0012;product=MetRS: Methionyl-tRNA synthetase;protein_id=AMW76296.1;transl_table=4
+CP014940.1	Genbank	gene	22769	22996	.	-	.	ID=gene-JCVISYN3_0025;Name=JCVISYN3_0025;gbkey=Gene;locus_tag=JCVISYN3_0025
+CP014940.1	Genbank	CDS	22769	22996	.	-	0	ID=cds-AMW76297.1;Parent=gene-JCVISYN3_0025;Dbxref=NCBI_GP:AMW76297.1;Name=AMW76297.1;gbkey=CDS;locus_tag=JCVISYN3_0025;product=S18: ribosomal protein S18;protein_id=AMW76297.1;transl_table=4
+CP014940.1	Genbank	gene	23016	23456	.	-	.	ID=gene-JCVISYN3_0026;Name=JCVISYN3_0026;gbkey=Gene;locus_tag=JCVISYN3_0026
+CP014940.1	Genbank	CDS	23016	23456	.	-	0	ID=cds-AMW76298.1;Parent=gene-JCVISYN3_0026;Dbxref=NCBI_GP:AMW76298.1;Name=AMW76298.1;gbkey=CDS;locus_tag=JCVISYN3_0026;product=SsbA: single-strand DNA-binding protein;protein_id=AMW76298.1;transl_table=4
+CP014940.1	Genbank	gene	23468	23881	.	-	.	ID=gene-JCVISYN3_0027;Name=JCVISYN3_0027;gbkey=Gene;locus_tag=JCVISYN3_0027
+CP014940.1	Genbank	CDS	23468	23881	.	-	0	ID=cds-AMW76299.1;Parent=gene-JCVISYN3_0027;Dbxref=NCBI_GP:AMW76299.1;Name=AMW76299.1;gbkey=CDS;locus_tag=JCVISYN3_0027;product=S6: ribosomal protein S6;protein_id=AMW76299.1;transl_table=4
+CP014940.1	Genbank	gene	24273	24872	.	+	.	ID=gene-JCVISYN3_0029;Name=JCVISYN3_0029;gbkey=Gene;locus_tag=JCVISYN3_0029
+CP014940.1	Genbank	CDS	24273	24872	.	+	0	ID=cds-AMW76300.1;Parent=gene-JCVISYN3_0029;Dbxref=NCBI_GP:AMW76300.1;Name=AMW76300.1;gbkey=CDS;locus_tag=JCVISYN3_0029;product=FMN-dependent NADH-azoreductase 1 family protein;protein_id=AMW76300.1;transl_table=4
+CP014940.1	Genbank	gene	24909	25943	.	-	.	ID=gene-JCVISYN3_0030;Name=JCVISYN3_0030;gbkey=Gene;locus_tag=JCVISYN3_0030
+CP014940.1	Genbank	CDS	24909	25943	.	-	0	ID=cds-AMW76301.1;Parent=gene-JCVISYN3_0030;Dbxref=NCBI_GP:AMW76301.1;Name=AMW76301.1;gbkey=CDS;locus_tag=JCVISYN3_0030;product=ABC transporter%2C ATP-binding protein;protein_id=AMW76301.1;transl_table=4
+CP014940.1	Genbank	gene	26204	29362	.	-	.	ID=gene-JCVISYN3_0033;Name=JCVISYN3_0033;gbkey=Gene;locus_tag=JCVISYN3_0033
+CP014940.1	Genbank	CDS	26204	29362	.	-	0	ID=cds-AMW76302.1;Parent=gene-JCVISYN3_0033;Dbxref=NCBI_GP:AMW76302.1;Name=AMW76302.1;gbkey=CDS;locus_tag=JCVISYN3_0033;product=hypothetical protein;protein_id=AMW76302.1;transl_table=4
+CP014940.1	Genbank	gene	29527	34896	.	+	.	ID=gene-JCVISYN3_0034;Name=JCVISYN3_0034;gbkey=Gene;locus_tag=JCVISYN3_0034
+CP014940.1	Genbank	CDS	29527	34896	.	+	0	ID=cds-AMW76303.1;Parent=gene-JCVISYN3_0034;Dbxref=NCBI_GP:AMW76303.1;Name=AMW76303.1;gbkey=CDS;locus_tag=JCVISYN3_0034;product=efflux ABC transporter%2C permease protein;protein_id=AMW76303.1;transl_table=4
+CP014940.1	Genbank	gene	35062	37008	.	-	.	ID=gene-JCVISYN3_0039;Name=JCVISYN3_0039;gbkey=Gene;locus_tag=JCVISYN3_0039
+CP014940.1	Genbank	CDS	35062	37008	.	-	0	ID=cds-AMW76304.1;Parent=gene-JCVISYN3_0039;Dbxref=NCBI_GP:AMW76304.1;Name=AMW76304.1;gbkey=CDS;locus_tag=JCVISYN3_0039;product=Putative FtsH peptidase;protein_id=AMW76304.1;transl_table=4
+CP014940.1	Genbank	gene	37240	38445	.	-	.	ID=gene-JCVISYN3_0040;Name=JCVISYN3_0040;gbkey=Gene;locus_tag=JCVISYN3_0040
+CP014940.1	Genbank	CDS	37240	38445	.	-	0	ID=cds-AMW76305.1;Parent=gene-JCVISYN3_0040;Dbxref=NCBI_GP:AMW76305.1;Name=AMW76305.1;gbkey=CDS;locus_tag=JCVISYN3_0040;product=TilS: tRNA(Ile)-lysidine synthase;protein_id=AMW76305.1;transl_table=4
+CP014940.1	Genbank	gene	38448	39275	.	-	.	ID=gene-JCVISYN3_0042;Name=JCVISYN3_0042;gbkey=Gene;locus_tag=JCVISYN3_0042
+CP014940.1	Genbank	CDS	38448	39275	.	-	0	ID=cds-AMW76306.1;Parent=gene-JCVISYN3_0042;Dbxref=NCBI_GP:AMW76306.1;Name=AMW76306.1;gbkey=CDS;locus_tag=JCVISYN3_0042;product=transcriptional regulator%2C RpiR family;protein_id=AMW76306.1;transl_table=4
+CP014940.1	Genbank	gene	39327	40049	.	-	.	ID=gene-JCVISYN3_0043;Name=JCVISYN3_0043;gbkey=Gene;locus_tag=JCVISYN3_0043
+CP014940.1	Genbank	CDS	39327	40049	.	-	0	ID=cds-AMW76307.1;Parent=gene-JCVISYN3_0043;Dbxref=NCBI_GP:AMW76307.1;Name=AMW76307.1;gbkey=CDS;locus_tag=JCVISYN3_0043;product=ribosomal protein L11 methyltransferase-like protein;protein_id=AMW76307.1;transl_table=4
+CP014940.1	Genbank	gene	40049	40789	.	-	.	ID=gene-JCVISYN3_0044;Name=JCVISYN3_0044;gbkey=Gene;locus_tag=JCVISYN3_0044
+CP014940.1	Genbank	CDS	40049	40789	.	-	0	ID=cds-AMW76308.1;Parent=gene-JCVISYN3_0044;Dbxref=NCBI_GP:AMW76308.1;Name=AMW76308.1;gbkey=CDS;locus_tag=JCVISYN3_0044;product=DNA polymerase III delta subunit;protein_id=AMW76308.1;transl_table=4
+CP014940.1	Genbank	gene	40767	41408	.	-	.	ID=gene-JCVISYN3_0045;Name=JCVISYN3_0045;gbkey=Gene;locus_tag=JCVISYN3_0045
+CP014940.1	Genbank	CDS	40767	41408	.	-	0	ID=cds-AMW76309.1;Parent=gene-JCVISYN3_0045;Dbxref=NCBI_GP:AMW76309.1;Name=AMW76309.1;gbkey=CDS;locus_tag=JCVISYN3_0045;product=tmk: thymidylate kinase;protein_id=AMW76309.1;transl_table=4
+CP014940.1	Genbank	gene	41411	42001	.	-	.	ID=gene-JCVISYN3_0046;Name=JCVISYN3_0046;gbkey=Gene;locus_tag=JCVISYN3_0046
+CP014940.1	Genbank	CDS	41411	42001	.	-	0	ID=cds-AMW76310.1;Parent=gene-JCVISYN3_0046;Dbxref=NCBI_GP:AMW76310.1;Name=AMW76310.1;gbkey=CDS;locus_tag=JCVISYN3_0046;product=RecR: Recombination protein;protein_id=AMW76310.1;transl_table=4
+CP014940.1	Genbank	gene	42003	44009	.	-	.	ID=gene-JCVISYN3_0047;Name=JCVISYN3_0047;gbkey=Gene;locus_tag=JCVISYN3_0047
+CP014940.1	Genbank	CDS	42003	44009	.	-	0	ID=cds-AMW76311.1;Parent=gene-JCVISYN3_0047;Dbxref=NCBI_GP:AMW76311.1;Name=AMW76311.1;gbkey=CDS;locus_tag=JCVISYN3_0047;product=DNA polymerase III%2C subunit gamma and tau;protein_id=AMW76311.1;transl_table=4
+CP014940.1	Genbank	gene	44177	44275	.	-	.	ID=gene-JCVISYN3_0049;Name=JCVISYN3_0049;gbkey=Gene;locus_tag=JCVISYN3_0049
+CP014940.1	Genbank	SRP_RNA	44177	44275	.	-	.	ID=rna-JCVISYN3_0049;Parent=gene-JCVISYN3_0049;gbkey=ncRNA;locus_tag=JCVISYN3_0049;product=srpB: signal recognition particle RNA.
+CP014940.1	Genbank	exon	44177	44275	.	-	.	ID=exon-JCVISYN3_0049-1;Parent=rna-JCVISYN3_0049;gbkey=ncRNA;locus_tag=JCVISYN3_0049;product=srpB: signal recognition particle RNA.
+CP014940.1	Genbank	gene	45293	45742	.	-	.	ID=gene-JCVISYN3_0054;Name=JCVISYN3_0054;gbkey=Gene;locus_tag=JCVISYN3_0054
+CP014940.1	Genbank	CDS	45293	45742	.	-	0	ID=cds-AMW76312.1;Parent=gene-JCVISYN3_0054;Dbxref=NCBI_GP:AMW76312.1;Name=AMW76312.1;gbkey=CDS;locus_tag=JCVISYN3_0054;product=Putative redoxin;protein_id=AMW76312.1;transl_table=4
+CP014940.1	Genbank	gene	46274	47098	.	+	.	ID=gene-JCVISYN3_0060;Name=JCVISYN3_0060;gbkey=Gene;locus_tag=JCVISYN3_0060
+CP014940.1	Genbank	CDS	46274	47098	.	+	0	ID=cds-AMW76313.1;Parent=gene-JCVISYN3_0060;Dbxref=NCBI_GP:AMW76313.1;Name=AMW76313.1;gbkey=CDS;locus_tag=JCVISYN3_0060;product=membrane protein%2C putative;protein_id=AMW76313.1;transl_table=4
+CP014940.1	Genbank	gene	47181	48449	.	+	.	ID=gene-JCVISYN3_0061;Name=JCVISYN3_0061;gbkey=Gene;locus_tag=JCVISYN3_0061
+CP014940.1	Genbank	CDS	47181	48449	.	+	0	ID=cds-AMW76314.1;Parent=gene-JCVISYN3_0061;Dbxref=NCBI_GP:AMW76314.1;Name=AMW76314.1;gbkey=CDS;locus_tag=JCVISYN3_0061;product=SerRS: Seryl-tRNA synthetase;protein_id=AMW76314.1;transl_table=4
+CP014940.1	Genbank	gene	48559	49533	.	+	.	ID=gene-JCVISYN3_0063;Name=JCVISYN3_0063;gbkey=Gene;locus_tag=JCVISYN3_0063
+CP014940.1	Genbank	CDS	48559	49533	.	+	0	ID=cds-AMW76315.1;Parent=gene-JCVISYN3_0063;Dbxref=NCBI_GP:AMW76315.1;Name=AMW76315.1;gbkey=CDS;locus_tag=JCVISYN3_0063;product=putative tRNA-dihydrouridine synthase B;protein_id=AMW76315.1;transl_table=4
+CP014940.1	Genbank	gene	49536	51038	.	+	.	ID=gene-JCVISYN3_0064;Name=JCVISYN3_0064;gbkey=Gene;locus_tag=JCVISYN3_0064
+CP014940.1	Genbank	CDS	49536	51038	.	+	0	ID=cds-AMW76316.1;Parent=gene-JCVISYN3_0064;Dbxref=NCBI_GP:AMW76316.1;Name=AMW76316.1;gbkey=CDS;locus_tag=JCVISYN3_0064;product=LysRS: Lysyl-tRNA synthetase;protein_id=AMW76316.1;transl_table=4
+CP014940.1	Genbank	gene	51128	51436	.	-	.	ID=gene-JCVISYN3_0065;Name=JCVISYN3_0065;gbkey=Gene;locus_tag=JCVISYN3_0065
+CP014940.1	Genbank	CDS	51128	51436	.	-	0	ID=cds-AMW76317.1;Parent=gene-JCVISYN3_0065;Dbxref=NCBI_GP:AMW76317.1;Name=AMW76317.1;gbkey=CDS;locus_tag=JCVISYN3_0065;product=TrxA: thioredoxin;protein_id=AMW76317.1;transl_table=4
+CP014940.1	Genbank	gene	51447	52289	.	-	.	ID=gene-JCVISYN3_0066;Name=JCVISYN3_0066;gbkey=Gene;locus_tag=JCVISYN3_0066
+CP014940.1	Genbank	CDS	51447	52289	.	-	0	ID=cds-AMW76318.1;Parent=gene-JCVISYN3_0066;Dbxref=NCBI_GP:AMW76318.1;Name=AMW76318.1;gbkey=CDS;locus_tag=JCVISYN3_0066;product=Cof-like hydrolase;protein_id=AMW76318.1;transl_table=4
+CP014940.1	Genbank	gene	52410	52518	.	-	.	ID=gene-JCVISYN3_0067;Name=JCVISYN3_0067;gbkey=Gene;locus_tag=JCVISYN3_0067
+CP014940.1	Genbank	rRNA	52410	52518	.	-	.	ID=rna-JCVISYN3_0067;Parent=gene-JCVISYN3_0067;gbkey=rRNA;locus_tag=JCVISYN3_0067;product=5S ribosomal RNA
+CP014940.1	Genbank	exon	52410	52518	.	-	.	ID=exon-JCVISYN3_0067-1;Parent=rna-JCVISYN3_0067;gbkey=rRNA;locus_tag=JCVISYN3_0067;product=5S ribosomal RNA
+CP014940.1	Genbank	gene	52593	55487	.	-	.	ID=gene-JCVISYN3_0068;Name=JCVISYN3_0068;gbkey=Gene;locus_tag=JCVISYN3_0068
+CP014940.1	Genbank	rRNA	52593	55487	.	-	.	ID=rna-JCVISYN3_0068;Parent=gene-JCVISYN3_0068;gbkey=rRNA;locus_tag=JCVISYN3_0068;product=23S ribosomal RNA
+CP014940.1	Genbank	exon	52593	55487	.	-	.	ID=exon-JCVISYN3_0068-1;Parent=rna-JCVISYN3_0068;gbkey=rRNA;locus_tag=JCVISYN3_0068;product=23S ribosomal RNA
+CP014940.1	Genbank	gene	55719	57242	.	-	.	ID=gene-JCVISYN3_0069;Name=JCVISYN3_0069;gbkey=Gene;locus_tag=JCVISYN3_0069
+CP014940.1	Genbank	rRNA	55719	57242	.	-	.	ID=rna-JCVISYN3_0069;Parent=gene-JCVISYN3_0069;gbkey=rRNA;locus_tag=JCVISYN3_0069;product=16S ribosomal RNA
+CP014940.1	Genbank	exon	55719	57242	.	-	.	ID=exon-JCVISYN3_0069-1;Parent=rna-JCVISYN3_0069;gbkey=rRNA;locus_tag=JCVISYN3_0069;product=16S ribosomal RNA
+CP014940.1	Genbank	gene	57525	57608	.	-	.	ID=gene-JCVISYN3_0070;Name=JCVISYN3_0070;gbkey=Gene;locus_tag=JCVISYN3_0070
+CP014940.1	Genbank	tRNA	57525	57608	.	-	.	ID=rna-JCVISYN3_0070;Parent=gene-JCVISYN3_0070;gbkey=tRNA;locus_tag=JCVISYN3_0070;product=tRNA-Leu
+CP014940.1	Genbank	exon	57525	57608	.	-	.	ID=exon-JCVISYN3_0070-1;Parent=rna-JCVISYN3_0070;gbkey=tRNA;locus_tag=JCVISYN3_0070;product=tRNA-Leu
+CP014940.1	Genbank	gene	57611	57686	.	-	.	ID=gene-JCVISYN3_0071;Name=JCVISYN3_0071;gbkey=Gene;locus_tag=JCVISYN3_0071
+CP014940.1	Genbank	tRNA	57611	57686	.	-	.	ID=rna-JCVISYN3_0071;Parent=gene-JCVISYN3_0071;gbkey=tRNA;locus_tag=JCVISYN3_0071;product=tRNA-Lys
+CP014940.1	Genbank	exon	57611	57686	.	-	.	ID=exon-JCVISYN3_0071-1;Parent=rna-JCVISYN3_0071;gbkey=tRNA;locus_tag=JCVISYN3_0071;product=tRNA-Lys
+CP014940.1	Genbank	gene	58156	59520	.	-	.	ID=gene-JCVISYN3_0076;Name=JCVISYN3_0076;gbkey=Gene;locus_tag=JCVISYN3_0076
+CP014940.1	Genbank	CDS	58156	59520	.	-	0	ID=cds-AMW76319.1;Parent=gene-JCVISYN3_0076;Dbxref=NCBI_GP:AMW76319.1;Name=AMW76319.1;gbkey=CDS;locus_tag=JCVISYN3_0076;product=AsnRS: Asparaginyl-tRNA synthetase;protein_id=AMW76319.1;transl_table=4
+CP014940.1	Genbank	gene	59529	60368	.	-	.	ID=gene-JCVISYN3_0077;Name=JCVISYN3_0077;gbkey=Gene;locus_tag=JCVISYN3_0077
+CP014940.1	Genbank	CDS	59529	60368	.	-	0	ID=cds-AMW76320.1;Parent=gene-JCVISYN3_0077;Dbxref=NCBI_GP:AMW76320.1;Name=AMW76320.1;gbkey=CDS;locus_tag=JCVISYN3_0077;product=Cof-like hydrolase;protein_id=AMW76320.1;transl_table=4
+CP014940.1	Genbank	gene	60404	61360	.	-	.	ID=gene-JCVISYN3_0079;Name=JCVISYN3_0079;gbkey=Gene;locus_tag=JCVISYN3_0079
+CP014940.1	Genbank	CDS	60404	61360	.	-	0	ID=cds-AMW76321.1;Parent=gene-JCVISYN3_0079;Dbxref=NCBI_GP:AMW76321.1;Name=AMW76321.1;gbkey=CDS;locus_tag=JCVISYN3_0079;product=TsaD: tRNA(NNU) t(6)A37 threonylcarbamoyladenosine modification;protein_id=AMW76321.1;transl_table=4
+CP014940.1	Genbank	gene	61455	61676	.	-	.	ID=gene-JCVISYN3_0080;Name=JCVISYN3_0080;gbkey=Gene;locus_tag=JCVISYN3_0080
+CP014940.1	Genbank	CDS	61455	61676	.	-	0	ID=cds-AMW76322.1;Parent=gene-JCVISYN3_0080;Dbxref=NCBI_GP:AMW76322.1;Name=AMW76322.1;gbkey=CDS;locus_tag=JCVISYN3_0080;product=PF09954 family protein;protein_id=AMW76322.1;transl_table=4
+CP014940.1	Genbank	gene	61876	63234	.	+	.	ID=gene-JCVISYN3_0081;Name=JCVISYN3_0081;gbkey=Gene;locus_tag=JCVISYN3_0081
+CP014940.1	Genbank	CDS	61876	63234	.	+	0	ID=cds-AMW76323.1;Parent=gene-JCVISYN3_0081;Dbxref=NCBI_GP:AMW76323.1;Name=AMW76323.1;gbkey=CDS;locus_tag=JCVISYN3_0081;product=mnmE_trmE_thdF: tRNA modification GTPase TrmE;protein_id=AMW76323.1;transl_table=4
+CP014940.1	Genbank	gene	63285	63530	.	-	.	ID=gene-JCVISYN3_0082;Name=JCVISYN3_0082;gbkey=Gene;locus_tag=JCVISYN3_0082
+CP014940.1	Genbank	CDS	63285	63530	.	-	0	ID=cds-AMW76324.1;Parent=gene-JCVISYN3_0082;Dbxref=NCBI_GP:AMW76324.1;Name=AMW76324.1;gbkey=CDS;locus_tag=JCVISYN3_0082;product=S20: ribosomal protein S20;protein_id=AMW76324.1;transl_table=4
+CP014940.1	Genbank	gene	63664	64380	.	-	.	ID=gene-JCVISYN3_0094;Name=JCVISYN3_0094;gbkey=Gene;locus_tag=JCVISYN3_0094
+CP014940.1	Genbank	CDS	63664	64380	.	-	0	ID=cds-AMW76325.1;Parent=gene-JCVISYN3_0094;Dbxref=NCBI_GP:AMW76325.1;Name=AMW76325.1;gbkey=CDS;locus_tag=JCVISYN3_0094;product=membrane protein%2C putative;protein_id=AMW76325.1;transl_table=4
+CP014940.1	Genbank	gene	64495	67329	.	-	.	ID=gene-JCVISYN3_0095;Name=JCVISYN3_0095;gbkey=Gene;locus_tag=JCVISYN3_0095
+CP014940.1	Genbank	CDS	64495	67329	.	-	0	ID=cds-AMW76326.1;Parent=gene-JCVISYN3_0095;Dbxref=NCBI_GP:AMW76326.1;Name=AMW76326.1;gbkey=CDS;locus_tag=JCVISYN3_0095;product=secA: preprotein translocase%2C SecA subunit;protein_id=AMW76326.1;transl_table=4
+CP014940.1	Genbank	gene	67494	68405	.	+	.	ID=gene-JCVISYN3_0097;Name=JCVISYN3_0097;gbkey=Gene;locus_tag=JCVISYN3_0097
+CP014940.1	Genbank	CDS	67494	68405	.	+	0	ID=cds-AMW76327.1;Parent=gene-JCVISYN3_0097;Dbxref=NCBI_GP:AMW76327.1;Name=AMW76327.1;gbkey=CDS;locus_tag=JCVISYN3_0097;product=5'-3' exonuclease%2C N-terminal resolvase-like domain protein;protein_id=AMW76327.1;transl_table=4
+CP014940.1	Genbank	gene	68809	69024	.	-	.	ID=gene-JCVISYN3_0105;Name=JCVISYN3_0105;gbkey=Gene;locus_tag=JCVISYN3_0105
+CP014940.1	Genbank	CDS	68809	69024	.	-	0	ID=cds-AMW76328.1;Parent=gene-JCVISYN3_0105;Dbxref=NCBI_GP:AMW76328.1;Name=AMW76328.1;gbkey=CDS;locus_tag=JCVISYN3_0105;product=XseB: exodeoxyribonuclease VII%2C small subunit;protein_id=AMW76328.1;transl_table=4
+CP014940.1	Genbank	gene	69014	70423	.	-	.	ID=gene-JCVISYN3_0106;Name=JCVISYN3_0106;gbkey=Gene;locus_tag=JCVISYN3_0106
+CP014940.1	Genbank	CDS	69014	70423	.	-	0	ID=cds-AMW76329.1;Parent=gene-JCVISYN3_0106;Dbxref=NCBI_GP:AMW76329.1;Name=AMW76329.1;gbkey=CDS;locus_tag=JCVISYN3_0106;product=XseA%2C exodeoxyribonuclease VII%2C large subunit;protein_id=AMW76329.1;transl_table=4
+CP014940.1	Genbank	gene	70425	70823	.	-	.	ID=gene-JCVISYN3_0107;Name=JCVISYN3_0107;gbkey=Gene;locus_tag=JCVISYN3_0107
+CP014940.1	Genbank	CDS	70425	70823	.	-	0	ID=cds-AMW76330.1;Parent=gene-JCVISYN3_0107;Dbxref=NCBI_GP:AMW76330.1;Name=AMW76330.1;gbkey=CDS;locus_tag=JCVISYN3_0107;product=NusB: transcription antitermination factor NusB;protein_id=AMW76330.1;transl_table=4
+CP014940.1	Genbank	gene	70835	71947	.	-	.	ID=gene-JCVISYN3_0108;Name=JCVISYN3_0108;gbkey=Gene;locus_tag=JCVISYN3_0108
+CP014940.1	Genbank	CDS	70835	71947	.	-	0	ID=cds-AMW76331.1;Parent=gene-JCVISYN3_0108;Dbxref=NCBI_GP:AMW76331.1;Name=AMW76331.1;gbkey=CDS;locus_tag=JCVISYN3_0108;product=lipoprotein%2C putative;protein_id=AMW76331.1;transl_table=4
+CP014940.1	Genbank	gene	71973	72842	.	-	.	ID=gene-JCVISYN3_0109;Name=JCVISYN3_0109;gbkey=Gene;locus_tag=JCVISYN3_0109
+CP014940.1	Genbank	CDS	71973	72842	.	-	0	ID=cds-AMW76332.1;Parent=gene-JCVISYN3_0109;Dbxref=NCBI_GP:AMW76332.1;Name=AMW76332.1;gbkey=CDS;locus_tag=JCVISYN3_0109;product=Putative apurinic endonuclease;protein_id=AMW76332.1;transl_table=4
+CP014940.1	Genbank	gene	73193	74437	.	+	.	ID=gene-JCVISYN3_0113;Name=JCVISYN3_0113;gbkey=Gene;locus_tag=JCVISYN3_0113
+CP014940.1	Genbank	CDS	73193	74437	.	+	0	ID=cds-AMW76333.1;Parent=gene-JCVISYN3_0113;Dbxref=NCBI_GP:AMW76333.1;Name=AMW76333.1;gbkey=CDS;locus_tag=JCVISYN3_0113;product=glycosyltransferase%2C group 2 family protein;protein_id=AMW76333.1;transl_table=4
+CP014940.1	Genbank	gene	74511	75431	.	-	.	ID=gene-JCVISYN3_0114;Name=JCVISYN3_0114;gbkey=Gene;locus_tag=JCVISYN3_0114
+CP014940.1	Genbank	CDS	74511	75431	.	-	0	ID=cds-AMW76334.1;Parent=gene-JCVISYN3_0114;Dbxref=NCBI_GP:AMW76334.1;Name=AMW76334.1;gbkey=CDS;locus_tag=JCVISYN3_0114;product=glycosyltransferase%2C group 2 family protein;protein_id=AMW76334.1;transl_table=4
+CP014940.1	Genbank	gene	75879	76751	.	-	.	ID=gene-JCVISYN3_0115;Name=JCVISYN3_0115;gbkey=Gene;locus_tag=JCVISYN3_0115
+CP014940.1	Genbank	CDS	75879	76751	.	-	0	ID=cds-AMW76335.1;Parent=gene-JCVISYN3_0115;Dbxref=NCBI_GP:AMW76335.1;Name=AMW76335.1;gbkey=CDS;locus_tag=JCVISYN3_0115;product=galU: UTP--glucose-1-phosphate uridylyltransferase;protein_id=AMW76335.1;transl_table=4
+CP014940.1	Genbank	gene	76936	77376	.	-	.	ID=gene-JCVISYN3_0116;Name=JCVISYN3_0116;gbkey=Gene;locus_tag=JCVISYN3_0116
+CP014940.1	Genbank	CDS	76936	77376	.	-	0	ID=cds-AMW76336.1;Parent=gene-JCVISYN3_0116;Dbxref=NCBI_GP:AMW76336.1;Name=AMW76336.1;gbkey=CDS;locus_tag=JCVISYN3_0116;product=hypothetical protein;protein_id=AMW76336.1;transl_table=4
+CP014940.1	Genbank	gene	77446	78207	.	+	.	ID=gene-JCVISYN3_0117;Name=JCVISYN3_0117;gbkey=Gene;locus_tag=JCVISYN3_0117
+CP014940.1	Genbank	CDS	77446	78207	.	+	0	ID=cds-AMW76337.1;Parent=gene-JCVISYN3_0117;Dbxref=NCBI_GP:AMW76337.1;Name=AMW76337.1;gbkey=CDS;locus_tag=JCVISYN3_0117;product=plsY: glycerol-3-phosphate acyltransferase;protein_id=AMW76337.1;transl_table=4
+CP014940.1	Genbank	gene	78403	79854	.	+	.	ID=gene-JCVISYN3_0126;Name=JCVISYN3_0126;gbkey=Gene;locus_tag=JCVISYN3_0126
+CP014940.1	Genbank	CDS	78403	79854	.	+	0	ID=cds-AMW76338.1;Parent=gene-JCVISYN3_0126;Dbxref=NCBI_GP:AMW76338.1;Name=AMW76338.1;gbkey=CDS;locus_tag=JCVISYN3_0126;product=GluRS: Glutamyl-tRNA synthetase;protein_id=AMW76338.1;transl_table=4
+CP014940.1	Genbank	gene	79857	81071	.	+	.	ID=gene-JCVISYN3_0127;Name=JCVISYN3_0127;gbkey=Gene;locus_tag=JCVISYN3_0127
+CP014940.1	Genbank	CDS	79857	81071	.	+	0	ID=cds-AMW76339.1;Parent=gene-JCVISYN3_0127;Dbxref=NCBI_GP:AMW76339.1;Name=AMW76339.1;gbkey=CDS;locus_tag=JCVISYN3_0127;product=HD domain protein;protein_id=AMW76339.1;transl_table=4
+CP014940.1	Genbank	gene	81097	81525	.	+	.	ID=gene-JCVISYN3_0128;Name=JCVISYN3_0128;gbkey=Gene;locus_tag=JCVISYN3_0128
+CP014940.1	Genbank	CDS	81097	81525	.	+	0	ID=cds-AMW76340.1;Parent=gene-JCVISYN3_0128;Dbxref=NCBI_GP:AMW76340.1;Name=AMW76340.1;gbkey=CDS;locus_tag=JCVISYN3_0128;product=RNA polymerase delta subunit;protein_id=AMW76340.1;transl_table=4
+CP014940.1	Genbank	gene	81617	83215	.	+	.	ID=gene-JCVISYN3_0129;Name=JCVISYN3_0129;gbkey=Gene;locus_tag=JCVISYN3_0129
+CP014940.1	Genbank	CDS	81617	83215	.	+	0	ID=cds-AMW76341.1;Parent=gene-JCVISYN3_0129;Dbxref=NCBI_GP:AMW76341.1;Name=AMW76341.1;gbkey=CDS;locus_tag=JCVISYN3_0129;product=PyrG: CTP synthase;protein_id=AMW76341.1;transl_table=4
+CP014940.1	Genbank	gene	83504	84397	.	+	.	ID=gene-JCVISYN3_0131;Name=JCVISYN3_0131;gbkey=Gene;locus_tag=JCVISYN3_0131
+CP014940.1	Genbank	CDS	83504	84397	.	+	0	ID=cds-AMW76342.1;Parent=gene-JCVISYN3_0131;Dbxref=NCBI_GP:AMW76342.1;Name=AMW76342.1;gbkey=CDS;locus_tag=JCVISYN3_0131;product=fruc_bis_ald_: fructose-1%2C6-bisphosphate aldolase%2C class II;protein_id=AMW76342.1;transl_table=4
+CP014940.1	Genbank	gene	84546	85607	.	+	.	ID=gene-JCVISYN3_0132;Name=JCVISYN3_0132;gbkey=Gene;locus_tag=JCVISYN3_0132
+CP014940.1	Genbank	CDS	84546	85607	.	+	0	ID=cds-AMW76343.1;Parent=gene-JCVISYN3_0132;Dbxref=NCBI_GP:AMW76343.1;Name=AMW76343.1;gbkey=CDS;locus_tag=JCVISYN3_0132;product=ATPase%2C AAA family;protein_id=AMW76343.1;transl_table=4
+CP014940.1	Genbank	gene	85600	87873	.	+	.	ID=gene-JCVISYN3_0133;Name=JCVISYN3_0133;gbkey=Gene;locus_tag=JCVISYN3_0133
+CP014940.1	Genbank	CDS	85600	87873	.	+	0	ID=cds-AMW76344.1;Parent=gene-JCVISYN3_0133;Dbxref=NCBI_GP:AMW76344.1;Name=AMW76344.1;gbkey=CDS;locus_tag=JCVISYN3_0133;product=peptidase%2C S8/S53 family;protein_id=AMW76344.1;transl_table=4
+CP014940.1	Genbank	gene	88734	89012	.	+	.	ID=gene-JCVISYN3_0137;Name=JCVISYN3_0137;gbkey=Gene;locus_tag=JCVISYN3_0137
+CP014940.1	Genbank	CDS	88734	89012	.	+	0	ID=cds-AMW76345.1;Parent=gene-JCVISYN3_0137;Dbxref=NCBI_GP:AMW76345.1;Name=AMW76345.1;gbkey=CDS;locus_tag=JCVISYN3_0137;product=L31: ribosomal protein L31;protein_id=AMW76345.1;transl_table=4
+CP014940.1	Genbank	gene	89085	90983	.	+	.	ID=gene-JCVISYN3_0138;Name=JCVISYN3_0138;gbkey=Gene;locus_tag=JCVISYN3_0138
+CP014940.1	Genbank	CDS	89085	90983	.	+	0	ID=cds-AMW76346.1;Parent=gene-JCVISYN3_0138;Dbxref=NCBI_GP:AMW76346.1;Name=AMW76346.1;gbkey=CDS;locus_tag=JCVISYN3_0138;product=hypothetical protein;protein_id=AMW76346.1;transl_table=4
+CP014940.1	Genbank	gene	90993	91943	.	+	.	ID=gene-JCVISYN3_0139;Name=JCVISYN3_0139;gbkey=Gene;locus_tag=JCVISYN3_0139
+CP014940.1	Genbank	CDS	90993	91943	.	+	0	ID=cds-AMW76347.1;Parent=gene-JCVISYN3_0139;Dbxref=NCBI_GP:AMW76347.1;Name=AMW76347.1;gbkey=CDS;locus_tag=JCVISYN3_0139;product=DHHA1 domain protein;protein_id=AMW76347.1;transl_table=4
+CP014940.1	Genbank	gene	91945	92574	.	+	.	ID=gene-JCVISYN3_0140;Name=JCVISYN3_0140;gbkey=Gene;locus_tag=JCVISYN3_0140
+CP014940.1	Genbank	CDS	91945	92574	.	+	0	ID=cds-AMW76348.1;Parent=gene-JCVISYN3_0140;Dbxref=NCBI_GP:AMW76348.1;Name=AMW76348.1;gbkey=CDS;locus_tag=JCVISYN3_0140;product=tdk: deoxythymidine kinase;protein_id=AMW76348.1;transl_table=4
+CP014940.1	Genbank	gene	92577	93671	.	+	.	ID=gene-JCVISYN3_0141;Name=JCVISYN3_0141;gbkey=Gene;locus_tag=JCVISYN3_0141
+CP014940.1	Genbank	CDS	92577	93671	.	+	0	ID=cds-AMW76349.1;Parent=gene-JCVISYN3_0141;Dbxref=NCBI_GP:AMW76349.1;Name=AMW76349.1;gbkey=CDS;locus_tag=JCVISYN3_0141;product=PrfA: peptide chain release factor 1;protein_id=AMW76349.1;transl_table=4
+CP014940.1	Genbank	gene	93664	94512	.	+	.	ID=gene-JCVISYN3_0142;Name=JCVISYN3_0142;gbkey=Gene;locus_tag=JCVISYN3_0142
+CP014940.1	Genbank	CDS	93664	94512	.	+	0	ID=cds-AMW76350.1;Parent=gene-JCVISYN3_0142;Dbxref=NCBI_GP:AMW76350.1;Name=AMW76350.1;gbkey=CDS;locus_tag=JCVISYN3_0142;product=PrmC: Release factor glutamine methyltransferase;protein_id=AMW76350.1;transl_table=4
+CP014940.1	Genbank	gene	94521	95993	.	+	.	ID=gene-JCVISYN3_0143;Name=JCVISYN3_0143;gbkey=Gene;locus_tag=JCVISYN3_0143
+CP014940.1	Genbank	CDS	94521	95993	.	+	0	ID=cds-AMW76351.1;Parent=gene-JCVISYN3_0143;Dbxref=NCBI_GP:AMW76351.1;Name=AMW76351.1;gbkey=CDS;locus_tag=JCVISYN3_0143;product=membrane protein%2C putative;protein_id=AMW76351.1;transl_table=4
+CP014940.1	Genbank	gene	96002	96502	.	+	.	ID=gene-JCVISYN3_0144;Name=JCVISYN3_0144;gbkey=Gene;locus_tag=JCVISYN3_0144
+CP014940.1	Genbank	CDS	96002	96502	.	+	0	ID=cds-AMW76352.1;Parent=gene-JCVISYN3_0144;Dbxref=NCBI_GP:AMW76352.1;Name=AMW76352.1;gbkey=CDS;locus_tag=JCVISYN3_0144;product=tsaC: tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification;protein_id=AMW76352.1;transl_table=4
+CP014940.1	Genbank	gene	96617	97531	.	+	.	ID=gene-JCVISYN3_0145;Name=JCVISYN3_0145;gbkey=Gene;locus_tag=JCVISYN3_0145
+CP014940.1	Genbank	CDS	96617	97531	.	+	0	ID=cds-AMW76353.1;Parent=gene-JCVISYN3_0145;Dbxref=NCBI_GP:AMW76353.1;Name=AMW76353.1;gbkey=CDS;locus_tag=JCVISYN3_0145;product=Acetyltransferase%2C GNAT family;protein_id=AMW76353.1;transl_table=4
+CP014940.1	Genbank	gene	97760	98467	.	+	.	ID=gene-JCVISYN3_0146;Name=JCVISYN3_0146;gbkey=Gene;locus_tag=JCVISYN3_0146
+CP014940.1	Genbank	CDS	97760	98467	.	+	0	ID=cds-AMW76354.1;Parent=gene-JCVISYN3_0146;Dbxref=NCBI_GP:AMW76354.1;Name=AMW76354.1;gbkey=CDS;locus_tag=JCVISYN3_0146;product=hypothetical protein;protein_id=AMW76354.1;transl_table=4
+CP014940.1	Genbank	gene	98467	99996	.	+	.	ID=gene-JCVISYN3_0147;Name=JCVISYN3_0147;gbkey=Gene;locus_tag=JCVISYN3_0147
+CP014940.1	Genbank	CDS	98467	99996	.	+	0	ID=cds-AMW76355.1;Parent=gene-JCVISYN3_0147;Dbxref=NCBI_GP:AMW76355.1;Name=AMW76355.1;gbkey=CDS;locus_tag=JCVISYN3_0147;product=bac_cardiolipin: cardiolipin synthase;protein_id=AMW76355.1;transl_table=4
+CP014940.1	Genbank	gene	100120	100539	.	+	.	ID=gene-JCVISYN3_0148;Name=JCVISYN3_0148;gbkey=Gene;locus_tag=JCVISYN3_0148
+CP014940.1	Genbank	CDS	100120	100539	.	+	0	ID=cds-AMW76356.1;Parent=gene-JCVISYN3_0148;Dbxref=NCBI_GP:AMW76356.1;Name=AMW76356.1;gbkey=CDS;locus_tag=JCVISYN3_0148;product=S12: ribosomal protein S12;protein_id=AMW76356.1;transl_table=4
+CP014940.1	Genbank	gene	100626	101093	.	+	.	ID=gene-JCVISYN3_0149;Name=JCVISYN3_0149;gbkey=Gene;locus_tag=JCVISYN3_0149
+CP014940.1	Genbank	CDS	100626	101093	.	+	0	ID=cds-AMW76357.1;Parent=gene-JCVISYN3_0149;Dbxref=NCBI_GP:AMW76357.1;Name=AMW76357.1;gbkey=CDS;locus_tag=JCVISYN3_0149;product=S7: ribosomal protein S7;protein_id=AMW76357.1;transl_table=4
+CP014940.1	Genbank	gene	101118	103187	.	+	.	ID=gene-JCVISYN3_0150;Name=JCVISYN3_0150;gbkey=Gene;locus_tag=JCVISYN3_0150
+CP014940.1	Genbank	CDS	101118	103187	.	+	0	ID=cds-AMW76358.1;Parent=gene-JCVISYN3_0150;Dbxref=NCBI_GP:AMW76358.1;Name=AMW76358.1;gbkey=CDS;locus_tag=JCVISYN3_0150;product=EF-G: translation elongation factor G;protein_id=AMW76358.1;transl_table=4
+CP014940.1	Genbank	gene	103319	104506	.	+	.	ID=gene-JCVISYN3_0151;Name=JCVISYN3_0151;gbkey=Gene;locus_tag=JCVISYN3_0151
+CP014940.1	Genbank	CDS	103319	104506	.	+	0	ID=cds-AMW76359.1;Parent=gene-JCVISYN3_0151;Dbxref=NCBI_GP:AMW76359.1;Name=AMW76359.1;gbkey=CDS;locus_tag=JCVISYN3_0151;product=EF-Tu: translation elongation factor Tu;protein_id=AMW76359.1;transl_table=4
+CP014940.1	Genbank	gene	104783	105193	.	+	.	ID=gene-JCVISYN3_0158;Name=JCVISYN3_0158;gbkey=Gene;locus_tag=JCVISYN3_0158
+CP014940.1	Genbank	tmRNA	104783	105193	.	+	.	ID=rna-JCVISYN3_0158;Parent=gene-JCVISYN3_0158;gbkey=tmRNA;locus_tag=JCVISYN3_0158;product=ssrA: Transfer-messenger RNA.
+CP014940.1	Genbank	exon	104783	105193	.	+	.	ID=exon-JCVISYN3_0158-1;Parent=rna-JCVISYN3_0158;gbkey=tmRNA;locus_tag=JCVISYN3_0158;product=ssrA: Transfer-messenger RNA.
+CP014940.1	Genbank	gene	105432	108122	.	-	.	ID=gene-JCVISYN3_0163;Name=JCVISYN3_0163;gbkey=Gene;locus_tag=JCVISYN3_0163
+CP014940.1	Genbank	CDS	105432	108122	.	-	0	ID=cds-AMW76360.1;Parent=gene-JCVISYN3_0163;Dbxref=NCBI_GP:AMW76360.1;Name=AMW76360.1;gbkey=CDS;locus_tag=JCVISYN3_0163;product=AlaRS: Alanyl-tRNA synthetase;protein_id=AMW76360.1;transl_table=4
+CP014940.1	Genbank	gene	108196	108690	.	-	.	ID=gene-JCVISYN3_0164;Name=JCVISYN3_0164;gbkey=Gene;locus_tag=JCVISYN3_0164
+CP014940.1	Genbank	CDS	108196	108690	.	-	0	ID=cds-AMW76361.1;Parent=gene-JCVISYN3_0164;Dbxref=NCBI_GP:AMW76361.1;Name=AMW76361.1;gbkey=CDS;locus_tag=JCVISYN3_0164;product=hypothetical protein;protein_id=AMW76361.1;transl_table=4
+CP014940.1	Genbank	gene	108908	110152	.	+	.	ID=gene-JCVISYN3_0165;Name=JCVISYN3_0165;gbkey=Gene;locus_tag=JCVISYN3_0165
+CP014940.1	Genbank	CDS	108908	110152	.	+	0	ID=cds-AMW76362.1;Parent=gene-JCVISYN3_0165;Dbxref=NCBI_GP:AMW76362.1;Name=AMW76362.1;gbkey=CDS;locus_tag=JCVISYN3_0165;product=Putative AmiC;protein_id=AMW76362.1;transl_table=4
+CP014940.1	Genbank	gene	110168	111178	.	+	.	ID=gene-JCVISYN3_0166;Name=JCVISYN3_0166;gbkey=Gene;locus_tag=JCVISYN3_0166
+CP014940.1	Genbank	CDS	110168	111178	.	+	0	ID=cds-AMW76363.1;Parent=gene-JCVISYN3_0166;Dbxref=NCBI_GP:AMW76363.1;Name=AMW76363.1;gbkey=CDS;locus_tag=JCVISYN3_0166;product=Putative AmiD;protein_id=AMW76363.1;transl_table=4
+CP014940.1	Genbank	gene	111192	112892	.	+	.	ID=gene-JCVISYN3_0167;Name=JCVISYN3_0167;gbkey=Gene;locus_tag=JCVISYN3_0167
+CP014940.1	Genbank	CDS	111192	112892	.	+	0	ID=cds-AMW76364.1;Parent=gene-JCVISYN3_0167;Dbxref=NCBI_GP:AMW76364.1;Name=AMW76364.1;gbkey=CDS;locus_tag=JCVISYN3_0167;product=Putative AmiE;protein_id=AMW76364.1;transl_table=4
+CP014940.1	Genbank	gene	112894	114762	.	+	.	ID=gene-JCVISYN3_0168;Name=JCVISYN3_0168;gbkey=Gene;locus_tag=JCVISYN3_0168
+CP014940.1	Genbank	CDS	112894	114762	.	+	0	ID=cds-AMW76365.1;Parent=gene-JCVISYN3_0168;Dbxref=NCBI_GP:AMW76365.1;Name=AMW76365.1;gbkey=CDS;locus_tag=JCVISYN3_0168;product=Putative AmiF;protein_id=AMW76365.1;transl_table=4
+CP014940.1	Genbank	gene	114779	117880	.	+	.	ID=gene-JCVISYN3_0169;Name=JCVISYN3_0169;gbkey=Gene;locus_tag=JCVISYN3_0169
+CP014940.1	Genbank	CDS	114779	117880	.	+	0	ID=cds-AMW76366.1;Parent=gene-JCVISYN3_0169;Dbxref=NCBI_GP:AMW76366.1;Name=AMW76366.1;gbkey=CDS;locus_tag=JCVISYN3_0169;product=Putative AmiA;protein_id=AMW76366.1;transl_table=4
+CP014940.1	Genbank	gene	118739	121849	.	-	.	ID=gene-JCVISYN3_0195;Name=JCVISYN3_0195;gbkey=Gene;locus_tag=JCVISYN3_0195
+CP014940.1	Genbank	CDS	118739	121849	.	-	0	ID=cds-AMW76367.1;Parent=gene-JCVISYN3_0195;Dbxref=NCBI_GP:AMW76367.1;Name=AMW76367.1;gbkey=CDS;locus_tag=JCVISYN3_0195;product=Putative potCD or potHI;protein_id=AMW76367.1;transl_table=4
+CP014940.1	Genbank	gene	121834	122826	.	-	.	ID=gene-JCVISYN3_0196;Name=JCVISYN3_0196;gbkey=Gene;locus_tag=JCVISYN3_0196
+CP014940.1	Genbank	CDS	121834	122826	.	-	0	ID=cds-AMW76368.1;Parent=gene-JCVISYN3_0196;Dbxref=NCBI_GP:AMW76368.1;Name=AMW76368.1;gbkey=CDS;locus_tag=JCVISYN3_0196;product=Putative potB or potG;protein_id=AMW76368.1;transl_table=4
+CP014940.1	Genbank	gene	122826	123881	.	-	.	ID=gene-JCVISYN3_0197;Name=JCVISYN3_0197;gbkey=Gene;locus_tag=JCVISYN3_0197
+CP014940.1	Genbank	CDS	122826	123881	.	-	0	ID=cds-AMW76369.1;Parent=gene-JCVISYN3_0197;Dbxref=NCBI_GP:AMW76369.1;Name=AMW76369.1;gbkey=CDS;locus_tag=JCVISYN3_0197;product=Putative potA or potF;protein_id=AMW76369.1;transl_table=4
+CP014940.1	Genbank	gene	124255	124614	.	-	.	ID=gene-JCVISYN3_0198;Name=JCVISYN3_0198;gbkey=Gene;locus_tag=JCVISYN3_0198
+CP014940.1	Genbank	CDS	124255	124614	.	-	0	ID=cds-AMW76370.1;Parent=gene-JCVISYN3_0198;Dbxref=NCBI_GP:AMW76370.1;Name=AMW76370.1;gbkey=CDS;locus_tag=JCVISYN3_0198;product=L20: ribosomal protein L20;protein_id=AMW76370.1;transl_table=4
+CP014940.1	Genbank	gene	124633	124824	.	-	.	ID=gene-JCVISYN3_0199;Name=JCVISYN3_0199;gbkey=Gene;locus_tag=JCVISYN3_0199
+CP014940.1	Genbank	CDS	124633	124824	.	-	0	ID=cds-AMW76371.1;Parent=gene-JCVISYN3_0199;Dbxref=NCBI_GP:AMW76371.1;Name=AMW76371.1;gbkey=CDS;locus_tag=JCVISYN3_0199;product=L35: ribosomal protein L35;protein_id=AMW76371.1;transl_table=4
+CP014940.1	Genbank	gene	124850	125395	.	-	.	ID=gene-JCVISYN3_0200;Name=JCVISYN3_0200;gbkey=Gene;locus_tag=JCVISYN3_0200
+CP014940.1	Genbank	CDS	124850	125395	.	-	0	ID=cds-AMW76372.1;Parent=gene-JCVISYN3_0200;Dbxref=NCBI_GP:AMW76372.1;Name=AMW76372.1;gbkey=CDS;locus_tag=JCVISYN3_0200;product=infC: translation initiation factor IF-3;protein_id=AMW76372.1;transl_table=4
+CP014940.1	Genbank	gene	125584	126186	.	-	.	ID=gene-JCVISYN3_0201;Name=JCVISYN3_0201;gbkey=Gene;locus_tag=JCVISYN3_0201
+CP014940.1	Genbank	CDS	125584	126186	.	-	0	ID=cds-AMW76373.1;Parent=gene-JCVISYN3_0201;Dbxref=NCBI_GP:AMW76373.1;Name=AMW76373.1;gbkey=CDS;locus_tag=JCVISYN3_0201;product=pept_deformyl: peptide deformylase;protein_id=AMW76373.1;transl_table=4
+CP014940.1	Genbank	gene	126260	126817	.	+	.	ID=gene-JCVISYN3_0202;Name=JCVISYN3_0202;gbkey=Gene;locus_tag=JCVISYN3_0202
+CP014940.1	Genbank	CDS	126260	126817	.	+	0	ID=cds-AMW76374.1;Parent=gene-JCVISYN3_0202;Dbxref=NCBI_GP:AMW76374.1;Name=AMW76374.1;gbkey=CDS;locus_tag=JCVISYN3_0202;product=RsmD: 16S rRNA (guanine(966)-N(2))-methyltransferase;protein_id=AMW76374.1;transl_table=4
+CP014940.1	Genbank	gene	126820	127713	.	+	.	ID=gene-JCVISYN3_0203;Name=JCVISYN3_0203;gbkey=Gene;locus_tag=JCVISYN3_0203
+CP014940.1	Genbank	CDS	126820	127713	.	+	0	ID=cds-AMW76375.1;Parent=gene-JCVISYN3_0203;Dbxref=NCBI_GP:AMW76375.1;Name=AMW76375.1;gbkey=CDS;locus_tag=JCVISYN3_0203;product=guanyl_kin: guanylate kinase;protein_id=AMW76375.1;transl_table=4
+CP014940.1	Genbank	gene	127921	129276	.	+	.	ID=gene-JCVISYN3_0213;Name=JCVISYN3_0213;gbkey=Gene;locus_tag=JCVISYN3_0213
+CP014940.1	Genbank	CDS	127921	129276	.	+	0	ID=cds-AMW76376.1;Parent=gene-JCVISYN3_0213;Dbxref=NCBI_GP:AMW76376.1;Name=AMW76376.1;gbkey=CDS;locus_tag=JCVISYN3_0213;product=eno: phosphopyruvate hydratase;protein_id=AMW76376.1;transl_table=4
+CP014940.1	Genbank	gene	129343	130164	.	+	.	ID=gene-JCVISYN3_0214;Name=JCVISYN3_0214;gbkey=Gene;locus_tag=JCVISYN3_0214
+CP014940.1	Genbank	CDS	129343	130164	.	+	0	ID=cds-AMW76377.1;Parent=gene-JCVISYN3_0214;Dbxref=NCBI_GP:AMW76377.1;Name=AMW76377.1;gbkey=CDS;locus_tag=JCVISYN3_0214;product=phosphatidylglycerophosphatase;protein_id=AMW76377.1;transl_table=4
+CP014940.1	Genbank	gene	130166	130597	.	+	.	ID=gene-JCVISYN3_0215;Name=JCVISYN3_0215;gbkey=Gene;locus_tag=JCVISYN3_0215
+CP014940.1	Genbank	CDS	130166	130597	.	+	0	ID=cds-AMW76378.1;Parent=gene-JCVISYN3_0215;Dbxref=NCBI_GP:AMW76378.1;Name=AMW76378.1;gbkey=CDS;locus_tag=JCVISYN3_0215;product=RNAse H domain protein%2C YqgF family;protein_id=AMW76378.1;transl_table=4
+CP014940.1	Genbank	gene	130603	131175	.	+	.	ID=gene-JCVISYN3_0216;Name=JCVISYN3_0216;gbkey=Gene;locus_tag=JCVISYN3_0216
+CP014940.1	Genbank	CDS	130603	131175	.	+	0	ID=cds-AMW76379.1;Parent=gene-JCVISYN3_0216;Dbxref=NCBI_GP:AMW76379.1;Name=AMW76379.1;gbkey=CDS;locus_tag=JCVISYN3_0216;product=HGPRTase: hypoxanthine phosphoribosyltransferase;protein_id=AMW76379.1;transl_table=4
+CP014940.1	Genbank	gene	131275	132792	.	-	.	ID=gene-JCVISYN3_0218;Name=JCVISYN3_0218;gbkey=Gene;locus_tag=JCVISYN3_0218
+CP014940.1	Genbank	CDS	131275	132792	.	-	0	ID=cds-AMW76380.1;Parent=gene-JCVISYN3_0218;Dbxref=NCBI_GP:AMW76380.1;Name=AMW76380.1;gbkey=CDS;locus_tag=JCVISYN3_0218;product=glycerol_kin: glycerol kinase;protein_id=AMW76380.1;transl_table=4
+CP014940.1	Genbank	gene	133143	134123	.	+	.	ID=gene-JCVISYN3_0220;Name=JCVISYN3_0220;gbkey=Gene;locus_tag=JCVISYN3_0220
+CP014940.1	Genbank	CDS	133143	134123	.	+	0	ID=cds-AMW76381.1;Parent=gene-JCVISYN3_0220;Dbxref=NCBI_GP:AMW76381.1;Name=AMW76381.1;gbkey=CDS;locus_tag=JCVISYN3_0220;product=PFKA_ATP: 6-phosphofructokinase;protein_id=AMW76381.1;transl_table=4
+CP014940.1	Genbank	gene	134194	135630	.	+	.	ID=gene-JCVISYN3_0221;Name=JCVISYN3_0221;gbkey=Gene;locus_tag=JCVISYN3_0221
+CP014940.1	Genbank	CDS	134194	135630	.	+	0	ID=cds-AMW76382.1;Parent=gene-JCVISYN3_0221;Dbxref=NCBI_GP:AMW76382.1;Name=AMW76382.1;gbkey=CDS;locus_tag=JCVISYN3_0221;product=pyruv_kin: pyruvate kinase;protein_id=AMW76382.1;transl_table=4
+CP014940.1	Genbank	gene	135895	137814	.	+	.	ID=gene-JCVISYN3_0222;Name=JCVISYN3_0222;gbkey=Gene;locus_tag=JCVISYN3_0222
+CP014940.1	Genbank	CDS	135895	137814	.	+	0	ID=cds-AMW76383.1;Parent=gene-JCVISYN3_0222;Dbxref=NCBI_GP:AMW76383.1;Name=AMW76383.1;gbkey=CDS;locus_tag=JCVISYN3_0222;product=ThrRS: Threonyl-tRNA synthetase;protein_id=AMW76383.1;transl_table=4
+CP014940.1	Genbank	gene	138325	139650	.	+	.	ID=gene-JCVISYN3_0227;Name=JCVISYN3_0227;gbkey=Gene;locus_tag=JCVISYN3_0227
+CP014940.1	Genbank	CDS	138325	139650	.	+	0	ID=cds-AMW76384.1;Parent=gene-JCVISYN3_0227;Dbxref=NCBI_GP:AMW76384.1;Name=AMW76384.1;gbkey=CDS;locus_tag=JCVISYN3_0227;product=PdhC: pyruvate dehydrogenase (dihydrolipoamide acetyltransferase E2 subunit);protein_id=AMW76384.1;transl_table=4
+CP014940.1	Genbank	gene	139669	141558	.	+	.	ID=gene-JCVISYN3_0228;Name=JCVISYN3_0228;gbkey=Gene;locus_tag=JCVISYN3_0228
+CP014940.1	Genbank	CDS	139669	141558	.	+	0	ID=cds-AMW76385.1;Parent=gene-JCVISYN3_0228;Dbxref=NCBI_GP:AMW76385.1;Name=AMW76385.1;gbkey=CDS;locus_tag=JCVISYN3_0228;product=PdhD: lipoamide_DH: dihydrolipoyl dehydrogenase;protein_id=AMW76385.1;transl_table=4
+CP014940.1	Genbank	gene	141580	142548	.	+	.	ID=gene-JCVISYN3_0229;Name=JCVISYN3_0229;gbkey=Gene;locus_tag=JCVISYN3_0229
+CP014940.1	Genbank	CDS	141580	142548	.	+	0	ID=cds-AMW76386.1;Parent=gene-JCVISYN3_0229;Dbxref=NCBI_GP:AMW76386.1;Name=AMW76386.1;gbkey=CDS;locus_tag=JCVISYN3_0229;product=pta: phosphate acetyltransferase;protein_id=AMW76386.1;transl_table=4
+CP014940.1	Genbank	gene	142561	143742	.	+	.	ID=gene-JCVISYN3_0230;Name=JCVISYN3_0230;gbkey=Gene;locus_tag=JCVISYN3_0230
+CP014940.1	Genbank	CDS	142561	143742	.	+	0	ID=cds-AMW76387.1;Parent=gene-JCVISYN3_0230;Dbxref=NCBI_GP:AMW76387.1;Name=AMW76387.1;gbkey=CDS;locus_tag=JCVISYN3_0230;product=AckA: acetate kinase;protein_id=AMW76387.1;transl_table=4
+CP014940.1	Genbank	gene	143904	145625	.	+	.	ID=gene-JCVISYN3_0233;Name=JCVISYN3_0233;gbkey=Gene;locus_tag=JCVISYN3_0233
+CP014940.1	Genbank	CDS	143904	145625	.	+	0	ID=cds-AMW76388.1;Parent=gene-JCVISYN3_0233;Dbxref=NCBI_GP:AMW76388.1;Name=AMW76388.1;gbkey=CDS;locus_tag=JCVISYN3_0233;product=PtsI: phosphoenolpyruvate-protein phosphotransferase;protein_id=AMW76388.1;transl_table=4
+CP014940.1	Genbank	gene	145707	146171	.	+	.	ID=gene-JCVISYN3_0234;Name=JCVISYN3_0234;gbkey=Gene;locus_tag=JCVISYN3_0234
+CP014940.1	Genbank	CDS	145707	146171	.	+	0	ID=cds-AMW76389.1;Parent=gene-JCVISYN3_0234;Dbxref=NCBI_GP:AMW76389.1;Name=AMW76389.1;gbkey=CDS;locus_tag=JCVISYN3_0234;product=crr: glucose-specific phosphotransferase enzyme IIA component;protein_id=AMW76389.1;transl_table=4
+CP014940.1	Genbank	gene	146172	146462	.	+	.	ID=gene-JCVISYN3_0235;Name=JCVISYN3_0235;gbkey=Gene;locus_tag=JCVISYN3_0235
+CP014940.1	Genbank	CDS	146172	146462	.	+	0	ID=cds-AMW76390.1;Parent=gene-JCVISYN3_0235;Dbxref=NCBI_GP:AMW76390.1;Name=AMW76390.1;gbkey=CDS;locus_tag=JCVISYN3_0235;product=hypothetical protein;protein_id=AMW76390.1;transl_table=4
+CP014940.1	Genbank	gene	146579	147205	.	-	.	ID=gene-JCVISYN3_0238;Name=JCVISYN3_0238;gbkey=Gene;locus_tag=JCVISYN3_0238
+CP014940.1	Genbank	CDS	146579	147205	.	-	0	ID=cds-AMW76391.1;Parent=gene-JCVISYN3_0238;Dbxref=NCBI_GP:AMW76391.1;Name=AMW76391.1;gbkey=CDS;locus_tag=JCVISYN3_0238;product=S4: ribosomal protein S4;protein_id=AMW76391.1;transl_table=4
+CP014940.1	Genbank	gene	147460	149247	.	+	.	ID=gene-JCVISYN3_0239;Name=JCVISYN3_0239;gbkey=Gene;locus_tag=JCVISYN3_0239
+CP014940.1	Genbank	CDS	147460	149247	.	+	0	ID=cds-AMW76392.1;Parent=gene-JCVISYN3_0239;Dbxref=NCBI_GP:AMW76392.1;Name=AMW76392.1;gbkey=CDS;locus_tag=JCVISYN3_0239;product=hypothetical protein;protein_id=AMW76392.1;transl_table=4
+CP014940.1	Genbank	gene	149255	150442	.	+	.	ID=gene-JCVISYN3_0240;Name=JCVISYN3_0240;gbkey=Gene;locus_tag=JCVISYN3_0240
+CP014940.1	Genbank	CDS	149255	150442	.	+	0	ID=cds-AMW76393.1;Parent=gene-JCVISYN3_0240;Dbxref=NCBI_GP:AMW76393.1;Name=AMW76393.1;gbkey=CDS;locus_tag=JCVISYN3_0240;product=ThiI: Probable tRNA sulfurtransferase%2C ThiS sulfurtransferase;protein_id=AMW76393.1;transl_table=4
+CP014940.1	Genbank	gene	150615	151205	.	-	.	ID=gene-JCVISYN3_0247;Name=JCVISYN3_0247;gbkey=Gene;locus_tag=JCVISYN3_0247
+CP014940.1	Genbank	CDS	150615	151205	.	-	0	ID=cds-AMW76394.1;Parent=gene-JCVISYN3_0247;Dbxref=NCBI_GP:AMW76394.1;Name=AMW76394.1;gbkey=CDS;locus_tag=JCVISYN3_0247;product=GTPase_YsxC: ribosome biogenesis GTP-binding protein YsxC;protein_id=AMW76394.1;transl_table=4
+CP014940.1	Genbank	gene	151199	151759	.	-	.	ID=gene-JCVISYN3_0248;Name=JCVISYN3_0248;gbkey=Gene;locus_tag=JCVISYN3_0248
+CP014940.1	Genbank	CDS	151199	151759	.	-	0	ID=cds-AMW76395.1;Parent=gene-JCVISYN3_0248;Dbxref=NCBI_GP:AMW76395.1;Name=AMW76395.1;gbkey=CDS;locus_tag=JCVISYN3_0248;product=hypothetical protein;protein_id=AMW76395.1;transl_table=4
+CP014940.1	Genbank	gene	151761	152339	.	-	.	ID=gene-JCVISYN3_0249;Name=JCVISYN3_0249;gbkey=Gene;locus_tag=JCVISYN3_0249
+CP014940.1	Genbank	CDS	151761	152339	.	-	0	ID=cds-AMW76396.1;Parent=gene-JCVISYN3_0249;Dbxref=NCBI_GP:AMW76396.1;Name=AMW76396.1;gbkey=CDS;locus_tag=JCVISYN3_0249;product=hypothetical protein;protein_id=AMW76396.1;transl_table=4
+CP014940.1	Genbank	gene	152342	153031	.	-	.	ID=gene-JCVISYN3_0250;Name=JCVISYN3_0250;gbkey=Gene;locus_tag=JCVISYN3_0250
+CP014940.1	Genbank	CDS	152342	153031	.	-	0	ID=cds-AMW76397.1;Parent=gene-JCVISYN3_0250;Dbxref=NCBI_GP:AMW76397.1;Name=AMW76397.1;gbkey=CDS;locus_tag=JCVISYN3_0250;product=hypothetical protein;protein_id=AMW76397.1;transl_table=4
+CP014940.1	Genbank	gene	153157	153630	.	-	.	ID=gene-JCVISYN3_0253;Name=JCVISYN3_0253;gbkey=Gene;locus_tag=JCVISYN3_0253
+CP014940.1	Genbank	CDS	153157	153630	.	-	0	ID=cds-AMW76398.1;Parent=gene-JCVISYN3_0253;Dbxref=NCBI_GP:AMW76398.1;Name=AMW76398.1;gbkey=CDS;locus_tag=JCVISYN3_0253;product=GreA: Transcription elongation factor;protein_id=AMW76398.1;transl_table=4
+CP014940.1	Genbank	gene	153753	155507	.	-	.	ID=gene-JCVISYN3_0254;Name=JCVISYN3_0254;gbkey=Gene;locus_tag=JCVISYN3_0254
+CP014940.1	Genbank	CDS	153753	155507	.	-	0	ID=cds-AMW76399.1;Parent=gene-JCVISYN3_0254;Dbxref=NCBI_GP:AMW76399.1;Name=AMW76399.1;gbkey=CDS;locus_tag=JCVISYN3_0254;product=uvrC: excinuclease ABC subunit C;protein_id=AMW76399.1;transl_table=4
+CP014940.1	Genbank	gene	155629	157380	.	-	.	ID=gene-JCVISYN3_0257;Name=JCVISYN3_0257;gbkey=Gene;locus_tag=JCVISYN3_0257
+CP014940.1	Genbank	CDS	155629	157380	.	-	0	ID=cds-AMW76400.1;Parent=gene-JCVISYN3_0257;Dbxref=NCBI_GP:AMW76400.1;Name=AMW76400.1;gbkey=CDS;locus_tag=JCVISYN3_0257;product=RnjB: Ribonuclease J2;protein_id=AMW76400.1;transl_table=4
+CP014940.1	Genbank	gene	157517	158314	.	-	.	ID=gene-JCVISYN3_0259;Name=JCVISYN3_0259;gbkey=Gene;locus_tag=JCVISYN3_0259
+CP014940.1	Genbank	CDS	157517	158314	.	-	0	ID=cds-AMW76401.1;Parent=gene-JCVISYN3_0259;Dbxref=NCBI_GP:AMW76401.1;Name=AMW76401.1;gbkey=CDS;locus_tag=JCVISYN3_0259;product=NadK: NAD kinase;protein_id=AMW76401.1;transl_table=4
+CP014940.1	Genbank	gene	158425	161043	.	-	.	ID=gene-JCVISYN3_0260;Name=JCVISYN3_0260;gbkey=Gene;locus_tag=JCVISYN3_0260
+CP014940.1	Genbank	CDS	158425	161043	.	-	0	ID=cds-AMW76402.1;Parent=gene-JCVISYN3_0260;Dbxref=NCBI_GP:AMW76402.1;Name=AMW76402.1;gbkey=CDS;locus_tag=JCVISYN3_0260;product=ValRS: Valyl-tRNA synthetase;protein_id=AMW76402.1;transl_table=4
+CP014940.1	Genbank	gene	161215	161892	.	-	.	ID=gene-JCVISYN3_0262;Name=JCVISYN3_0262;gbkey=Gene;locus_tag=JCVISYN3_0262
+CP014940.1	Genbank	CDS	161215	161892	.	-	0	ID=cds-AMW76403.1;Parent=gene-JCVISYN3_0262;Dbxref=NCBI_GP:AMW76403.1;Name=AMW76403.1;gbkey=CDS;locus_tag=JCVISYN3_0262;product=ribulose-phosphate 3-epimerase;protein_id=AMW76403.1;transl_table=4
+CP014940.1	Genbank	gene	161894	162796	.	-	.	ID=gene-JCVISYN3_0263;Name=JCVISYN3_0263;gbkey=Gene;locus_tag=JCVISYN3_0263
+CP014940.1	Genbank	CDS	161894	162796	.	-	0	ID=cds-AMW76404.1;Parent=gene-JCVISYN3_0263;Dbxref=NCBI_GP:AMW76404.1;Name=AMW76404.1;gbkey=CDS;locus_tag=JCVISYN3_0263;product=RsgA: ribosome small subunit-dependent GTPase A;protein_id=AMW76404.1;transl_table=4
+CP014940.1	Genbank	gene	162806	163921	.	-	.	ID=gene-JCVISYN3_0264;Name=JCVISYN3_0264;gbkey=Gene;locus_tag=JCVISYN3_0264
+CP014940.1	Genbank	CDS	162806	163921	.	-	0	ID=cds-AMW76405.1;Parent=gene-JCVISYN3_0264;Dbxref=NCBI_GP:AMW76405.1;Name=AMW76405.1;gbkey=CDS;locus_tag=JCVISYN3_0264;product=kinase domain protein;protein_id=AMW76405.1;transl_table=4
+CP014940.1	Genbank	gene	164056	164472	.	+	.	ID=gene-JCVISYN3_0270;Name=JCVISYN3_0270;gbkey=Gene;locus_tag=JCVISYN3_0270
+CP014940.1	Genbank	CDS	164056	164472	.	+	0	ID=cds-AMW76406.1;Parent=gene-JCVISYN3_0270;Dbxref=NCBI_GP:AMW76406.1;Name=AMW76406.1;gbkey=CDS;locus_tag=JCVISYN3_0270;product=YjeE: tRNA threonylcarbamoyl adenosine modification protein;protein_id=AMW76406.1;transl_table=4
+CP014940.1	Genbank	gene	164474	165037	.	+	.	ID=gene-JCVISYN3_0271;Name=JCVISYN3_0271;gbkey=Gene;locus_tag=JCVISYN3_0271
+CP014940.1	Genbank	CDS	164474	165037	.	+	0	ID=cds-AMW76407.1;Parent=gene-JCVISYN3_0271;Dbxref=NCBI_GP:AMW76407.1;Name=AMW76407.1;gbkey=CDS;locus_tag=JCVISYN3_0271;product=YeaZ: tRNA threonylcarbamoyl adenosine modification protein;protein_id=AMW76407.1;transl_table=4
+CP014940.1	Genbank	gene	165578	165667	.	+	.	ID=gene-JCVISYN3_0280;Name=JCVISYN3_0280;gbkey=Gene;locus_tag=JCVISYN3_0280
+CP014940.1	Genbank	tRNA	165578	165667	.	+	.	ID=rna-JCVISYN3_0280;Parent=gene-JCVISYN3_0280;gbkey=tRNA;locus_tag=JCVISYN3_0280;product=tRNA-Ser
+CP014940.1	Genbank	exon	165578	165667	.	+	.	ID=exon-JCVISYN3_0280-1;Parent=rna-JCVISYN3_0280;gbkey=tRNA;locus_tag=JCVISYN3_0280;product=tRNA-Ser
+CP014940.1	Genbank	gene	165787	166467	.	+	.	ID=gene-JCVISYN3_0281;Name=JCVISYN3_0281;gbkey=Gene;locus_tag=JCVISYN3_0281
+CP014940.1	Genbank	CDS	165787	166467	.	+	0	ID=cds-AMW76408.1;Parent=gene-JCVISYN3_0281;Dbxref=NCBI_GP:AMW76408.1;Name=AMW76408.1;gbkey=CDS;locus_tag=JCVISYN3_0281;product=hypothetical protein;protein_id=AMW76408.1;transl_table=4
+CP014940.1	Genbank	gene	166448	167872	.	+	.	ID=gene-JCVISYN3_0282;Name=JCVISYN3_0282;gbkey=Gene;locus_tag=JCVISYN3_0282
+CP014940.1	Genbank	CDS	166448	167872	.	+	0	ID=cds-AMW76409.1;Parent=gene-JCVISYN3_0282;Dbxref=NCBI_GP:AMW76409.1;Name=AMW76409.1;gbkey=CDS;locus_tag=JCVISYN3_0282;product=ProRS: Prolyl-tRNA synthetase;protein_id=AMW76409.1;transl_table=4
+CP014940.1	Genbank	gene	167885	168502	.	+	.	ID=gene-JCVISYN3_0283;Name=JCVISYN3_0283;gbkey=Gene;locus_tag=JCVISYN3_0283
+CP014940.1	Genbank	CDS	167885	168502	.	+	0	ID=cds-AMW76410.1;Parent=gene-JCVISYN3_0283;Dbxref=NCBI_GP:AMW76410.1;Name=AMW76410.1;gbkey=CDS;locus_tag=JCVISYN3_0283;product=caulimovirus viroplasmin / ribonuclease HI multi-domain protein;protein_id=AMW76410.1;transl_table=4
+CP014940.1	Genbank	gene	168527	170329	.	+	.	ID=gene-JCVISYN3_0285;Name=JCVISYN3_0285;gbkey=Gene;locus_tag=JCVISYN3_0285
+CP014940.1	Genbank	CDS	168527	170329	.	+	0	ID=cds-AMW76411.1;Parent=gene-JCVISYN3_0285;Dbxref=NCBI_GP:AMW76411.1;Name=AMW76411.1;gbkey=CDS;locus_tag=JCVISYN3_0285;product=lepA: elongation factor 4;protein_id=AMW76411.1;transl_table=4
+CP014940.1	Genbank	gene	170355	171161	.	+	.	ID=gene-JCVISYN3_0286;Name=JCVISYN3_0286;gbkey=Gene;locus_tag=JCVISYN3_0286
+CP014940.1	Genbank	CDS	170355	171161	.	+	0	ID=cds-AMW76412.1;Parent=gene-JCVISYN3_0286;Dbxref=NCBI_GP:AMW76412.1;Name=AMW76412.1;gbkey=CDS;locus_tag=JCVISYN3_0286;product=hypothetical protein;protein_id=AMW76412.1;transl_table=4
+CP014940.1	Genbank	gene	171178	172902	.	-	.	ID=gene-JCVISYN3_0287;Name=JCVISYN3_0287;gbkey=Gene;locus_tag=JCVISYN3_0287
+CP014940.1	Genbank	CDS	171178	172902	.	-	0	ID=cds-AMW76413.1;Parent=gene-JCVISYN3_0287;Dbxref=NCBI_GP:AMW76413.1;Name=AMW76413.1;gbkey=CDS;locus_tag=JCVISYN3_0287;product=AspRS: Aspartyl-tRNA synthetase;protein_id=AMW76413.1;transl_table=4
+CP014940.1	Genbank	gene	172911	174155	.	-	.	ID=gene-JCVISYN3_0288;Name=JCVISYN3_0288;gbkey=Gene;locus_tag=JCVISYN3_0288
+CP014940.1	Genbank	CDS	172911	174155	.	-	0	ID=cds-AMW76414.1;Parent=gene-JCVISYN3_0288;Dbxref=NCBI_GP:AMW76414.1;Name=AMW76414.1;gbkey=CDS;locus_tag=JCVISYN3_0288;product=HisRS: Histidyl-tRNA synthetase;protein_id=AMW76414.1;transl_table=4
+CP014940.1	Genbank	gene	174340	174693	.	+	.	ID=gene-JCVISYN3_0289;Name=JCVISYN3_0289;gbkey=Gene;locus_tag=JCVISYN3_0289
+CP014940.1	Genbank	CDS	174340	174693	.	+	0	ID=cds-AMW76415.1;Parent=gene-JCVISYN3_0289;Dbxref=NCBI_GP:AMW76415.1;Name=AMW76415.1;gbkey=CDS;locus_tag=JCVISYN3_0289;product=RbfA: ribosome-binding factor A;protein_id=AMW76415.1;transl_table=4
+CP014940.1	Genbank	gene	174743	175621	.	+	.	ID=gene-JCVISYN3_0290;Name=JCVISYN3_0290;gbkey=Gene;locus_tag=JCVISYN3_0290
+CP014940.1	Genbank	CDS	174743	175621	.	+	0	ID=cds-AMW76416.1;Parent=gene-JCVISYN3_0290;Dbxref=NCBI_GP:AMW76416.1;Name=AMW76416.1;gbkey=CDS;locus_tag=JCVISYN3_0290;product=TruB: tRNA pseudouridine(55) synthase;protein_id=AMW76416.1;transl_table=4
+CP014940.1	Genbank	gene	175608	176162	.	+	.	ID=gene-JCVISYN3_0291;Name=JCVISYN3_0291;gbkey=Gene;locus_tag=JCVISYN3_0291
+CP014940.1	Genbank	CDS	175608	176162	.	+	0	ID=cds-AMW76417.1;Parent=gene-JCVISYN3_0291;Dbxref=NCBI_GP:AMW76417.1;Name=AMW76417.1;gbkey=CDS;locus_tag=JCVISYN3_0291;product=RibF: bifunctional riboflavin kinase / FMN adenylyltransferase;protein_id=AMW76417.1;transl_table=4
+CP014940.1	Genbank	gene	176397	176663	.	+	.	ID=gene-JCVISYN3_0294;Name=JCVISYN3_0294;gbkey=Gene;locus_tag=JCVISYN3_0294
+CP014940.1	Genbank	CDS	176397	176663	.	+	0	ID=cds-AMW76418.1;Parent=gene-JCVISYN3_0294;Dbxref=NCBI_GP:AMW76418.1;Name=AMW76418.1;gbkey=CDS;locus_tag=JCVISYN3_0294;product=S15: ribosomal protein S15;protein_id=AMW76418.1;transl_table=4
+CP014940.1	Genbank	gene	176723	176796	.	+	.	ID=gene-JCVISYN3_0295;Name=JCVISYN3_0295;gbkey=Gene;locus_tag=JCVISYN3_0295
+CP014940.1	Genbank	tRNA	176723	176796	.	+	.	ID=rna-JCVISYN3_0295;Parent=gene-JCVISYN3_0295;gbkey=tRNA;locus_tag=JCVISYN3_0295;product=tRNA-Gly
+CP014940.1	Genbank	exon	176723	176796	.	+	.	ID=exon-JCVISYN3_0295-1;Parent=rna-JCVISYN3_0295;gbkey=tRNA;locus_tag=JCVISYN3_0295;product=tRNA-Gly
+CP014940.1	Genbank	gene	176894	177538	.	+	.	ID=gene-JCVISYN3_0296;Name=JCVISYN3_0296;gbkey=Gene;locus_tag=JCVISYN3_0296
+CP014940.1	Genbank	CDS	176894	177538	.	+	0	ID=cds-AMW76419.1;Parent=gene-JCVISYN3_0296;Dbxref=NCBI_GP:AMW76419.1;Name=AMW76419.1;gbkey=CDS;locus_tag=JCVISYN3_0296;product=hypothetical protein;protein_id=AMW76419.1;transl_table=4
+CP014940.1	Genbank	gene	177557	179419	.	-	.	ID=gene-JCVISYN3_0297;Name=JCVISYN3_0297;gbkey=Gene;locus_tag=JCVISYN3_0297
+CP014940.1	Genbank	CDS	177557	179419	.	-	0	ID=cds-AMW76420.1;Parent=gene-JCVISYN3_0297;Dbxref=NCBI_GP:AMW76420.1;Name=AMW76420.1;gbkey=CDS;locus_tag=JCVISYN3_0297;product=IF-2: translation initiation factor IF-2;protein_id=AMW76420.1;transl_table=4
+CP014940.1	Genbank	gene	179441	179740	.	-	.	ID=gene-JCVISYN3_0298;Name=JCVISYN3_0298;gbkey=Gene;locus_tag=JCVISYN3_0298
+CP014940.1	Genbank	CDS	179441	179740	.	-	0	ID=cds-AMW76421.1;Parent=gene-JCVISYN3_0298;Dbxref=NCBI_GP:AMW76421.1;Name=AMW76421.1;gbkey=CDS;locus_tag=JCVISYN3_0298;product=hypothetical protein;protein_id=AMW76421.1;transl_table=4
+CP014940.1	Genbank	gene	179727	180008	.	-	.	ID=gene-JCVISYN3_0299;Name=JCVISYN3_0299;gbkey=Gene;locus_tag=JCVISYN3_0299
+CP014940.1	Genbank	CDS	179727	180008	.	-	0	ID=cds-AMW76422.1;Parent=gene-JCVISYN3_0299;Dbxref=NCBI_GP:AMW76422.1;Name=AMW76422.1;gbkey=CDS;locus_tag=JCVISYN3_0299;product=PF04296 family protein;protein_id=AMW76422.1;transl_table=4
+CP014940.1	Genbank	gene	179989	181743	.	-	.	ID=gene-JCVISYN3_0300;Name=JCVISYN3_0300;gbkey=Gene;locus_tag=JCVISYN3_0300
+CP014940.1	Genbank	CDS	179989	181743	.	-	0	ID=cds-AMW76423.1;Parent=gene-JCVISYN3_0300;Dbxref=NCBI_GP:AMW76423.1;Name=AMW76423.1;gbkey=CDS;locus_tag=JCVISYN3_0300;product=NusA: Transcription termination/antitermination protein;protein_id=AMW76423.1;transl_table=4
+CP014940.1	Genbank	gene	181752	182246	.	-	.	ID=gene-JCVISYN3_0301;Name=JCVISYN3_0301;gbkey=Gene;locus_tag=JCVISYN3_0301
+CP014940.1	Genbank	CDS	181752	182246	.	-	0	ID=cds-AMW76424.1;Parent=gene-JCVISYN3_0301;Dbxref=NCBI_GP:AMW76424.1;Name=AMW76424.1;gbkey=CDS;locus_tag=JCVISYN3_0301;product=RimP: Ribosome maturation factor;protein_id=AMW76424.1;transl_table=4
+CP014940.1	Genbank	gene	182359	183009	.	-	.	ID=gene-JCVISYN3_0302;Name=JCVISYN3_0302;gbkey=Gene;locus_tag=JCVISYN3_0302
+CP014940.1	Genbank	CDS	182359	183009	.	-	0	ID=cds-AMW76425.1;Parent=gene-JCVISYN3_0302;Dbxref=NCBI_GP:AMW76425.1;Name=AMW76425.1;gbkey=CDS;locus_tag=JCVISYN3_0302;product=hypothetical protein;protein_id=AMW76425.1;transl_table=4
+CP014940.1	Genbank	gene	183022	187470	.	-	.	ID=gene-JCVISYN3_0303;Name=JCVISYN3_0303;gbkey=Gene;locus_tag=JCVISYN3_0303
+CP014940.1	Genbank	CDS	183022	187470	.	-	0	ID=cds-AMW76426.1;Parent=gene-JCVISYN3_0303;Dbxref=NCBI_GP:AMW76426.1;Name=AMW76426.1;gbkey=CDS;locus_tag=JCVISYN3_0303;product=DNA polymerase III%2C alpha subunit%2C Gram-positive type;protein_id=AMW76426.1;transl_table=4
+CP014940.1	Genbank	gene	187479	188507	.	-	.	ID=gene-JCVISYN3_0304;Name=JCVISYN3_0304;gbkey=Gene;locus_tag=JCVISYN3_0304
+CP014940.1	Genbank	CDS	187479	188507	.	-	0	ID=cds-AMW76427.1;Parent=gene-JCVISYN3_0304;Dbxref=NCBI_GP:AMW76427.1;Name=AMW76427.1;gbkey=CDS;locus_tag=JCVISYN3_0304;product=CdsA: Phosphatidate cytidylyltransferase;protein_id=AMW76427.1;transl_table=4
+CP014940.1	Genbank	gene	188706	189782	.	-	.	ID=gene-JCVISYN3_0305;Name=JCVISYN3_0305;gbkey=Gene;locus_tag=JCVISYN3_0305
+CP014940.1	Genbank	CDS	188706	189782	.	-	0	ID=cds-AMW76428.1;Parent=gene-JCVISYN3_0305;Dbxref=NCBI_GP:AMW76428.1;Name=AMW76428.1;gbkey=CDS;locus_tag=JCVISYN3_0305;product=metallopeptidase family M24;protein_id=AMW76428.1;transl_table=4
+CP014940.1	Genbank	gene	190227	191237	.	+	.	ID=gene-JCVISYN3_0308;Name=JCVISYN3_0308;gbkey=Gene;locus_tag=JCVISYN3_0308
+CP014940.1	Genbank	CDS	190227	191237	.	+	0	ID=cds-AMW76429.1;Parent=gene-JCVISYN3_0308;Dbxref=NCBI_GP:AMW76429.1;Name=AMW76429.1;gbkey=CDS;locus_tag=JCVISYN3_0308;product=TrpRS: Tryptophanyl-tRNA synthetase;protein_id=AMW76429.1;transl_table=4
+CP014940.1	Genbank	gene	191373	192107	.	+	.	ID=gene-JCVISYN3_0314;Name=JCVISYN3_0314;gbkey=Gene;locus_tag=JCVISYN3_0314
+CP014940.1	Genbank	CDS	191373	192107	.	+	0	ID=cds-AMW76430.1;Parent=gene-JCVISYN3_0314;Dbxref=NCBI_GP:AMW76430.1;Name=AMW76430.1;gbkey=CDS;locus_tag=JCVISYN3_0314;product=EcfS: Energy coupling-factor transporter%2C specificity component;protein_id=AMW76430.1;transl_table=4
+CP014940.1	Genbank	gene	192229	192381	.	+	.	ID=gene-JCVISYN3_0315;Name=JCVISYN3_0315;gbkey=Gene;locus_tag=JCVISYN3_0315
+CP014940.1	Genbank	CDS	192229	192381	.	+	0	ID=cds-AMW76431.1;Parent=gene-JCVISYN3_0315;Dbxref=NCBI_GP:AMW76431.1;Name=AMW76431.1;gbkey=CDS;locus_tag=JCVISYN3_0315;product=hypothetical protein;protein_id=AMW76431.1;transl_table=4
+CP014940.1	Genbank	gene	192440	194410	.	+	.	ID=gene-JCVISYN3_0316;Name=JCVISYN3_0316;gbkey=Gene;locus_tag=JCVISYN3_0316
+CP014940.1	Genbank	CDS	192440	194410	.	+	0	ID=cds-AMW76432.1;Parent=gene-JCVISYN3_0316;Dbxref=NCBI_GP:AMW76432.1;Name=AMW76432.1;gbkey=CDS;locus_tag=JCVISYN3_0316;product=tkt: transketolase;protein_id=AMW76432.1;transl_table=4
+CP014940.1	Genbank	gene	194426	194671	.	+	.	ID=gene-JCVISYN3_0317;Name=JCVISYN3_0317;gbkey=Gene;locus_tag=JCVISYN3_0317
+CP014940.1	Genbank	CDS	194426	194671	.	+	0	ID=cds-AMW76433.1;Parent=gene-JCVISYN3_0317;Dbxref=NCBI_GP:AMW76433.1;Name=AMW76433.1;gbkey=CDS;locus_tag=JCVISYN3_0317;product=PF03672 family protein;protein_id=AMW76433.1;transl_table=4
+CP014940.1	Genbank	gene	196103	197593	.	+	.	ID=gene-JCVISYN3_0325;Name=JCVISYN3_0325;gbkey=Gene;locus_tag=JCVISYN3_0325
+CP014940.1	Genbank	CDS	196103	197593	.	+	0	ID=cds-AMW76434.1;Parent=gene-JCVISYN3_0325;Dbxref=NCBI_GP:AMW76434.1;Name=AMW76434.1;gbkey=CDS;locus_tag=JCVISYN3_0325;product=membrane protein%2C putative;protein_id=AMW76434.1;transl_table=4
+CP014940.1	Genbank	gene	197611	198372	.	+	.	ID=gene-JCVISYN3_0326;Name=JCVISYN3_0326;gbkey=Gene;locus_tag=JCVISYN3_0326
+CP014940.1	Genbank	CDS	197611	198372	.	+	0	ID=cds-AMW76435.1;Parent=gene-JCVISYN3_0326;Dbxref=NCBI_GP:AMW76435.1;Name=AMW76435.1;gbkey=CDS;locus_tag=JCVISYN3_0326;product=hypothetical protein;protein_id=AMW76435.1;transl_table=4
+CP014940.1	Genbank	gene	198382	199218	.	+	.	ID=gene-JCVISYN3_0327;Name=JCVISYN3_0327;gbkey=Gene;locus_tag=JCVISYN3_0327
+CP014940.1	Genbank	CDS	198382	199218	.	+	0	ID=cds-AMW76436.1;Parent=gene-JCVISYN3_0327;Dbxref=NCBI_GP:AMW76436.1;Name=AMW76436.1;gbkey=CDS;locus_tag=JCVISYN3_0327;product=Putative ScpA segregation and condensation protein A;protein_id=AMW76436.1;transl_table=4
+CP014940.1	Genbank	gene	199202	199831	.	+	.	ID=gene-JCVISYN3_0328;Name=JCVISYN3_0328;gbkey=Gene;locus_tag=JCVISYN3_0328
+CP014940.1	Genbank	CDS	199202	199831	.	+	0	ID=cds-AMW76437.1;Parent=gene-JCVISYN3_0328;Dbxref=NCBI_GP:AMW76437.1;Name=AMW76437.1;gbkey=CDS;locus_tag=JCVISYN3_0328;product=Putative ScpB segregation and condensation protein B;protein_id=AMW76437.1;transl_table=4
+CP014940.1	Genbank	gene	199899	200657	.	+	.	ID=gene-JCVISYN3_0329;Name=JCVISYN3_0329;gbkey=Gene;locus_tag=JCVISYN3_0329
+CP014940.1	Genbank	CDS	199899	200657	.	+	0	ID=cds-AMW76438.1;Parent=gene-JCVISYN3_0329;Dbxref=NCBI_GP:AMW76438.1;Name=AMW76438.1;gbkey=CDS;locus_tag=JCVISYN3_0329;product=Ribosomal large subunit pseudouridine synthase B;protein_id=AMW76438.1;transl_table=4
+CP014940.1	Genbank	gene	200667	201284	.	+	.	ID=gene-JCVISYN3_0330;Name=JCVISYN3_0330;gbkey=Gene;locus_tag=JCVISYN3_0330
+CP014940.1	Genbank	CDS	200667	201284	.	+	0	ID=cds-AMW76439.1;Parent=gene-JCVISYN3_0330;Dbxref=NCBI_GP:AMW76439.1;Name=AMW76439.1;gbkey=CDS;locus_tag=JCVISYN3_0330;product=dgk;protein_id=AMW76439.1;transl_table=4
+CP014940.1	Genbank	gene	201395	202222	.	+	.	ID=gene-JCVISYN3_0332;Name=JCVISYN3_0332;gbkey=Gene;locus_tag=JCVISYN3_0332
+CP014940.1	Genbank	CDS	201395	202222	.	+	0	ID=cds-AMW76440.1;Parent=gene-JCVISYN3_0332;Dbxref=NCBI_GP:AMW76440.1;Name=AMW76440.1;gbkey=CDS;locus_tag=JCVISYN3_0332;product=hypothetical protein;protein_id=AMW76440.1;transl_table=4
+CP014940.1	Genbank	gene	202895	203614	.	+	.	ID=gene-JCVISYN3_0338;Name=JCVISYN3_0338;gbkey=Gene;locus_tag=JCVISYN3_0338
+CP014940.1	Genbank	CDS	202895	203614	.	+	0	ID=cds-AMW76441.1;Parent=gene-JCVISYN3_0338;Dbxref=NCBI_GP:AMW76441.1;Name=AMW76441.1;gbkey=CDS;locus_tag=JCVISYN3_0338;product=lipoprotein%2C putative;protein_id=AMW76441.1;transl_table=4
+CP014940.1	Genbank	gene	204072	204632	.	-	.	ID=gene-JCVISYN3_0344;Name=JCVISYN3_0344;gbkey=Gene;locus_tag=JCVISYN3_0344
+CP014940.1	Genbank	CDS	204072	204632	.	-	0	ID=cds-AMW76442.1;Parent=gene-JCVISYN3_0344;Dbxref=NCBI_GP:AMW76442.1;Name=AMW76442.1;gbkey=CDS;locus_tag=JCVISYN3_0344;product=Ppase;protein_id=AMW76442.1;transl_table=4
+CP014940.1	Genbank	gene	204771	205661	.	+	.	ID=gene-JCVISYN3_0345;Name=JCVISYN3_0345;gbkey=Gene;locus_tag=JCVISYN3_0345
+CP014940.1	Genbank	CDS	204771	205661	.	+	0	ID=cds-AMW76443.1;Parent=gene-JCVISYN3_0345;Dbxref=NCBI_GP:AMW76443.1;Name=AMW76443.1;gbkey=CDS;locus_tag=JCVISYN3_0345;product=EcfS: Energy coupling-factor transporter%2C specificity component;protein_id=AMW76443.1;transl_table=4
+CP014940.1	Genbank	gene	205727	206422	.	+	.	ID=gene-JCVISYN3_0346;Name=JCVISYN3_0346;gbkey=Gene;locus_tag=JCVISYN3_0346
+CP014940.1	Genbank	CDS	205727	206422	.	+	0	ID=cds-AMW76444.1;Parent=gene-JCVISYN3_0346;Dbxref=NCBI_GP:AMW76444.1;Name=AMW76444.1;gbkey=CDS;locus_tag=JCVISYN3_0346;product=hypothetical protein;protein_id=AMW76444.1;transl_table=4
+CP014940.1	Genbank	gene	206431	207093	.	+	.	ID=gene-JCVISYN3_0347;Name=JCVISYN3_0347;gbkey=Gene;locus_tag=JCVISYN3_0347
+CP014940.1	Genbank	CDS	206431	207093	.	+	0	ID=cds-AMW76445.1;Parent=gene-JCVISYN3_0347;Dbxref=NCBI_GP:AMW76445.1;Name=AMW76445.1;gbkey=CDS;locus_tag=JCVISYN3_0347;product=cmk: cytidylate kinase;protein_id=AMW76445.1;transl_table=4
+CP014940.1	Genbank	gene	207100	208407	.	+	.	ID=gene-JCVISYN3_0348;Name=JCVISYN3_0348;gbkey=Gene;locus_tag=JCVISYN3_0348
+CP014940.1	Genbank	CDS	207100	208407	.	+	0	ID=cds-AMW76446.1;Parent=gene-JCVISYN3_0348;Dbxref=NCBI_GP:AMW76446.1;Name=AMW76446.1;gbkey=CDS;locus_tag=JCVISYN3_0348;product=GTPase_EngA: ribosome-associated GTPase EngA;protein_id=AMW76446.1;transl_table=4
+CP014940.1	Genbank	gene	208462	208734	.	+	.	ID=gene-JCVISYN3_0350;Name=JCVISYN3_0350;gbkey=Gene;locus_tag=JCVISYN3_0350
+CP014940.1	Genbank	CDS	208462	208734	.	+	0	ID=cds-AMW76447.1;Parent=gene-JCVISYN3_0350;Dbxref=NCBI_GP:AMW76447.1;Name=AMW76447.1;gbkey=CDS;locus_tag=JCVISYN3_0350;product=putative DNA-binding protein HU 1;protein_id=AMW76447.1;transl_table=4
+CP014940.1	Genbank	gene	208789	209337	.	+	.	ID=gene-JCVISYN3_0352;Name=JCVISYN3_0352;gbkey=Gene;locus_tag=JCVISYN3_0352
+CP014940.1	Genbank	CDS	208789	209337	.	+	0	ID=cds-AMW76448.1;Parent=gene-JCVISYN3_0352;Dbxref=NCBI_GP:AMW76448.1;Name=AMW76448.1;gbkey=CDS;locus_tag=JCVISYN3_0352;product=Putative DnaD;protein_id=AMW76448.1;transl_table=4
+CP014940.1	Genbank	gene	209401	209778	.	+	.	ID=gene-JCVISYN3_0353;Name=JCVISYN3_0353;gbkey=Gene;locus_tag=JCVISYN3_0353
+CP014940.1	Genbank	CDS	209401	209778	.	+	0	ID=cds-AMW76449.1;Parent=gene-JCVISYN3_0353;Dbxref=NCBI_GP:AMW76449.1;Name=AMW76449.1;gbkey=CDS;locus_tag=JCVISYN3_0353;product=hypothetical protein;protein_id=AMW76449.1;transl_table=4
+CP014940.1	Genbank	gene	210194	210538	.	+	.	ID=gene-JCVISYN3_0356;Name=JCVISYN3_0356;gbkey=Gene;locus_tag=JCVISYN3_0356
+CP014940.1	Genbank	RNase_P_RNA	210194	210538	.	+	.	ID=rna-JCVISYN3_0356;Parent=gene-JCVISYN3_0356;gbkey=ncRNA;locus_tag=JCVISYN3_0356;product=RNAse P
+CP014940.1	Genbank	exon	210194	210538	.	+	.	ID=exon-JCVISYN3_0356-1;Parent=rna-JCVISYN3_0356;gbkey=ncRNA;locus_tag=JCVISYN3_0356;product=RNAse P
+CP014940.1	Genbank	gene	210710	212239	.	+	.	ID=gene-JCVISYN3_0359;Name=JCVISYN3_0359;gbkey=Gene;locus_tag=JCVISYN3_0359
+CP014940.1	Genbank	CDS	210710	212239	.	+	0	ID=cds-AMW76450.1;Parent=gene-JCVISYN3_0359;Dbxref=NCBI_GP:AMW76450.1;Name=AMW76450.1;gbkey=CDS;locus_tag=JCVISYN3_0359;product=RNase_Y: ribonuclease Y;protein_id=AMW76450.1;transl_table=4
+CP014940.1	Genbank	gene	212273	213616	.	+	.	ID=gene-JCVISYN3_0360;Name=JCVISYN3_0360;gbkey=Gene;locus_tag=JCVISYN3_0360
+CP014940.1	Genbank	CDS	212273	213616	.	+	0	ID=cds-AMW76451.1;Parent=gene-JCVISYN3_0360;Dbxref=NCBI_GP:AMW76451.1;Name=AMW76451.1;gbkey=CDS;locus_tag=JCVISYN3_0360;product=ffh: signal recognition particle protein;protein_id=AMW76451.1;transl_table=4
+CP014940.1	Genbank	gene	213620	214087	.	+	.	ID=gene-JCVISYN3_0361;Name=JCVISYN3_0361;gbkey=Gene;locus_tag=JCVISYN3_0361
+CP014940.1	Genbank	CDS	213620	214087	.	+	0	ID=cds-AMW76452.1;Parent=gene-JCVISYN3_0361;Dbxref=NCBI_GP:AMW76452.1;Name=AMW76452.1;gbkey=CDS;locus_tag=JCVISYN3_0361;product=RlmH: Ribosomal RNA large subunit methyltransferase;protein_id=AMW76452.1;transl_table=4
+CP014940.1	Genbank	gene	214178	214456	.	+	.	ID=gene-JCVISYN3_0362;Name=JCVISYN3_0362;gbkey=Gene;locus_tag=JCVISYN3_0362
+CP014940.1	Genbank	CDS	214178	214456	.	+	0	ID=cds-AMW76453.1;Parent=gene-JCVISYN3_0362;Dbxref=NCBI_GP:AMW76453.1;Name=AMW76453.1;gbkey=CDS;locus_tag=JCVISYN3_0362;product=S16:ribosomal protein S16;protein_id=AMW76453.1;transl_table=4
+CP014940.1	Genbank	gene	214488	214982	.	+	.	ID=gene-JCVISYN3_0363;Name=JCVISYN3_0363;gbkey=Gene;locus_tag=JCVISYN3_0363
+CP014940.1	Genbank	CDS	214488	214982	.	+	0	ID=cds-AMW76454.1;Parent=gene-JCVISYN3_0363;Dbxref=NCBI_GP:AMW76454.1;Name=AMW76454.1;gbkey=CDS;locus_tag=JCVISYN3_0363;product=16S_RimM: 16S rRNA processing protein RimM;protein_id=AMW76454.1;transl_table=4
+CP014940.1	Genbank	gene	214984	215706	.	+	.	ID=gene-JCVISYN3_0364;Name=JCVISYN3_0364;gbkey=Gene;locus_tag=JCVISYN3_0364
+CP014940.1	Genbank	CDS	214984	215706	.	+	0	ID=cds-AMW76455.1;Parent=gene-JCVISYN3_0364;Dbxref=NCBI_GP:AMW76455.1;Name=AMW76455.1;gbkey=CDS;locus_tag=JCVISYN3_0364;product=TrmD: tRNA (guanine(37)-N(1))-methyltransferase;protein_id=AMW76455.1;transl_table=4
+CP014940.1	Genbank	gene	215708	216091	.	+	.	ID=gene-JCVISYN3_0365;Name=JCVISYN3_0365;gbkey=Gene;locus_tag=JCVISYN3_0365
+CP014940.1	Genbank	CDS	215708	216091	.	+	0	ID=cds-AMW76456.1;Parent=gene-JCVISYN3_0365;Dbxref=NCBI_GP:AMW76456.1;Name=AMW76456.1;gbkey=CDS;locus_tag=JCVISYN3_0365;product=L19: ribosomal protein L19;protein_id=AMW76456.1;transl_table=4
+CP014940.1	Genbank	gene	216190	217140	.	+	.	ID=gene-JCVISYN3_0366;Name=JCVISYN3_0366;gbkey=Gene;locus_tag=JCVISYN3_0366
+CP014940.1	Genbank	CDS	216190	217140	.	+	0	ID=cds-AMW76457.1;Parent=gene-JCVISYN3_0366;Dbxref=NCBI_GP:AMW76457.1;Name=AMW76457.1;gbkey=CDS;locus_tag=JCVISYN3_0366;product=YlqF: ribosome biogenesis GTP-binding protein YlqF;protein_id=AMW76457.1;transl_table=4
+CP014940.1	Genbank	gene	217521	219392	.	+	.	ID=gene-JCVISYN3_0371;Name=JCVISYN3_0371;gbkey=Gene;locus_tag=JCVISYN3_0371
+CP014940.1	Genbank	CDS	217521	219392	.	+	0	ID=cds-AMW76458.1;Parent=gene-JCVISYN3_0371;Dbxref=NCBI_GP:AMW76458.1;Name=AMW76458.1;gbkey=CDS;locus_tag=JCVISYN3_0371;product=ABC transporter%2C ATP-binding protein;protein_id=AMW76458.1;transl_table=4
+CP014940.1	Genbank	gene	219408	221261	.	+	.	ID=gene-JCVISYN3_0372;Name=JCVISYN3_0372;gbkey=Gene;locus_tag=JCVISYN3_0372
+CP014940.1	Genbank	CDS	219408	221261	.	+	0	ID=cds-AMW76459.1;Parent=gene-JCVISYN3_0372;Dbxref=NCBI_GP:AMW76459.1;Name=AMW76459.1;gbkey=CDS;locus_tag=JCVISYN3_0372;product=ABC transporter%2C ATP-binding protein;protein_id=AMW76459.1;transl_table=4
+CP014940.1	Genbank	gene	221295	222902	.	+	.	ID=gene-JCVISYN3_0373;Name=JCVISYN3_0373;gbkey=Gene;locus_tag=JCVISYN3_0373
+CP014940.1	Genbank	CDS	221295	222902	.	+	0	ID=cds-AMW76460.1;Parent=gene-JCVISYN3_0373;Dbxref=NCBI_GP:AMW76460.1;Name=AMW76460.1;gbkey=CDS;locus_tag=JCVISYN3_0373;product=hypothetical protein;protein_id=AMW76460.1;transl_table=4
+CP014940.1	Genbank	gene	222958	223034	.	+	.	ID=gene-JCVISYN3_0374;Name=JCVISYN3_0374;gbkey=Gene;locus_tag=JCVISYN3_0374
+CP014940.1	Genbank	tRNA	222958	223034	.	+	.	ID=rna-JCVISYN3_0374;Parent=gene-JCVISYN3_0374;gbkey=tRNA;locus_tag=JCVISYN3_0374;product=tRNA-Arg
+CP014940.1	Genbank	exon	222958	223034	.	+	.	ID=exon-JCVISYN3_0374-1;Parent=rna-JCVISYN3_0374;gbkey=tRNA;locus_tag=JCVISYN3_0374;product=tRNA-Arg
+CP014940.1	Genbank	gene	223088	223828	.	+	.	ID=gene-JCVISYN3_0375;Name=JCVISYN3_0375;gbkey=Gene;locus_tag=JCVISYN3_0375
+CP014940.1	Genbank	CDS	223088	223828	.	+	0	ID=cds-AMW76461.1;Parent=gene-JCVISYN3_0375;Dbxref=NCBI_GP:AMW76461.1;Name=AMW76461.1;gbkey=CDS;locus_tag=JCVISYN3_0375;product=hypothetical protein;protein_id=AMW76461.1;transl_table=4
+CP014940.1	Genbank	gene	223830	224144	.	+	.	ID=gene-JCVISYN3_0376;Name=JCVISYN3_0376;gbkey=Gene;locus_tag=JCVISYN3_0376
+CP014940.1	Genbank	CDS	223830	224144	.	+	0	ID=cds-AMW76462.1;Parent=gene-JCVISYN3_0376;Dbxref=NCBI_GP:AMW76462.1;Name=AMW76462.1;gbkey=CDS;locus_tag=JCVISYN3_0376;product=hypothetical protein;protein_id=AMW76462.1;transl_table=4
+CP014940.1	Genbank	gene	224215	225516	.	+	.	ID=gene-JCVISYN3_0377;Name=JCVISYN3_0377;gbkey=Gene;locus_tag=JCVISYN3_0377
+CP014940.1	Genbank	CDS	224215	225516	.	+	0	ID=cds-AMW76463.1;Parent=gene-JCVISYN3_0377;Dbxref=NCBI_GP:AMW76463.1;Name=AMW76463.1;gbkey=CDS;locus_tag=JCVISYN3_0377;product=Obg_CgtA: Obg family GTPase CgtA;protein_id=AMW76463.1;transl_table=4
+CP014940.1	Genbank	gene	225518	226255	.	+	.	ID=gene-JCVISYN3_0378;Name=JCVISYN3_0378;gbkey=Gene;locus_tag=JCVISYN3_0378
+CP014940.1	Genbank	CDS	225518	226255	.	+	0	ID=cds-AMW76464.1;Parent=gene-JCVISYN3_0378;Dbxref=NCBI_GP:AMW76464.1;Name=AMW76464.1;gbkey=CDS;locus_tag=JCVISYN3_0378;product=NAD+ synthetase;protein_id=AMW76464.1;transl_table=4
+CP014940.1	Genbank	gene	226272	226550	.	+	.	ID=gene-JCVISYN3_0379;Name=JCVISYN3_0379;gbkey=Gene;locus_tag=JCVISYN3_0379
+CP014940.1	Genbank	CDS	226272	226550	.	+	0	ID=cds-AMW76465.1;Parent=gene-JCVISYN3_0379;Dbxref=NCBI_GP:AMW76465.1;Name=AMW76465.1;gbkey=CDS;locus_tag=JCVISYN3_0379;product=hypothetical protein;protein_id=AMW76465.1;transl_table=4
+CP014940.1	Genbank	gene	226568	227665	.	+	.	ID=gene-JCVISYN3_0380;Name=JCVISYN3_0380;gbkey=Gene;locus_tag=JCVISYN3_0380
+CP014940.1	Genbank	CDS	226568	227665	.	+	0	ID=cds-AMW76466.1;Parent=gene-JCVISYN3_0380;Dbxref=NCBI_GP:AMW76466.1;Name=AMW76466.1;gbkey=CDS;locus_tag=JCVISYN3_0380;product=nicotinate (nicotinamide) nucleotide adenylyltransferase;protein_id=AMW76466.1;transl_table=4
+CP014940.1	Genbank	gene	227670	228329	.	+	.	ID=gene-JCVISYN3_0381;Name=JCVISYN3_0381;gbkey=Gene;locus_tag=JCVISYN3_0381
+CP014940.1	Genbank	CDS	227670	228329	.	+	0	ID=cds-AMW76467.1;Parent=gene-JCVISYN3_0381;Dbxref=NCBI_GP:AMW76467.1;Name=AMW76467.1;gbkey=CDS;locus_tag=JCVISYN3_0381;product=MTA/SAH-Nsdase: MTA/SAH nucleosidase;protein_id=AMW76467.1;transl_table=4
+CP014940.1	Genbank	gene	228339	228977	.	+	.	ID=gene-JCVISYN3_0382;Name=JCVISYN3_0382;gbkey=Gene;locus_tag=JCVISYN3_0382
+CP014940.1	Genbank	CDS	228339	228977	.	+	0	ID=cds-AMW76468.1;Parent=gene-JCVISYN3_0382;Dbxref=NCBI_GP:AMW76468.1;Name=AMW76468.1;gbkey=CDS;locus_tag=JCVISYN3_0382;product=deoxynucleoside kinase;protein_id=AMW76468.1;transl_table=4
+CP014940.1	Genbank	gene	229206	230333	.	+	.	ID=gene-JCVISYN3_0387;Name=JCVISYN3_0387;gbkey=Gene;locus_tag=JCVISYN3_0387
+CP014940.1	Genbank	CDS	229206	230333	.	+	0	ID=cds-AMW76469.1;Parent=gene-JCVISYN3_0387;Dbxref=NCBI_GP:AMW76469.1;Name=AMW76469.1;gbkey=CDS;locus_tag=JCVISYN3_0387;product=TrmU: tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase;protein_id=AMW76469.1;transl_table=4
+CP014940.1	Genbank	gene	230380	230997	.	+	.	ID=gene-JCVISYN3_0388;Name=JCVISYN3_0388;gbkey=Gene;locus_tag=JCVISYN3_0388
+CP014940.1	Genbank	CDS	230380	230997	.	+	0	ID=cds-AMW76470.1;Parent=gene-JCVISYN3_0388;Dbxref=NCBI_GP:AMW76470.1;Name=AMW76470.1;gbkey=CDS;locus_tag=JCVISYN3_0388;product=hypothetical protein;protein_id=AMW76470.1;transl_table=4
+CP014940.1	Genbank	gene	231073	233217	.	+	.	ID=gene-JCVISYN3_0389;Name=JCVISYN3_0389;gbkey=Gene;locus_tag=JCVISYN3_0389
+CP014940.1	Genbank	CDS	231073	233217	.	+	0	ID=cds-AMW76471.1;Parent=gene-JCVISYN3_0389;Dbxref=NCBI_GP:AMW76471.1;Name=AMW76471.1;gbkey=CDS;locus_tag=JCVISYN3_0389;product=PF11074 domain protein;protein_id=AMW76471.1;transl_table=4
+CP014940.1	Genbank	gene	233207	234160	.	+	.	ID=gene-JCVISYN3_0390;Name=JCVISYN3_0390;gbkey=Gene;locus_tag=JCVISYN3_0390
+CP014940.1	Genbank	CDS	233207	234160	.	+	0	ID=cds-AMW76472.1;Parent=gene-JCVISYN3_0390;Dbxref=NCBI_GP:AMW76472.1;Name=AMW76472.1;gbkey=CDS;locus_tag=JCVISYN3_0390;product=fmt: methionyl-tRNA formyltransferase;protein_id=AMW76472.1;transl_table=4
+CP014940.1	Genbank	gene	234247	234801	.	+	.	ID=gene-JCVISYN3_0391;Name=JCVISYN3_0391;gbkey=Gene;locus_tag=JCVISYN3_0391
+CP014940.1	Genbank	CDS	234247	234801	.	+	0	ID=cds-AMW76473.1;Parent=gene-JCVISYN3_0391;Dbxref=NCBI_GP:AMW76473.1;Name=AMW76473.1;gbkey=CDS;locus_tag=JCVISYN3_0391;product=efp: translation elongation factor P;protein_id=AMW76473.1;transl_table=4
+CP014940.1	Genbank	gene	234819	235121	.	+	.	ID=gene-JCVISYN3_0392;Name=JCVISYN3_0392;gbkey=Gene;locus_tag=JCVISYN3_0392
+CP014940.1	Genbank	CDS	234819	235121	.	+	0	ID=cds-AMW76474.1;Parent=gene-JCVISYN3_0392;Dbxref=NCBI_GP:AMW76474.1;Name=AMW76474.1;gbkey=CDS;locus_tag=JCVISYN3_0392;product=hypothetical protein;protein_id=AMW76474.1;transl_table=4
+CP014940.1	Genbank	gene	235260	237620	.	+	.	ID=gene-JCVISYN3_0394;Name=JCVISYN3_0394;gbkey=Gene;locus_tag=JCVISYN3_0394
+CP014940.1	Genbank	CDS	235260	237620	.	+	0	ID=cds-AMW76475.1;Parent=gene-JCVISYN3_0394;Dbxref=NCBI_GP:AMW76475.1;Name=AMW76475.1;gbkey=CDS;locus_tag=JCVISYN3_0394;product=lon: endopeptidase La;protein_id=AMW76475.1;transl_table=4
+CP014940.1	Genbank	gene	237758	240220	.	-	.	ID=gene-JCVISYN3_0398;Name=JCVISYN3_0398;gbkey=Gene;locus_tag=JCVISYN3_0398
+CP014940.1	Genbank	CDS	237758	240220	.	-	0	ID=cds-AMW76476.1;Parent=gene-JCVISYN3_0398;Dbxref=NCBI_GP:AMW76476.1;Name=AMW76476.1;gbkey=CDS;locus_tag=JCVISYN3_0398;product=lipoprotein%2C putative;protein_id=AMW76476.1;transl_table=4
+CP014940.1	Genbank	gene	240370	245631	.	+	.	ID=gene-JCVISYN3_0399;Name=JCVISYN3_0399;gbkey=Gene;locus_tag=JCVISYN3_0399
+CP014940.1	Genbank	CDS	240370	245631	.	+	0	ID=cds-AMW76477.1;Parent=gene-JCVISYN3_0399;Dbxref=NCBI_GP:AMW76477.1;Name=AMW76477.1;gbkey=CDS;locus_tag=JCVISYN3_0399;product=efflux ABC transporter%2C permease protein;protein_id=AMW76477.1;transl_table=4
+CP014940.1	Genbank	gene	245679	246230	.	+	.	ID=gene-JCVISYN3_0400;Name=JCVISYN3_0400;gbkey=Gene;locus_tag=JCVISYN3_0400
+CP014940.1	Genbank	CDS	245679	246230	.	+	0	ID=cds-AMW76478.1;Parent=gene-JCVISYN3_0400;Dbxref=NCBI_GP:AMW76478.1;Name=AMW76478.1;gbkey=CDS;locus_tag=JCVISYN3_0400;product=DJ-1 family protein;protein_id=AMW76478.1;transl_table=4
+CP014940.1	Genbank	gene	246328	248112	.	+	.	ID=gene-JCVISYN3_0401;Name=JCVISYN3_0401;gbkey=Gene;locus_tag=JCVISYN3_0401
+CP014940.1	Genbank	CDS	246328	248112	.	+	0	ID=cds-AMW76479.1;Parent=gene-JCVISYN3_0401;Dbxref=NCBI_GP:AMW76479.1;Name=AMW76479.1;gbkey=CDS;locus_tag=JCVISYN3_0401;product=peptidase%2C C39 family;protein_id=AMW76479.1;transl_table=4
+CP014940.1	Genbank	gene	248117	248611	.	+	.	ID=gene-JCVISYN3_0402;Name=JCVISYN3_0402;gbkey=Gene;locus_tag=JCVISYN3_0402
+CP014940.1	Genbank	CDS	248117	248611	.	+	0	ID=cds-AMW76480.1;Parent=gene-JCVISYN3_0402;Dbxref=NCBI_GP:AMW76480.1;Name=AMW76480.1;gbkey=CDS;locus_tag=JCVISYN3_0402;product=YbeY:rRNA maturation RNase YbeY;protein_id=AMW76480.1;transl_table=4
+CP014940.1	Genbank	gene	248615	249520	.	+	.	ID=gene-JCVISYN3_0403;Name=JCVISYN3_0403;gbkey=Gene;locus_tag=JCVISYN3_0403
+CP014940.1	Genbank	CDS	248615	249520	.	+	0	ID=cds-AMW76481.1;Parent=gene-JCVISYN3_0403;Dbxref=NCBI_GP:AMW76481.1;Name=AMW76481.1;gbkey=CDS;locus_tag=JCVISYN3_0403;product=era: GTP-binding protein Era;protein_id=AMW76481.1;transl_table=4
+CP014940.1	Genbank	gene	249520	250269	.	+	.	ID=gene-JCVISYN3_0404;Name=JCVISYN3_0404;gbkey=Gene;locus_tag=JCVISYN3_0404
+CP014940.1	Genbank	CDS	249520	250269	.	+	0	ID=cds-AMW76482.1;Parent=gene-JCVISYN3_0404;Dbxref=NCBI_GP:AMW76482.1;Name=AMW76482.1;gbkey=CDS;locus_tag=JCVISYN3_0404;product=RecO: DNA repair protein RecO;protein_id=AMW76482.1;transl_table=4
+CP014940.1	Genbank	gene	250333	251703	.	+	.	ID=gene-JCVISYN3_0405;Name=JCVISYN3_0405;gbkey=Gene;locus_tag=JCVISYN3_0405
+CP014940.1	Genbank	CDS	250333	251703	.	+	0	ID=cds-AMW76483.1;Parent=gene-JCVISYN3_0405;Dbxref=NCBI_GP:AMW76483.1;Name=AMW76483.1;gbkey=CDS;locus_tag=JCVISYN3_0405;product=GlyRS: Glycyl-tRNA synthetase;protein_id=AMW76483.1;transl_table=4
+CP014940.1	Genbank	gene	251738	253576	.	+	.	ID=gene-JCVISYN3_0406;Name=JCVISYN3_0406;gbkey=Gene;locus_tag=JCVISYN3_0406
+CP014940.1	Genbank	CDS	251738	253576	.	+	0	ID=cds-AMW76484.1;Parent=gene-JCVISYN3_0406;Dbxref=NCBI_GP:AMW76484.1;Name=AMW76484.1;gbkey=CDS;locus_tag=JCVISYN3_0406;product=DnaG: DNA primase;protein_id=AMW76484.1;transl_table=4
+CP014940.1	Genbank	gene	253579	255099	.	+	.	ID=gene-JCVISYN3_0407;Name=JCVISYN3_0407;gbkey=Gene;locus_tag=JCVISYN3_0407
+CP014940.1	Genbank	CDS	253579	255099	.	+	0	ID=cds-AMW76485.1;Parent=gene-JCVISYN3_0407;Dbxref=NCBI_GP:AMW76485.1;Name=AMW76485.1;gbkey=CDS;locus_tag=JCVISYN3_0407;product=RpoD: RNA polymerase sigma factor;protein_id=AMW76485.1;transl_table=4
+CP014940.1	Genbank	gene	255099	255776	.	+	.	ID=gene-JCVISYN3_0408;Name=JCVISYN3_0408;gbkey=Gene;locus_tag=JCVISYN3_0408
+CP014940.1	Genbank	CDS	255099	255776	.	+	0	ID=cds-AMW76486.1;Parent=gene-JCVISYN3_0408;Dbxref=NCBI_GP:AMW76486.1;Name=AMW76486.1;gbkey=CDS;locus_tag=JCVISYN3_0408;product=Putative tRNA: m1A22 methyltransferase;protein_id=AMW76486.1;transl_table=4
+CP014940.1	Genbank	gene	255763	256539	.	+	.	ID=gene-JCVISYN3_0409;Name=JCVISYN3_0409;gbkey=Gene;locus_tag=JCVISYN3_0409
+CP014940.1	Genbank	CDS	255763	256539	.	+	0	ID=cds-AMW76487.1;Parent=gene-JCVISYN3_0409;Dbxref=NCBI_GP:AMW76487.1;Name=AMW76487.1;gbkey=CDS;locus_tag=JCVISYN3_0409;product=Putative FolE;protein_id=AMW76487.1;transl_table=4
+CP014940.1	Genbank	gene	256548	257909	.	+	.	ID=gene-JCVISYN3_0410;Name=JCVISYN3_0410;gbkey=Gene;locus_tag=JCVISYN3_0410
+CP014940.1	Genbank	CDS	256548	257909	.	+	0	ID=cds-AMW76488.1;Parent=gene-JCVISYN3_0410;Dbxref=NCBI_GP:AMW76488.1;Name=AMW76488.1;gbkey=CDS;locus_tag=JCVISYN3_0410;product=DEAD/DEAH box helicase;protein_id=AMW76488.1;transl_table=4
+CP014940.1	Genbank	gene	257949	259463	.	+	.	ID=gene-JCVISYN3_0411;Name=JCVISYN3_0411;gbkey=Gene;locus_tag=JCVISYN3_0411
+CP014940.1	Genbank	CDS	257949	259463	.	+	0	ID=cds-AMW76489.1;Parent=gene-JCVISYN3_0411;Dbxref=NCBI_GP:AMW76489.1;Name=AMW76489.1;gbkey=CDS;locus_tag=JCVISYN3_0411;product=membrane protein%2C PF02588 family;protein_id=AMW76489.1;transl_table=4
+CP014940.1	Genbank	gene	259579	263733	.	+	.	ID=gene-JCVISYN3_0412;Name=JCVISYN3_0412;gbkey=Gene;locus_tag=JCVISYN3_0412
+CP014940.1	Genbank	CDS	259579	263733	.	+	0	ID=cds-AMW76490.1;Parent=gene-JCVISYN3_0412;Dbxref=NCBI_GP:AMW76490.1;Name=AMW76490.1;gbkey=CDS;locus_tag=JCVISYN3_0412;product=secDF;protein_id=AMW76490.1;transl_table=4
+CP014940.1	Genbank	gene	263745	264257	.	+	.	ID=gene-JCVISYN3_0413;Name=JCVISYN3_0413;gbkey=Gene;locus_tag=JCVISYN3_0413
+CP014940.1	Genbank	CDS	263745	264257	.	+	0	ID=cds-AMW76491.1;Parent=gene-JCVISYN3_0413;Dbxref=NCBI_GP:AMW76491.1;Name=AMW76491.1;gbkey=CDS;locus_tag=JCVISYN3_0413;product=apt: adenine phosphoribosyltransferase;protein_id=AMW76491.1;transl_table=4
+CP014940.1	Genbank	gene	264340	266604	.	+	.	ID=gene-JCVISYN3_0414;Name=JCVISYN3_0414;gbkey=Gene;locus_tag=JCVISYN3_0414
+CP014940.1	Genbank	CDS	264340	266604	.	+	0	ID=cds-AMW76492.1;Parent=gene-JCVISYN3_0414;Dbxref=NCBI_GP:AMW76492.1;Name=AMW76492.1;gbkey=CDS;locus_tag=JCVISYN3_0414;product=RelA: GTP pyrophosphokinase;protein_id=AMW76492.1;transl_table=4
+CP014940.1	Genbank	gene	266641	269607	.	-	.	ID=gene-JCVISYN3_0415;Name=JCVISYN3_0415;gbkey=Gene;locus_tag=JCVISYN3_0415
+CP014940.1	Genbank	CDS	266641	269607	.	-	0	ID=cds-AMW76493.1;Parent=gene-JCVISYN3_0415;Dbxref=NCBI_GP:AMW76493.1;Name=AMW76493.1;gbkey=CDS;locus_tag=JCVISYN3_0415;product=SMC: chromosome segregation protein;protein_id=AMW76493.1;transl_table=4
+CP014940.1	Genbank	gene	269913	270302	.	-	.	ID=gene-JCVISYN3_0416;Name=JCVISYN3_0416;gbkey=Gene;locus_tag=JCVISYN3_0416
+CP014940.1	Genbank	CDS	269913	270302	.	-	0	ID=cds-AMW76494.1;Parent=gene-JCVISYN3_0416;Dbxref=NCBI_GP:AMW76494.1;Name=AMW76494.1;gbkey=CDS;locus_tag=JCVISYN3_0416;product=hypothetical protein;protein_id=AMW76494.1;transl_table=4
+CP014940.1	Genbank	gene	270447	271145	.	-	.	ID=gene-JCVISYN3_0418;Name=JCVISYN3_0418;gbkey=Gene;locus_tag=JCVISYN3_0418
+CP014940.1	Genbank	CDS	270447	271145	.	-	0	ID=cds-AMW76495.1;Parent=gene-JCVISYN3_0418;Dbxref=NCBI_GP:AMW76495.1;Name=AMW76495.1;gbkey=CDS;locus_tag=JCVISYN3_0418;product=RNaseIII: ribonuclease III;protein_id=AMW76495.1;transl_table=4
+CP014940.1	Genbank	gene	271135	272139	.	-	.	ID=gene-JCVISYN3_0419;Name=JCVISYN3_0419;gbkey=Gene;locus_tag=JCVISYN3_0419
+CP014940.1	Genbank	CDS	271135	272139	.	-	0	ID=cds-AMW76496.1;Parent=gene-JCVISYN3_0419;Dbxref=NCBI_GP:AMW76496.1;Name=AMW76496.1;gbkey=CDS;locus_tag=JCVISYN3_0419;product=PlsX: fatty acid/phospholipid synthesis protein;protein_id=AMW76496.1;transl_table=4
+CP014940.1	Genbank	gene	272172	273815	.	-	.	ID=gene-JCVISYN3_0420;Name=JCVISYN3_0420;gbkey=Gene;locus_tag=JCVISYN3_0420
+CP014940.1	Genbank	CDS	272172	273815	.	-	0	ID=cds-AMW76497.1;Parent=gene-JCVISYN3_0420;Dbxref=NCBI_GP:AMW76497.1;Name=AMW76497.1;gbkey=CDS;locus_tag=JCVISYN3_0420;product=yloV:DAK2 domain fusion protein YloV;protein_id=AMW76497.1;transl_table=4
+CP014940.1	Genbank	gene	273840	274151	.	-	.	ID=gene-JCVISYN3_0421;Name=JCVISYN3_0421;gbkey=Gene;locus_tag=JCVISYN3_0421
+CP014940.1	Genbank	CDS	273840	274151	.	-	0	ID=cds-AMW76498.1;Parent=gene-JCVISYN3_0421;Dbxref=NCBI_GP:AMW76498.1;Name=AMW76498.1;gbkey=CDS;locus_tag=JCVISYN3_0421;product=alkaline shock protein Asp23 family protein;protein_id=AMW76498.1;transl_table=4
+CP014940.1	Genbank	gene	274320	274517	.	+	.	ID=gene-JCVISYN3_0422;Name=JCVISYN3_0422;gbkey=Gene;locus_tag=JCVISYN3_0422
+CP014940.1	Genbank	CDS	274320	274517	.	+	0	ID=cds-AMW76499.1;Parent=gene-JCVISYN3_0422;Dbxref=NCBI_GP:AMW76499.1;Name=AMW76499.1;gbkey=CDS;locus_tag=JCVISYN3_0422;product=L28: ribosomal protein L28;protein_id=AMW76499.1;transl_table=4
+CP014940.1	Genbank	gene	274581	274665	.	+	.	ID=gene-JCVISYN3_0423;Name=JCVISYN3_0423;gbkey=Gene;locus_tag=JCVISYN3_0423
+CP014940.1	Genbank	tRNA	274581	274665	.	+	.	ID=rna-JCVISYN3_0423;Parent=gene-JCVISYN3_0423;gbkey=tRNA;locus_tag=JCVISYN3_0423;product=tRNA-Leu
+CP014940.1	Genbank	exon	274581	274665	.	+	.	ID=exon-JCVISYN3_0423-1;Parent=rna-JCVISYN3_0423;gbkey=tRNA;locus_tag=JCVISYN3_0423;product=tRNA-Leu
+CP014940.1	Genbank	gene	274748	275191	.	+	.	ID=gene-JCVISYN3_0424;Name=JCVISYN3_0424;gbkey=Gene;locus_tag=JCVISYN3_0424
+CP014940.1	Genbank	CDS	274748	275191	.	+	0	ID=cds-AMW76500.1;Parent=gene-JCVISYN3_0424;Dbxref=NCBI_GP:AMW76500.1;Name=AMW76500.1;gbkey=CDS;locus_tag=JCVISYN3_0424;product=hypothetical protein;protein_id=AMW76500.1;transl_table=4
+CP014940.1	Genbank	gene	275280	276410	.	+	.	ID=gene-JCVISYN3_0425;Name=JCVISYN3_0425;gbkey=Gene;locus_tag=JCVISYN3_0425
+CP014940.1	Genbank	CDS	275280	276410	.	+	0	ID=cds-AMW76501.1;Parent=gene-JCVISYN3_0425;Dbxref=NCBI_GP:AMW76501.1;Name=AMW76501.1;gbkey=CDS;locus_tag=JCVISYN3_0425;product=PstS: phosphate binding protein;protein_id=AMW76501.1;transl_table=4
+CP014940.1	Genbank	gene	276462	278552	.	+	.	ID=gene-JCVISYN3_0426;Name=JCVISYN3_0426;gbkey=Gene;locus_tag=JCVISYN3_0426
+CP014940.1	Genbank	CDS	276462	278552	.	+	0	ID=cds-AMW76502.1;Parent=gene-JCVISYN3_0426;Dbxref=NCBI_GP:AMW76502.1;Name=AMW76502.1;gbkey=CDS;locus_tag=JCVISYN3_0426;product=PstA%2C PstC: phosphate ABC transporter%2C permease protein;protein_id=AMW76502.1;transl_table=4
+CP014940.1	Genbank	gene	278545	279354	.	+	.	ID=gene-JCVISYN3_0427;Name=JCVISYN3_0427;gbkey=Gene;locus_tag=JCVISYN3_0427
+CP014940.1	Genbank	CDS	278545	279354	.	+	0	ID=cds-AMW76503.1;Parent=gene-JCVISYN3_0427;Dbxref=NCBI_GP:AMW76503.1;Name=AMW76503.1;gbkey=CDS;locus_tag=JCVISYN3_0427;product=PstB: phosphate ABC transporter%2C ATP-binding protein;protein_id=AMW76503.1;transl_table=4
+CP014940.1	Genbank	gene	279363	280037	.	+	.	ID=gene-JCVISYN3_0428;Name=JCVISYN3_0428;gbkey=Gene;locus_tag=JCVISYN3_0428
+CP014940.1	Genbank	CDS	279363	280037	.	+	0	ID=cds-AMW76504.1;Parent=gene-JCVISYN3_0428;Dbxref=NCBI_GP:AMW76504.1;Name=AMW76504.1;gbkey=CDS;locus_tag=JCVISYN3_0428;product=phoU: phosphate transport system regulatory protein PhoU;protein_id=AMW76504.1;transl_table=4
+CP014940.1	Genbank	gene	280104	281333	.	+	.	ID=gene-JCVISYN3_0429;Name=JCVISYN3_0429;gbkey=Gene;locus_tag=JCVISYN3_0429
+CP014940.1	Genbank	CDS	280104	281333	.	+	0	ID=cds-AMW76505.1;Parent=gene-JCVISYN3_0429;Dbxref=NCBI_GP:AMW76505.1;Name=AMW76505.1;gbkey=CDS;locus_tag=JCVISYN3_0429;product=FtsY: signal recognition particle-docking protein;protein_id=AMW76505.1;transl_table=4
+CP014940.1	Genbank	gene	281323	281658	.	+	.	ID=gene-JCVISYN3_0430;Name=JCVISYN3_0430;gbkey=Gene;locus_tag=JCVISYN3_0430
+CP014940.1	Genbank	CDS	281323	281658	.	+	0	ID=cds-AMW76506.1;Parent=gene-JCVISYN3_0430;Dbxref=NCBI_GP:AMW76506.1;Name=AMW76506.1;gbkey=CDS;locus_tag=JCVISYN3_0430;product=Putative Sigma3 and sigma4 domains of RNA polymerase sigma factors;protein_id=AMW76506.1;transl_table=4
+CP014940.1	Genbank	gene	281646	282419	.	+	.	ID=gene-JCVISYN3_0431;Name=JCVISYN3_0431;gbkey=Gene;locus_tag=JCVISYN3_0431
+CP014940.1	Genbank	CDS	281646	282419	.	+	0	ID=cds-AMW76507.1;Parent=gene-JCVISYN3_0431;Dbxref=NCBI_GP:AMW76507.1;Name=AMW76507.1;gbkey=CDS;locus_tag=JCVISYN3_0431;product=putative metallophosphoesterase;protein_id=AMW76507.1;transl_table=4
+CP014940.1	Genbank	gene	282629	283792	.	+	.	ID=gene-JCVISYN3_0432;Name=JCVISYN3_0432;gbkey=Gene;locus_tag=JCVISYN3_0432
+CP014940.1	Genbank	CDS	282629	283792	.	+	0	ID=cds-AMW76508.1;Parent=gene-JCVISYN3_0432;Dbxref=NCBI_GP:AMW76508.1;Name=AMW76508.1;gbkey=CDS;locus_tag=JCVISYN3_0432;product=MetK: methionine adenosyltransferase;protein_id=AMW76508.1;transl_table=4
+CP014940.1	Genbank	gene	283783	284466	.	+	.	ID=gene-JCVISYN3_0433;Name=JCVISYN3_0433;gbkey=Gene;locus_tag=JCVISYN3_0433
+CP014940.1	Genbank	CDS	283783	284466	.	+	0	ID=cds-AMW76509.1;Parent=gene-JCVISYN3_0433;Dbxref=NCBI_GP:AMW76509.1;Name=AMW76509.1;gbkey=CDS;locus_tag=JCVISYN3_0433;product=CutC family protein;protein_id=AMW76509.1;transl_table=4
+CP014940.1	Genbank	gene	284459	285775	.	+	.	ID=gene-JCVISYN3_0434;Name=JCVISYN3_0434;gbkey=Gene;locus_tag=JCVISYN3_0434
+CP014940.1	Genbank	CDS	284459	285775	.	+	0	ID=cds-AMW76510.1;Parent=gene-JCVISYN3_0434;Dbxref=NCBI_GP:AMW76510.1;Name=AMW76510.1;gbkey=CDS;locus_tag=JCVISYN3_0434;product=gid_trmFO: tRNA:m(5)U-54 methyltransferase;protein_id=AMW76510.1;transl_table=4
+CP014940.1	Genbank	gene	285801	286730	.	+	.	ID=gene-JCVISYN3_0435;Name=JCVISYN3_0435;gbkey=Gene;locus_tag=JCVISYN3_0435
+CP014940.1	Genbank	CDS	285801	286730	.	+	0	ID=cds-AMW76511.1;Parent=gene-JCVISYN3_0435;Dbxref=NCBI_GP:AMW76511.1;Name=AMW76511.1;gbkey=CDS;locus_tag=JCVISYN3_0435;product=ManA: mannose-6-phosphate isomerase%2C class I;protein_id=AMW76511.1;transl_table=4
+CP014940.1	Genbank	gene	286803	287783	.	+	.	ID=gene-JCVISYN3_0437;Name=JCVISYN3_0437;gbkey=Gene;locus_tag=JCVISYN3_0437
+CP014940.1	Genbank	CDS	286803	287783	.	+	0	ID=cds-AMW76512.1;Parent=gene-JCVISYN3_0437;Dbxref=NCBI_GP:AMW76512.1;Name=AMW76512.1;gbkey=CDS;locus_tag=JCVISYN3_0437;product=YhaM:putative 3'-5' exoribonuclease;protein_id=AMW76512.1;transl_table=4
+CP014940.1	Genbank	gene	287814	288212	.	-	.	ID=gene-JCVISYN3_0438;Name=JCVISYN3_0438;gbkey=Gene;locus_tag=JCVISYN3_0438
+CP014940.1	Genbank	CDS	287814	288212	.	-	0	ID=cds-AMW76513.1;Parent=gene-JCVISYN3_0438;Dbxref=NCBI_GP:AMW76513.1;Name=AMW76513.1;gbkey=CDS;locus_tag=JCVISYN3_0438;product=Histidine triad (HIT) hydrolase-like protein;protein_id=AMW76513.1;transl_table=4
+CP014940.1	Genbank	gene	288215	290371	.	-	.	ID=gene-JCVISYN3_0439;Name=JCVISYN3_0439;gbkey=Gene;locus_tag=JCVISYN3_0439
+CP014940.1	Genbank	CDS	288215	290371	.	-	0	ID=cds-AMW76514.1;Parent=gene-JCVISYN3_0439;Dbxref=NCBI_GP:AMW76514.1;Name=AMW76514.1;gbkey=CDS;locus_tag=JCVISYN3_0439;product=lipoprotein%2C putative;protein_id=AMW76514.1;transl_table=4
+CP014940.1	Genbank	gene	290371	293307	.	-	.	ID=gene-JCVISYN3_0440;Name=JCVISYN3_0440;gbkey=Gene;locus_tag=JCVISYN3_0440
+CP014940.1	Genbank	CDS	290371	293307	.	-	0	ID=cds-AMW76515.1;Parent=gene-JCVISYN3_0440;Dbxref=NCBI_GP:AMW76515.1;Name=AMW76515.1;gbkey=CDS;locus_tag=JCVISYN3_0440;product=lipoprotein%2C putative;protein_id=AMW76515.1;transl_table=4
+CP014940.1	Genbank	gene	293510	294748	.	+	.	ID=gene-JCVISYN3_0441;Name=JCVISYN3_0441;gbkey=Gene;locus_tag=JCVISYN3_0441
+CP014940.1	Genbank	CDS	293510	294748	.	+	0	ID=cds-AMW76516.1;Parent=gene-JCVISYN3_0441;Dbxref=NCBI_GP:AMW76516.1;Name=AMW76516.1;gbkey=CDS;locus_tag=JCVISYN3_0441;product=IscS: Cysteine desulfurase;protein_id=AMW76516.1;transl_table=4
+CP014940.1	Genbank	gene	294751	295188	.	+	.	ID=gene-JCVISYN3_0442;Name=JCVISYN3_0442;gbkey=Gene;locus_tag=JCVISYN3_0442
+CP014940.1	Genbank	CDS	294751	295188	.	+	0	ID=cds-AMW76517.1;Parent=gene-JCVISYN3_0442;Dbxref=NCBI_GP:AMW76517.1;Name=AMW76517.1;gbkey=CDS;locus_tag=JCVISYN3_0442;product=iscU: Iron-sulfur cluster assembly scaffold protein;protein_id=AMW76517.1;transl_table=4
+CP014940.1	Genbank	gene	295181	295744	.	+	.	ID=gene-JCVISYN3_0443;Name=JCVISYN3_0443;gbkey=Gene;locus_tag=JCVISYN3_0443
+CP014940.1	Genbank	CDS	295181	295744	.	+	0	ID=cds-AMW76518.1;Parent=gene-JCVISYN3_0443;Dbxref=NCBI_GP:AMW76518.1;Name=AMW76518.1;gbkey=CDS;locus_tag=JCVISYN3_0443;product=YqgN: 5-formyltetrahydrofolate cyclo-ligase;protein_id=AMW76518.1;transl_table=4
+CP014940.1	Genbank	gene	295765	297660	.	+	.	ID=gene-JCVISYN3_0444;Name=JCVISYN3_0444;gbkey=Gene;locus_tag=JCVISYN3_0444
+CP014940.1	Genbank	CDS	295765	297660	.	+	0	ID=cds-AMW76519.1;Parent=gene-JCVISYN3_0444;Dbxref=NCBI_GP:AMW76519.1;Name=AMW76519.1;gbkey=CDS;locus_tag=JCVISYN3_0444;product=peptidase family M13;protein_id=AMW76519.1;transl_table=4
+CP014940.1	Genbank	gene	297880	299163	.	+	.	ID=gene-JCVISYN3_0445;Name=JCVISYN3_0445;gbkey=Gene;locus_tag=JCVISYN3_0445
+CP014940.1	Genbank	CDS	297880	299163	.	+	0	ID=cds-AMW76520.1;Parent=gene-JCVISYN3_0445;Dbxref=NCBI_GP:AMW76520.1;Name=AMW76520.1;gbkey=CDS;locus_tag=JCVISYN3_0445;product=gpi: Glucose-6-phosphate isomerase;protein_id=AMW76520.1;transl_table=4
+CP014940.1	Genbank	gene	299196	299699	.	+	.	ID=gene-JCVISYN3_0447;Name=JCVISYN3_0447;gbkey=Gene;locus_tag=JCVISYN3_0447
+CP014940.1	Genbank	CDS	299196	299699	.	+	0	ID=cds-AMW76521.1;Parent=gene-JCVISYN3_0447;Dbxref=NCBI_GP:AMW76521.1;Name=AMW76521.1;gbkey=CDS;locus_tag=JCVISYN3_0447;product=Putative dUTP diphosphatase;protein_id=AMW76521.1;transl_table=4
+CP014940.1	Genbank	gene	299716	300483	.	+	.	ID=gene-JCVISYN3_0448;Name=JCVISYN3_0448;gbkey=Gene;locus_tag=JCVISYN3_0448
+CP014940.1	Genbank	CDS	299716	300483	.	+	0	ID=cds-AMW76522.1;Parent=gene-JCVISYN3_0448;Dbxref=NCBI_GP:AMW76522.1;Name=AMW76522.1;gbkey=CDS;locus_tag=JCVISYN3_0448;product=trmH-like;protein_id=AMW76522.1;transl_table=4
+CP014940.1	Genbank	gene	300654	302069	.	+	.	ID=gene-JCVISYN3_0451;Name=JCVISYN3_0451;gbkey=Gene;locus_tag=JCVISYN3_0451
+CP014940.1	Genbank	CDS	300654	302069	.	+	0	ID=cds-AMW76523.1;Parent=gene-JCVISYN3_0451;Dbxref=NCBI_GP:AMW76523.1;Name=AMW76523.1;gbkey=CDS;locus_tag=JCVISYN3_0451;product=putative glyceraldehyde-3-phosphate dehydrogenase (NADP+);protein_id=AMW76523.1;transl_table=4
+CP014940.1	Genbank	gene	302256	304187	.	+	.	ID=gene-JCVISYN3_0452;Name=JCVISYN3_0452;gbkey=Gene;locus_tag=JCVISYN3_0452
+CP014940.1	Genbank	CDS	302256	304187	.	+	0	ID=cds-AMW76524.1;Parent=gene-JCVISYN3_0452;Dbxref=NCBI_GP:AMW76524.1;Name=AMW76524.1;gbkey=CDS;locus_tag=JCVISYN3_0452;product=DNA topoisomerase IV%2C B subunit;protein_id=AMW76524.1;transl_table=4
+CP014940.1	Genbank	gene	304189	306885	.	+	.	ID=gene-JCVISYN3_0453;Name=JCVISYN3_0453;gbkey=Gene;locus_tag=JCVISYN3_0453
+CP014940.1	Genbank	CDS	304189	306885	.	+	0	ID=cds-AMW76525.1;Parent=gene-JCVISYN3_0453;Dbxref=NCBI_GP:AMW76525.1;Name=AMW76525.1;gbkey=CDS;locus_tag=JCVISYN3_0453;product=DNA topoisomerase IV%2C A subunit;protein_id=AMW76525.1;transl_table=4
+CP014940.1	Genbank	gene	307121	308077	.	-	.	ID=gene-JCVISYN3_0475;Name=JCVISYN3_0475;gbkey=Gene;locus_tag=JCVISYN3_0475
+CP014940.1	Genbank	CDS	307121	308077	.	-	0	ID=cds-AMW76526.1;Parent=gene-JCVISYN3_0475;Dbxref=NCBI_GP:AMW76526.1;Name=AMW76526.1;gbkey=CDS;locus_tag=JCVISYN3_0475;product=L-LDH-NAD: L-lactate dehydrogenase;protein_id=AMW76526.1;transl_table=4
+CP014940.1	Genbank	gene	308180	308764	.	-	.	ID=gene-JCVISYN3_0478;Name=JCVISYN3_0478;gbkey=Gene;locus_tag=JCVISYN3_0478
+CP014940.1	Genbank	CDS	308180	308764	.	-	0	ID=cds-AMW76527.1;Parent=gene-JCVISYN3_0478;Dbxref=NCBI_GP:AMW76527.1;Name=AMW76527.1;gbkey=CDS;locus_tag=JCVISYN3_0478;product=hypothetical protein;protein_id=AMW76527.1;transl_table=4
+CP014940.1	Genbank	gene	308769	310415	.	-	.	ID=gene-JCVISYN3_0479;Name=JCVISYN3_0479;gbkey=Gene;locus_tag=JCVISYN3_0479
+CP014940.1	Genbank	CDS	308769	310415	.	-	0	ID=cds-AMW76528.1;Parent=gene-JCVISYN3_0479;Dbxref=NCBI_GP:AMW76528.1;Name=AMW76528.1;gbkey=CDS;locus_tag=JCVISYN3_0479;product=peptidase;protein_id=AMW76528.1;transl_table=4
+CP014940.1	Genbank	gene	310638	311075	.	-	.	ID=gene-JCVISYN3_0481;Name=JCVISYN3_0481;gbkey=Gene;locus_tag=JCVISYN3_0481
+CP014940.1	Genbank	CDS	310638	311075	.	-	0	ID=cds-AMW76529.1;Parent=gene-JCVISYN3_0481;Dbxref=NCBI_GP:AMW76529.1;Name=AMW76529.1;gbkey=CDS;locus_tag=JCVISYN3_0481;product=lipoprotein%2C putative;protein_id=AMW76529.1;transl_table=4
+CP014940.1	Genbank	gene	311391	311555	.	+	.	ID=gene-JCVISYN3_0482;Name=JCVISYN3_0482;gbkey=Gene;locus_tag=JCVISYN3_0482
+CP014940.1	Genbank	CDS	311391	311555	.	+	0	ID=cds-AMW76530.1;Parent=gene-JCVISYN3_0482;Dbxref=NCBI_GP:AMW76530.1;Name=AMW76530.1;gbkey=CDS;locus_tag=JCVISYN3_0482;product=S21p: ribosomal protein S21;protein_id=AMW76530.1;transl_table=4
+CP014940.1	Genbank	gene	311816	313171	.	+	.	ID=gene-JCVISYN3_0154;Name=JCVISYN3_0154;gbkey=Gene;locus_tag=JCVISYN3_0154
+CP014940.1	Genbank	CDS	311816	313171	.	+	0	ID=cds-AMW76531.1;Parent=gene-JCVISYN3_0154;Dbxref=NCBI_GP:AMW76531.1;Name=AMW76531.1;gbkey=CDS;locus_tag=JCVISYN3_0154;product=cytosol aminopeptidase family%2C catalytic domain protein;protein_id=AMW76531.1;transl_table=4
+CP014940.1	Genbank	gene	313335	314684	.	-	.	ID=gene-JCVISYN3_0493;Name=JCVISYN3_0493;gbkey=Gene;locus_tag=JCVISYN3_0493
+CP014940.1	Genbank	CDS	313335	314684	.	-	0	ID=cds-AMW76532.1;Parent=gene-JCVISYN3_0493;Dbxref=NCBI_GP:AMW76532.1;Name=AMW76532.1;gbkey=CDS;locus_tag=JCVISYN3_0493;product=putative dipeptidase;protein_id=AMW76532.1;transl_table=4
+CP014940.1	Genbank	gene	314840	315520	.	-	.	ID=gene-JCVISYN3_0494;Name=JCVISYN3_0494;gbkey=Gene;locus_tag=JCVISYN3_0494
+CP014940.1	Genbank	CDS	314840	315520	.	-	0	ID=cds-AMW76533.1;Parent=gene-JCVISYN3_0494;Dbxref=NCBI_GP:AMW76533.1;Name=AMW76533.1;gbkey=CDS;locus_tag=JCVISYN3_0494;product=putative N-acetylmannosamine-6-P epimerase;protein_id=AMW76533.1;transl_table=4
+CP014940.1	Genbank	gene	315579	316454	.	-	.	ID=gene-JCVISYN3_0495;Name=JCVISYN3_0495;gbkey=Gene;locus_tag=JCVISYN3_0495
+CP014940.1	Genbank	CDS	315579	316454	.	-	0	ID=cds-AMW76534.1;Parent=gene-JCVISYN3_0495;Dbxref=NCBI_GP:AMW76534.1;Name=AMW76534.1;gbkey=CDS;locus_tag=JCVISYN3_0495;product=ROK family protein;protein_id=AMW76534.1;transl_table=4
+CP014940.1	Genbank	gene	316629	316910	.	-	.	ID=gene-JCVISYN3_0499;Name=JCVISYN3_0499;gbkey=Gene;locus_tag=JCVISYN3_0499
+CP014940.1	Genbank	CDS	316629	316910	.	-	0	ID=cds-AMW76535.1;Parent=gene-JCVISYN3_0499;Dbxref=NCBI_GP:AMW76535.1;Name=AMW76535.1;gbkey=CDS;locus_tag=JCVISYN3_0499;product=L27: ribosomal protein L27;protein_id=AMW76535.1;transl_table=4
+CP014940.1	Genbank	gene	316912	317175	.	-	.	ID=gene-JCVISYN3_0500;Name=JCVISYN3_0500;gbkey=Gene;locus_tag=JCVISYN3_0500
+CP014940.1	Genbank	CDS	316912	317175	.	-	0	ID=cds-AMW76536.1;Parent=gene-JCVISYN3_0500;Dbxref=NCBI_GP:AMW76536.1;Name=AMW76536.1;gbkey=CDS;locus_tag=JCVISYN3_0500;product=PF04327 family protein;protein_id=AMW76536.1;transl_table=4
+CP014940.1	Genbank	gene	317229	317531	.	-	.	ID=gene-JCVISYN3_0501;Name=JCVISYN3_0501;gbkey=Gene;locus_tag=JCVISYN3_0501
+CP014940.1	Genbank	CDS	317229	317531	.	-	0	ID=cds-AMW76537.1;Parent=gene-JCVISYN3_0501;Dbxref=NCBI_GP:AMW76537.1;Name=AMW76537.1;gbkey=CDS;locus_tag=JCVISYN3_0501;product=L21: ribosomal protein L21;protein_id=AMW76537.1;transl_table=4
+CP014940.1	Genbank	gene	317677	318078	.	-	.	ID=gene-JCVISYN3_0503;Name=JCVISYN3_0503;gbkey=Gene;locus_tag=JCVISYN3_0503
+CP014940.1	Genbank	CDS	317677	318078	.	-	0	ID=cds-AMW76538.1;Parent=gene-JCVISYN3_0503;Dbxref=NCBI_GP:AMW76538.1;Name=AMW76538.1;gbkey=CDS;locus_tag=JCVISYN3_0503;product=hypothetical protein;protein_id=AMW76538.1;transl_table=4
+CP014940.1	Genbank	gene	318101	318988	.	-	.	ID=gene-JCVISYN3_0504;Name=JCVISYN3_0504;gbkey=Gene;locus_tag=JCVISYN3_0504
+CP014940.1	Genbank	CDS	318101	318988	.	-	0	ID=cds-AMW76539.1;Parent=gene-JCVISYN3_0504;Dbxref=NCBI_GP:AMW76539.1;Name=AMW76539.1;gbkey=CDS;locus_tag=JCVISYN3_0504;product=Putative 16S rRNA (cytidine(1402)-2'-O)-methyltransferase;protein_id=AMW76539.1;transl_table=4
+CP014940.1	Genbank	gene	319364	320437	.	+	.	ID=gene-JCVISYN3_0505;Name=JCVISYN3_0505;gbkey=Gene;locus_tag=JCVISYN3_0505
+CP014940.1	Genbank	CDS	319364	320437	.	+	0	ID=cds-AMW76540.1;Parent=gene-JCVISYN3_0505;Dbxref=NCBI_GP:AMW76540.1;Name=AMW76540.1;gbkey=CDS;locus_tag=JCVISYN3_0505;product=lipoprotein%2C putative;protein_id=AMW76540.1;transl_table=4
+CP014940.1	Genbank	gene	320530	320618	.	-	.	ID=gene-JCVISYN3_0506;Name=JCVISYN3_0506;gbkey=Gene;locus_tag=JCVISYN3_0506
+CP014940.1	Genbank	tRNA	320530	320618	.	-	.	ID=rna-JCVISYN3_0506;Parent=gene-JCVISYN3_0506;gbkey=tRNA;locus_tag=JCVISYN3_0506;product=tRNA-Leu
+CP014940.1	Genbank	exon	320530	320618	.	-	.	ID=exon-JCVISYN3_0506-1;Parent=rna-JCVISYN3_0506;gbkey=tRNA;locus_tag=JCVISYN3_0506;product=tRNA-Leu
+CP014940.1	Genbank	gene	320629	320704	.	-	.	ID=gene-JCVISYN3_0507;Name=JCVISYN3_0507;gbkey=Gene;locus_tag=JCVISYN3_0507
+CP014940.1	Genbank	tRNA	320629	320704	.	-	.	ID=rna-JCVISYN3_0507;Parent=gene-JCVISYN3_0507;gbkey=tRNA;locus_tag=JCVISYN3_0507;product=tRNA-Lys
+CP014940.1	Genbank	exon	320629	320704	.	-	.	ID=exon-JCVISYN3_0507-1;Parent=rna-JCVISYN3_0507;gbkey=tRNA;locus_tag=JCVISYN3_0507;product=tRNA-Lys
+CP014940.1	Genbank	gene	320709	320783	.	-	.	ID=gene-JCVISYN3_0508;Name=JCVISYN3_0508;gbkey=Gene;locus_tag=JCVISYN3_0508
+CP014940.1	Genbank	tRNA	320709	320783	.	-	.	ID=rna-JCVISYN3_0508;Parent=gene-JCVISYN3_0508;gbkey=tRNA;locus_tag=JCVISYN3_0508;product=tRNA-Gln
+CP014940.1	Genbank	exon	320709	320783	.	-	.	ID=exon-JCVISYN3_0508-1;Parent=rna-JCVISYN3_0508;gbkey=tRNA;locus_tag=JCVISYN3_0508;product=tRNA-Gln
+CP014940.1	Genbank	gene	320790	320873	.	-	.	ID=gene-JCVISYN3_0509;Name=JCVISYN3_0509;gbkey=Gene;locus_tag=JCVISYN3_0509
+CP014940.1	Genbank	tRNA	320790	320873	.	-	.	ID=rna-JCVISYN3_0509;Parent=gene-JCVISYN3_0509;gbkey=tRNA;locus_tag=JCVISYN3_0509;product=tRNA-Tyr
+CP014940.1	Genbank	exon	320790	320873	.	-	.	ID=exon-JCVISYN3_0509-1;Parent=rna-JCVISYN3_0509;gbkey=tRNA;locus_tag=JCVISYN3_0509;product=tRNA-Tyr
+CP014940.1	Genbank	gene	320880	320955	.	-	.	ID=gene-JCVISYN3_0510;Name=JCVISYN3_0510;gbkey=Gene;locus_tag=JCVISYN3_0510
+CP014940.1	Genbank	tRNA	320880	320955	.	-	.	ID=rna-JCVISYN3_0510;Parent=gene-JCVISYN3_0510;gbkey=tRNA;locus_tag=JCVISYN3_0510;product=tRNA-Thr
+CP014940.1	Genbank	exon	320880	320955	.	-	.	ID=exon-JCVISYN3_0510-1;Parent=rna-JCVISYN3_0510;gbkey=tRNA;locus_tag=JCVISYN3_0510;product=tRNA-Thr
+CP014940.1	Genbank	gene	321082	321705	.	-	.	ID=gene-JCVISYN3_0511;Name=JCVISYN3_0511;gbkey=Gene;locus_tag=JCVISYN3_0511
+CP014940.1	Genbank	CDS	321082	321705	.	-	0	ID=cds-AMW76541.1;Parent=gene-JCVISYN3_0511;Dbxref=NCBI_GP:AMW76541.1;Name=AMW76541.1;gbkey=CDS;locus_tag=JCVISYN3_0511;product=hypothetical protein;protein_id=AMW76541.1;transl_table=4
+CP014940.1	Genbank	gene	321754	322692	.	-	.	ID=gene-JCVISYN3_0512;Name=JCVISYN3_0512;gbkey=Gene;locus_tag=JCVISYN3_0512
+CP014940.1	Genbank	CDS	321754	322692	.	-	0	ID=cds-AMW76542.1;Parent=gene-JCVISYN3_0512;Dbxref=NCBI_GP:AMW76542.1;Name=AMW76542.1;gbkey=CDS;locus_tag=JCVISYN3_0512;product=PlsC: 1-acyl-sn-glycerol-3-phosphate acyltransferase;protein_id=AMW76542.1;transl_table=4
+CP014940.1	Genbank	gene	322858	323190	.	-	.	ID=gene-JCVISYN3_0513;Name=JCVISYN3_0513;gbkey=Gene;locus_tag=JCVISYN3_0513
+CP014940.1	Genbank	CDS	322858	323190	.	-	0	ID=cds-AMW76543.1;Parent=gene-JCVISYN3_0513;Dbxref=NCBI_GP:AMW76543.1;Name=AMW76543.1;gbkey=CDS;locus_tag=JCVISYN3_0513;product=AcpS: 4'-phosphopantetheinyl transferase;protein_id=AMW76543.1;transl_table=4
+CP014940.1	Genbank	gene	323250	323732	.	-	.	ID=gene-JCVISYN3_0515;Name=JCVISYN3_0515;gbkey=Gene;locus_tag=JCVISYN3_0515
+CP014940.1	Genbank	CDS	323250	323732	.	-	0	ID=cds-AMW76544.1;Parent=gene-JCVISYN3_0515;Dbxref=NCBI_GP:AMW76544.1;Name=AMW76544.1;gbkey=CDS;locus_tag=JCVISYN3_0515;product=dctD: Cytidine and deoxycytidylate deaminase;protein_id=AMW76544.1;transl_table=4
+CP014940.1	Genbank	gene	323735	325036	.	-	.	ID=gene-JCVISYN3_0516;Name=JCVISYN3_0516;gbkey=Gene;locus_tag=JCVISYN3_0516
+CP014940.1	Genbank	CDS	323735	325036	.	-	0	ID=cds-AMW76545.1;Parent=gene-JCVISYN3_0516;Dbxref=NCBI_GP:AMW76545.1;Name=AMW76545.1;gbkey=CDS;locus_tag=JCVISYN3_0516;product=membrane protein%2C putative;protein_id=AMW76545.1;transl_table=4
+CP014940.1	Genbank	gene	325029	325961	.	-	.	ID=gene-JCVISYN3_0517;Name=JCVISYN3_0517;gbkey=Gene;locus_tag=JCVISYN3_0517
+CP014940.1	Genbank	CDS	325029	325961	.	-	0	ID=cds-AMW76546.1;Parent=gene-JCVISYN3_0517;Dbxref=NCBI_GP:AMW76546.1;Name=AMW76546.1;gbkey=CDS;locus_tag=JCVISYN3_0517;product=RluD: Ribosomal large subunit pseudouridine synthase;protein_id=AMW76546.1;transl_table=4
+CP014940.1	Genbank	gene	325942	326550	.	-	.	ID=gene-JCVISYN3_0518;Name=JCVISYN3_0518;gbkey=Gene;locus_tag=JCVISYN3_0518
+CP014940.1	Genbank	CDS	325942	326550	.	-	0	ID=cds-AMW76547.1;Parent=gene-JCVISYN3_0518;Dbxref=NCBI_GP:AMW76547.1;Name=AMW76547.1;gbkey=CDS;locus_tag=JCVISYN3_0518;product=lspA: Lipoprotein signal peptidase;protein_id=AMW76547.1;transl_table=4
+CP014940.1	Genbank	gene	326541	329288	.	-	.	ID=gene-JCVISYN3_0519;Name=JCVISYN3_0519;gbkey=Gene;locus_tag=JCVISYN3_0519
+CP014940.1	Genbank	CDS	326541	329288	.	-	0	ID=cds-AMW76548.1;Parent=gene-JCVISYN3_0519;Dbxref=NCBI_GP:AMW76548.1;Name=AMW76548.1;gbkey=CDS;locus_tag=JCVISYN3_0519;product=IleRS: Isoleucyl-tRNA synthetase;protein_id=AMW76548.1;transl_table=4
+CP014940.1	Genbank	gene	330392	331552	.	-	.	ID=gene-JCVISYN3_0523;Name=JCVISYN3_0523;gbkey=Gene;locus_tag=JCVISYN3_0523
+CP014940.1	Genbank	CDS	330392	331552	.	-	0	ID=cds-AMW76549.1;Parent=gene-JCVISYN3_0523;Dbxref=NCBI_GP:AMW76549.1;Name=AMW76549.1;gbkey=CDS;locus_tag=JCVISYN3_0523;product=ftsA: Cell division protein;protein_id=AMW76549.1;transl_table=4
+CP014940.1	Genbank	gene	331561	332487	.	-	.	ID=gene-JCVISYN3_0524;Name=JCVISYN3_0524;gbkey=Gene;locus_tag=JCVISYN3_0524
+CP014940.1	Genbank	CDS	331561	332487	.	-	0	ID=cds-AMW76550.1;Parent=gene-JCVISYN3_0524;Dbxref=NCBI_GP:AMW76550.1;Name=AMW76550.1;gbkey=CDS;locus_tag=JCVISYN3_0524;product=RsmH: 16S rRNA m4C1402;protein_id=AMW76550.1;transl_table=4
+CP014940.1	Genbank	gene	332496	332897	.	-	.	ID=gene-JCVISYN3_0525;Name=JCVISYN3_0525;gbkey=Gene;locus_tag=JCVISYN3_0525
+CP014940.1	Genbank	CDS	332496	332897	.	-	0	ID=cds-AMW76551.1;Parent=gene-JCVISYN3_0525;Dbxref=NCBI_GP:AMW76551.1;Name=AMW76551.1;gbkey=CDS;locus_tag=JCVISYN3_0525;product=MraZ: Transcriptional regulator;protein_id=AMW76551.1;transl_table=4
+CP014940.1	Genbank	gene	333004	333183	.	-	.	ID=gene-JCVISYN3_0526;Name=JCVISYN3_0526;gbkey=Gene;locus_tag=JCVISYN3_0526
+CP014940.1	Genbank	CDS	333004	333183	.	-	0	ID=cds-AMW76552.1;Parent=gene-JCVISYN3_0526;Dbxref=NCBI_GP:AMW76552.1;Name=AMW76552.1;gbkey=CDS;locus_tag=JCVISYN3_0526;product=L32: ribosomal protein L32;protein_id=AMW76552.1;transl_table=4
+CP014940.1	Genbank	gene	333198	335582	.	-	.	ID=gene-JCVISYN3_0528;Name=JCVISYN3_0528;gbkey=Gene;locus_tag=JCVISYN3_0528
+CP014940.1	Genbank	CDS	333198	335582	.	-	0	ID=cds-AMW76553.1;Parent=gene-JCVISYN3_0528;Dbxref=NCBI_GP:AMW76553.1;Name=AMW76553.1;gbkey=CDS;locus_tag=JCVISYN3_0528;product=PheRS: Phenylalanyl-tRNA synthetase subunit;protein_id=AMW76553.1;transl_table=4
+CP014940.1	Genbank	gene	335591	336643	.	-	.	ID=gene-JCVISYN3_0529;Name=JCVISYN3_0529;gbkey=Gene;locus_tag=JCVISYN3_0529
+CP014940.1	Genbank	CDS	335591	336643	.	-	0	ID=cds-AMW76554.1;Parent=gene-JCVISYN3_0529;Dbxref=NCBI_GP:AMW76554.1;Name=AMW76554.1;gbkey=CDS;locus_tag=JCVISYN3_0529;product=PheRS: Phenylalanyl-tRNA synthetase subunit;protein_id=AMW76554.1;transl_table=4
+CP014940.1	Genbank	gene	336673	337281	.	-	.	ID=gene-JCVISYN3_0530;Name=JCVISYN3_0530;gbkey=Gene;locus_tag=JCVISYN3_0530
+CP014940.1	Genbank	CDS	336673	337281	.	-	0	ID=cds-AMW76555.1;Parent=gene-JCVISYN3_0530;Dbxref=NCBI_GP:AMW76555.1;Name=AMW76555.1;gbkey=CDS;locus_tag=JCVISYN3_0530;product=hypothetical protein;protein_id=AMW76555.1;transl_table=4
+CP014940.1	Genbank	gene	337290	341738	.	-	.	ID=gene-JCVISYN3_0531;Name=JCVISYN3_0531;gbkey=Gene;locus_tag=JCVISYN3_0531
+CP014940.1	Genbank	CDS	337290	341738	.	-	0	ID=cds-AMW76556.1;Parent=gene-JCVISYN3_0531;Dbxref=NCBI_GP:AMW76556.1;Name=AMW76556.1;gbkey=CDS;locus_tag=JCVISYN3_0531;product=efflux ABC transporter%2C permease protein;protein_id=AMW76556.1;transl_table=4
+CP014940.1	Genbank	gene	342053	343717	.	-	.	ID=gene-JCVISYN3_0535;Name=JCVISYN3_0535;gbkey=Gene;locus_tag=JCVISYN3_0535
+CP014940.1	Genbank	CDS	342053	343717	.	-	0	ID=cds-AMW76557.1;Parent=gene-JCVISYN3_0535;Dbxref=NCBI_GP:AMW76557.1;Name=AMW76557.1;gbkey=CDS;locus_tag=JCVISYN3_0535;product=ArgRS: Arginyl-tRNA synthetase;protein_id=AMW76557.1;transl_table=4
+CP014940.1	Genbank	gene	343719	344267	.	-	.	ID=gene-JCVISYN3_0536;Name=JCVISYN3_0536;gbkey=Gene;locus_tag=JCVISYN3_0536
+CP014940.1	Genbank	CDS	343719	344267	.	-	0	ID=cds-AMW76558.1;Parent=gene-JCVISYN3_0536;Dbxref=NCBI_GP:AMW76558.1;Name=AMW76558.1;gbkey=CDS;locus_tag=JCVISYN3_0536;product=frr: ribosome recycling factor;protein_id=AMW76558.1;transl_table=4
+CP014940.1	Genbank	gene	344278	344991	.	-	.	ID=gene-JCVISYN3_0537;Name=JCVISYN3_0537;gbkey=Gene;locus_tag=JCVISYN3_0537
+CP014940.1	Genbank	CDS	344278	344991	.	-	0	ID=cds-AMW76559.1;Parent=gene-JCVISYN3_0537;Dbxref=NCBI_GP:AMW76559.1;Name=AMW76559.1;gbkey=CDS;locus_tag=JCVISYN3_0537;product=PyrH_bact: UMP kinase;protein_id=AMW76559.1;transl_table=4
+CP014940.1	Genbank	gene	345125	346012	.	-	.	ID=gene-JCVISYN3_0539;Name=JCVISYN3_0539;gbkey=Gene;locus_tag=JCVISYN3_0539
+CP014940.1	Genbank	CDS	345125	346012	.	-	0	ID=cds-AMW76560.1;Parent=gene-JCVISYN3_0539;Dbxref=NCBI_GP:AMW76560.1;Name=AMW76560.1;gbkey=CDS;locus_tag=JCVISYN3_0539;product=tsf: translation elongation factor Ts;protein_id=AMW76560.1;transl_table=4
+CP014940.1	Genbank	gene	346024	346902	.	-	.	ID=gene-JCVISYN3_0540;Name=JCVISYN3_0540;gbkey=Gene;locus_tag=JCVISYN3_0540
+CP014940.1	Genbank	CDS	346024	346902	.	-	0	ID=cds-AMW76561.1;Parent=gene-JCVISYN3_0540;Dbxref=NCBI_GP:AMW76561.1;Name=AMW76561.1;gbkey=CDS;locus_tag=JCVISYN3_0540;product=S2: ribosomal protein S2;protein_id=AMW76561.1;transl_table=4
+CP014940.1	Genbank	gene	347110	348228	.	-	.	ID=gene-JCVISYN3_0541;Name=JCVISYN3_0541;gbkey=Gene;locus_tag=JCVISYN3_0541
+CP014940.1	Genbank	CDS	347110	348228	.	-	0	ID=cds-AMW76562.1;Parent=gene-JCVISYN3_0541;Dbxref=NCBI_GP:AMW76562.1;Name=AMW76562.1;gbkey=CDS;locus_tag=JCVISYN3_0541;product=DnaJ: chaperone protein DnaJ;protein_id=AMW76562.1;transl_table=4
+CP014940.1	Genbank	gene	348292	350067	.	-	.	ID=gene-JCVISYN3_0542;Name=JCVISYN3_0542;gbkey=Gene;locus_tag=JCVISYN3_0542
+CP014940.1	Genbank	CDS	348292	350067	.	-	0	ID=cds-AMW76563.1;Parent=gene-JCVISYN3_0542;Dbxref=NCBI_GP:AMW76563.1;Name=AMW76563.1;gbkey=CDS;locus_tag=JCVISYN3_0542;product=DnaK: chaperone protein DnaK;protein_id=AMW76563.1;transl_table=4
+CP014940.1	Genbank	gene	350126	350728	.	-	.	ID=gene-JCVISYN3_0543;Name=JCVISYN3_0543;gbkey=Gene;locus_tag=JCVISYN3_0543
+CP014940.1	Genbank	CDS	350126	350728	.	-	0	ID=cds-AMW76564.1;Parent=gene-JCVISYN3_0543;Dbxref=NCBI_GP:AMW76564.1;Name=AMW76564.1;gbkey=CDS;locus_tag=JCVISYN3_0543;product=grpE: Nucleotide exchange factor for DnaK;protein_id=AMW76564.1;transl_table=4
+CP014940.1	Genbank	gene	350730	351752	.	-	.	ID=gene-JCVISYN3_0544;Name=JCVISYN3_0544;gbkey=Gene;locus_tag=JCVISYN3_0544
+CP014940.1	Genbank	CDS	350730	351752	.	-	0	ID=cds-AMW76565.1;Parent=gene-JCVISYN3_0544;Dbxref=NCBI_GP:AMW76565.1;Name=AMW76565.1;gbkey=CDS;locus_tag=JCVISYN3_0544;product=HrcA: heat-inducible transcription repressor;protein_id=AMW76565.1;transl_table=4
+CP014940.1	Genbank	gene	351757	353898	.	-	.	ID=gene-JCVISYN3_0545;Name=JCVISYN3_0545;gbkey=Gene;locus_tag=JCVISYN3_0545
+CP014940.1	Genbank	CDS	351757	353898	.	-	0	ID=cds-AMW76566.1;Parent=gene-JCVISYN3_0545;Dbxref=NCBI_GP:AMW76566.1;Name=AMW76566.1;gbkey=CDS;locus_tag=JCVISYN3_0545;product=ClpB: chaperone protein ClpB;protein_id=AMW76566.1;transl_table=4
+CP014940.1	Genbank	gene	354199	354339	.	-	.	ID=gene-JCVISYN3_0599;Name=JCVISYN3_0599;gbkey=Gene;locus_tag=JCVISYN3_0599
+CP014940.1	Genbank	CDS	354199	354339	.	-	0	ID=cds-AMW76567.1;Parent=gene-JCVISYN3_0599;Dbxref=NCBI_GP:AMW76567.1;Name=AMW76567.1;gbkey=CDS;locus_tag=JCVISYN3_0599;product=hypothetical protein;protein_id=AMW76567.1;transl_table=4
+CP014940.1	Genbank	gene	355153	356985	.	+	.	ID=gene-JCVISYN3_0600;Name=JCVISYN3_0600;gbkey=Gene;locus_tag=JCVISYN3_0600
+CP014940.1	Genbank	CDS	355153	356985	.	+	0	ID=cds-AMW76568.1;Parent=gene-JCVISYN3_0600;Dbxref=NCBI_GP:AMW76568.1;Name=AMW76568.1;gbkey=CDS;locus_tag=JCVISYN3_0600;product=RnjA: Ribonuclease J1;protein_id=AMW76568.1;transl_table=4
+CP014940.1	Genbank	gene	357060	358004	.	+	.	ID=gene-JCVISYN3_0601;Name=JCVISYN3_0601;gbkey=Gene;locus_tag=JCVISYN3_0601
+CP014940.1	Genbank	CDS	357060	358004	.	+	0	ID=cds-AMW76569.1;Parent=gene-JCVISYN3_0601;Dbxref=NCBI_GP:AMW76569.1;Name=AMW76569.1;gbkey=CDS;locus_tag=JCVISYN3_0601;product=membrane protein%2C putative;protein_id=AMW76569.1;transl_table=4
+CP014940.1	Genbank	gene	360645	361859	.	-	.	ID=gene-JCVISYN3_0606;Name=JCVISYN3_0606;gbkey=Gene;locus_tag=JCVISYN3_0606
+CP014940.1	Genbank	CDS	360645	361859	.	-	0	ID=cds-AMW76570.1;Parent=gene-JCVISYN3_0606;Dbxref=NCBI_GP:AMW76570.1;Name=AMW76570.1;gbkey=CDS;locus_tag=JCVISYN3_0606;product=pgk: phosphoglycerate kinase;protein_id=AMW76570.1;transl_table=4
+CP014940.1	Genbank	gene	361971	362987	.	-	.	ID=gene-JCVISYN3_0607;Name=JCVISYN3_0607;gbkey=Gene;locus_tag=JCVISYN3_0607
+CP014940.1	Genbank	CDS	361971	362987	.	-	0	ID=cds-AMW76571.1;Parent=gene-JCVISYN3_0607;Dbxref=NCBI_GP:AMW76571.1;Name=AMW76571.1;gbkey=CDS;locus_tag=JCVISYN3_0607;product=GAPDH-I: glyceraldehyde-3-phosphate dehydrogenase%2C type I;protein_id=AMW76571.1;transl_table=4
+CP014940.1	Genbank	gene	363088	364026	.	-	.	ID=gene-JCVISYN3_0608;Name=JCVISYN3_0608;gbkey=Gene;locus_tag=JCVISYN3_0608
+CP014940.1	Genbank	CDS	363088	364026	.	-	0	ID=cds-AMW76572.1;Parent=gene-JCVISYN3_0608;Dbxref=NCBI_GP:AMW76572.1;Name=AMW76572.1;gbkey=CDS;locus_tag=JCVISYN3_0608;product=DnaI: Primosomal protein;protein_id=AMW76572.1;transl_table=4
+CP014940.1	Genbank	gene	364036	365220	.	-	.	ID=gene-JCVISYN3_0609;Name=JCVISYN3_0609;gbkey=Gene;locus_tag=JCVISYN3_0609
+CP014940.1	Genbank	CDS	364036	365220	.	-	0	ID=cds-AMW76573.1;Parent=gene-JCVISYN3_0609;Dbxref=NCBI_GP:AMW76573.1;Name=AMW76573.1;gbkey=CDS;locus_tag=JCVISYN3_0609;product=DnaB: Replicative DNA helicase;protein_id=AMW76573.1;transl_table=4
+CP014940.1	Genbank	gene	365387	368122	.	-	.	ID=gene-JCVISYN3_0611;Name=JCVISYN3_0611;gbkey=Gene;locus_tag=JCVISYN3_0611
+CP014940.1	Genbank	CDS	365387	368122	.	-	0	ID=cds-AMW76574.1;Parent=gene-JCVISYN3_0611;Dbxref=NCBI_GP:AMW76574.1;Name=AMW76574.1;gbkey=CDS;locus_tag=JCVISYN3_0611;product=PolA: DNA polymerase I;protein_id=AMW76574.1;transl_table=4
+CP014940.1	Genbank	gene	368131	371094	.	-	.	ID=gene-JCVISYN3_0612;Name=JCVISYN3_0612;gbkey=Gene;locus_tag=JCVISYN3_0612
+CP014940.1	Genbank	CDS	368131	371094	.	-	0	ID=cds-AMW76575.1;Parent=gene-JCVISYN3_0612;Dbxref=NCBI_GP:AMW76575.1;Name=AMW76575.1;gbkey=CDS;locus_tag=JCVISYN3_0612;product=DnaE: DNA polymerase III subunit alpha;protein_id=AMW76575.1;transl_table=4
+CP014940.1	Genbank	gene	371289	372533	.	-	.	ID=gene-JCVISYN3_0613;Name=JCVISYN3_0613;gbkey=Gene;locus_tag=JCVISYN3_0613
+CP014940.1	Genbank	CDS	371289	372533	.	-	0	ID=cds-AMW76576.1;Parent=gene-JCVISYN3_0613;Dbxref=NCBI_GP:AMW76576.1;Name=AMW76576.1;gbkey=CDS;locus_tag=JCVISYN3_0613;product=TyrRS: Tyrosyl-tRNA synthetase;protein_id=AMW76576.1;transl_table=4
+CP014940.1	Genbank	gene	372542	373603	.	-	.	ID=gene-JCVISYN3_0614;Name=JCVISYN3_0614;gbkey=Gene;locus_tag=JCVISYN3_0614
+CP014940.1	Genbank	CDS	372542	373603	.	-	0	ID=cds-AMW76577.1;Parent=gene-JCVISYN3_0614;Dbxref=NCBI_GP:AMW76577.1;Name=AMW76577.1;gbkey=CDS;locus_tag=JCVISYN3_0614;product=PncB: Nicotinate phosphoribosyltransferase;protein_id=AMW76577.1;transl_table=4
+CP014940.1	Genbank	gene	373581	374189	.	-	.	ID=gene-JCVISYN3_0615;Name=JCVISYN3_0615;gbkey=Gene;locus_tag=JCVISYN3_0615
+CP014940.1	Genbank	CDS	373581	374189	.	-	0	ID=cds-AMW76578.1;Parent=gene-JCVISYN3_0615;Dbxref=NCBI_GP:AMW76578.1;Name=AMW76578.1;gbkey=CDS;locus_tag=JCVISYN3_0615;product=tRNA binding domain protein;protein_id=AMW76578.1;transl_table=4
+CP014940.1	Genbank	gene	374264	375103	.	+	.	ID=gene-JCVISYN3_0616;Name=JCVISYN3_0616;gbkey=Gene;locus_tag=JCVISYN3_0616
+CP014940.1	Genbank	CDS	374264	375103	.	+	0	ID=cds-AMW76579.1;Parent=gene-JCVISYN3_0616;Dbxref=NCBI_GP:AMW76579.1;Name=AMW76579.1;gbkey=CDS;locus_tag=JCVISYN3_0616;product=FakB: Fatty acid kinase subunit;protein_id=AMW76579.1;transl_table=4
+CP014940.1	Genbank	gene	375114	375965	.	+	.	ID=gene-JCVISYN3_0617;Name=JCVISYN3_0617;gbkey=Gene;locus_tag=JCVISYN3_0617
+CP014940.1	Genbank	CDS	375114	375965	.	+	0	ID=cds-AMW76580.1;Parent=gene-JCVISYN3_0617;Dbxref=NCBI_GP:AMW76580.1;Name=AMW76580.1;gbkey=CDS;locus_tag=JCVISYN3_0617;product=FakB: Fatty acid kinase subunit;protein_id=AMW76580.1;transl_table=4
+CP014940.1	Genbank	gene	376001	376075	.	-	.	ID=gene-JCVISYN3_0618;Name=JCVISYN3_0618;gbkey=Gene;locus_tag=JCVISYN3_0618
+CP014940.1	Genbank	tRNA	376001	376075	.	-	.	ID=rna-JCVISYN3_0618;Parent=gene-JCVISYN3_0618;gbkey=tRNA;locus_tag=JCVISYN3_0618;product=tRNA-Trp
+CP014940.1	Genbank	exon	376001	376075	.	-	.	ID=exon-JCVISYN3_0618-1;Parent=rna-JCVISYN3_0618;gbkey=tRNA;locus_tag=JCVISYN3_0618;product=tRNA-Trp
+CP014940.1	Genbank	gene	376113	376188	.	-	.	ID=gene-JCVISYN3_0619;Name=JCVISYN3_0619;gbkey=Gene;locus_tag=JCVISYN3_0619
+CP014940.1	Genbank	tRNA	376113	376188	.	-	.	ID=rna-JCVISYN3_0619;Parent=gene-JCVISYN3_0619;gbkey=tRNA;locus_tag=JCVISYN3_0619;product=tRNA-Trp
+CP014940.1	Genbank	exon	376113	376188	.	-	.	ID=exon-JCVISYN3_0619-1;Parent=rna-JCVISYN3_0619;gbkey=tRNA;locus_tag=JCVISYN3_0619;product=tRNA-Trp
+CP014940.1	Genbank	gene	376264	376728	.	-	.	ID=gene-JCVISYN3_0620;Name=JCVISYN3_0620;gbkey=Gene;locus_tag=JCVISYN3_0620
+CP014940.1	Genbank	CDS	376264	376728	.	-	0	ID=cds-AMW76581.1;Parent=gene-JCVISYN3_0620;Dbxref=NCBI_GP:AMW76581.1;Name=AMW76581.1;gbkey=CDS;locus_tag=JCVISYN3_0620;product=transcription factor%2C Fur family;protein_id=AMW76581.1;transl_table=4
+CP014940.1	Genbank	gene	376729	376950	.	-	.	ID=gene-JCVISYN3_0621;Name=JCVISYN3_0621;gbkey=Gene;locus_tag=JCVISYN3_0621
+CP014940.1	Genbank	CDS	376729	376950	.	-	0	ID=cds-AMW76582.1;Parent=gene-JCVISYN3_0621;Dbxref=NCBI_GP:AMW76582.1;Name=AMW76582.1;gbkey=CDS;locus_tag=JCVISYN3_0621;product=AcpA: Acyl carrier protein;protein_id=AMW76582.1;transl_table=4
+CP014940.1	Genbank	gene	377133	377208	.	-	.	ID=gene-JCVISYN3_0624;Name=JCVISYN3_0624;gbkey=Gene;locus_tag=JCVISYN3_0624
+CP014940.1	Genbank	tRNA	377133	377208	.	-	.	ID=rna-JCVISYN3_0624;Parent=gene-JCVISYN3_0624;gbkey=tRNA;locus_tag=JCVISYN3_0624;product=tRNA-His
+CP014940.1	Genbank	exon	377133	377208	.	-	.	ID=exon-JCVISYN3_0624-1;Parent=rna-JCVISYN3_0624;gbkey=tRNA;locus_tag=JCVISYN3_0624;product=tRNA-His
+CP014940.1	Genbank	gene	377362	377838	.	-	.	ID=gene-JCVISYN3_0632;Name=JCVISYN3_0632;gbkey=Gene;locus_tag=JCVISYN3_0632
+CP014940.1	Genbank	CDS	377362	377838	.	-	0	ID=cds-AMW76583.1;Parent=gene-JCVISYN3_0632;Dbxref=NCBI_GP:AMW76583.1;Name=AMW76583.1;gbkey=CDS;locus_tag=JCVISYN3_0632;product=hypothetical protein;protein_id=AMW76583.1;transl_table=4
+CP014940.1	Genbank	gene	377995	380409	.	-	.	ID=gene-JCVISYN3_0634;Name=JCVISYN3_0634;gbkey=Gene;locus_tag=JCVISYN3_0634
+CP014940.1	Genbank	CDS	377995	380409	.	-	0	ID=cds-AMW76584.1;Parent=gene-JCVISYN3_0634;Dbxref=NCBI_GP:AMW76584.1;Name=AMW76584.1;gbkey=CDS;locus_tag=JCVISYN3_0634;product=LeuRS: Leucyl-tRNA synthetase;protein_id=AMW76584.1;transl_table=4
+CP014940.1	Genbank	gene	380547	380623	.	-	.	ID=gene-JCVISYN3_0635;Name=JCVISYN3_0635;gbkey=Gene;locus_tag=JCVISYN3_0635
+CP014940.1	Genbank	tRNA	380547	380623	.	-	.	ID=rna-JCVISYN3_0635;Parent=gene-JCVISYN3_0635;gbkey=tRNA;locus_tag=JCVISYN3_0635;product=tRNA-Ile
+CP014940.1	Genbank	exon	380547	380623	.	-	.	ID=exon-JCVISYN3_0635-1;Parent=rna-JCVISYN3_0635;gbkey=tRNA;locus_tag=JCVISYN3_0635;product=tRNA-Ile
+CP014940.1	Genbank	gene	380696	383485	.	-	.	ID=gene-JCVISYN3_0636;Name=JCVISYN3_0636;gbkey=Gene;locus_tag=JCVISYN3_0636
+CP014940.1	Genbank	CDS	380696	383485	.	-	0	ID=cds-AMW76585.1;Parent=gene-JCVISYN3_0636;Dbxref=NCBI_GP:AMW76585.1;Name=AMW76585.1;gbkey=CDS;locus_tag=JCVISYN3_0636;product=lipoprotein%2C putative;protein_id=AMW76585.1;transl_table=4
+CP014940.1	Genbank	gene	383644	384042	.	-	.	ID=gene-JCVISYN3_0637;Name=JCVISYN3_0637;gbkey=Gene;locus_tag=JCVISYN3_0637
+CP014940.1	Genbank	CDS	383644	384042	.	-	0	ID=cds-AMW76586.1;Parent=gene-JCVISYN3_0637;Dbxref=NCBI_GP:AMW76586.1;Name=AMW76586.1;gbkey=CDS;locus_tag=JCVISYN3_0637;product=S5: ribosomal protein S5;protein_id=AMW76586.1;transl_table=4
+CP014940.1	Genbank	gene	384042	384497	.	-	.	ID=gene-JCVISYN3_0638;Name=JCVISYN3_0638;gbkey=Gene;locus_tag=JCVISYN3_0638
+CP014940.1	Genbank	CDS	384042	384497	.	-	0	ID=cds-AMW76587.1;Parent=gene-JCVISYN3_0638;Dbxref=NCBI_GP:AMW76587.1;Name=AMW76587.1;gbkey=CDS;locus_tag=JCVISYN3_0638;product=L13: ribosomal protein L13;protein_id=AMW76587.1;transl_table=4
+CP014940.1	Genbank	gene	384627	388772	.	-	.	ID=gene-JCVISYN3_0639;Name=JCVISYN3_0639;gbkey=Gene;locus_tag=JCVISYN3_0639
+CP014940.1	Genbank	CDS	384627	388772	.	-	0	ID=cds-AMW76588.1;Parent=gene-JCVISYN3_0639;Dbxref=NCBI_GP:AMW76588.1;Name=AMW76588.1;gbkey=CDS;locus_tag=JCVISYN3_0639;product=efflux ABC transporter%2C permease protein;protein_id=AMW76588.1;transl_table=4
+CP014940.1	Genbank	gene	388867	389622	.	-	.	ID=gene-JCVISYN3_0640;Name=JCVISYN3_0640;gbkey=Gene;locus_tag=JCVISYN3_0640
+CP014940.1	Genbank	CDS	388867	389622	.	-	0	ID=cds-AMW76589.1;Parent=gene-JCVISYN3_0640;Dbxref=NCBI_GP:AMW76589.1;Name=AMW76589.1;gbkey=CDS;locus_tag=JCVISYN3_0640;product=putative tRNA pseudouridine(38-40) synthase;protein_id=AMW76589.1;transl_table=4
+CP014940.1	Genbank	gene	389625	390635	.	-	.	ID=gene-JCVISYN3_0641;Name=JCVISYN3_0641;gbkey=Gene;locus_tag=JCVISYN3_0641
+CP014940.1	Genbank	CDS	389625	390635	.	-	0	ID=cds-AMW76590.1;Parent=gene-JCVISYN3_0641;Dbxref=NCBI_GP:AMW76590.1;Name=AMW76590.1;gbkey=CDS;locus_tag=JCVISYN3_0641;product=EcfT: Energy-coupling factor transporter%2C T component;protein_id=AMW76590.1;transl_table=4
+CP014940.1	Genbank	gene	390649	391560	.	-	.	ID=gene-JCVISYN3_0642;Name=JCVISYN3_0642;gbkey=Gene;locus_tag=JCVISYN3_0642
+CP014940.1	Genbank	CDS	390649	391560	.	-	0	ID=cds-AMW76591.1;Parent=gene-JCVISYN3_0642;Dbxref=NCBI_GP:AMW76591.1;Name=AMW76591.1;gbkey=CDS;locus_tag=JCVISYN3_0642;product=EcfA: Energy-coupling factor transporter%2C A component;protein_id=AMW76591.1;transl_table=4
+CP014940.1	Genbank	gene	391548	392774	.	-	.	ID=gene-JCVISYN3_0643;Name=JCVISYN3_0643;gbkey=Gene;locus_tag=JCVISYN3_0643
+CP014940.1	Genbank	CDS	391548	392774	.	-	0	ID=cds-AMW76592.1;Parent=gene-JCVISYN3_0643;Dbxref=NCBI_GP:AMW76592.1;Name=AMW76592.1;gbkey=CDS;locus_tag=JCVISYN3_0643;product=EcfA: Energy-coupling factor transporter%2C A component;protein_id=AMW76592.1;transl_table=4
+CP014940.1	Genbank	gene	392882	393241	.	-	.	ID=gene-JCVISYN3_0644;Name=JCVISYN3_0644;gbkey=Gene;locus_tag=JCVISYN3_0644
+CP014940.1	Genbank	CDS	392882	393241	.	-	0	ID=cds-AMW76593.1;Parent=gene-JCVISYN3_0644;Dbxref=NCBI_GP:AMW76593.1;Name=AMW76593.1;gbkey=CDS;locus_tag=JCVISYN3_0644;product=L17: ribosomal protein L17;protein_id=AMW76593.1;transl_table=4
+CP014940.1	Genbank	gene	393261	394214	.	-	.	ID=gene-JCVISYN3_0645;Name=JCVISYN3_0645;gbkey=Gene;locus_tag=JCVISYN3_0645
+CP014940.1	Genbank	CDS	393261	394214	.	-	0	ID=cds-AMW76594.1;Parent=gene-JCVISYN3_0645;Dbxref=NCBI_GP:AMW76594.1;Name=AMW76594.1;gbkey=CDS;locus_tag=JCVISYN3_0645;product=RpoA: DNA-directed RNA polymerase%2C alpha subunit;protein_id=AMW76594.1;transl_table=4
+CP014940.1	Genbank	gene	394218	394607	.	-	.	ID=gene-JCVISYN3_0646;Name=JCVISYN3_0646;gbkey=Gene;locus_tag=JCVISYN3_0646
+CP014940.1	Genbank	CDS	394218	394607	.	-	0	ID=cds-AMW76595.1;Parent=gene-JCVISYN3_0646;Dbxref=NCBI_GP:AMW76595.1;Name=AMW76595.1;gbkey=CDS;locus_tag=JCVISYN3_0646;product=S11: 30S ribosomal protein S11;protein_id=AMW76595.1;transl_table=4
+CP014940.1	Genbank	gene	394633	394998	.	-	.	ID=gene-JCVISYN3_0647;Name=JCVISYN3_0647;gbkey=Gene;locus_tag=JCVISYN3_0647
+CP014940.1	Genbank	CDS	394633	394998	.	-	0	ID=cds-AMW76596.1;Parent=gene-JCVISYN3_0647;Dbxref=NCBI_GP:AMW76596.1;Name=AMW76596.1;gbkey=CDS;locus_tag=JCVISYN3_0647;product=S13: 30S ribosomal protein S13;protein_id=AMW76596.1;transl_table=4
+CP014940.1	Genbank	gene	395035	395148	.	-	.	ID=gene-JCVISYN3_0648;Name=JCVISYN3_0648;gbkey=Gene;locus_tag=JCVISYN3_0648
+CP014940.1	Genbank	CDS	395035	395148	.	-	0	ID=cds-AMW76597.1;Parent=gene-JCVISYN3_0648;Dbxref=NCBI_GP:AMW76597.1;Name=AMW76597.1;gbkey=CDS;locus_tag=JCVISYN3_0648;product=L36: ribosomal protein L36;protein_id=AMW76597.1;transl_table=4
+CP014940.1	Genbank	gene	395217	395441	.	-	.	ID=gene-JCVISYN3_0649;Name=JCVISYN3_0649;gbkey=Gene;locus_tag=JCVISYN3_0649
+CP014940.1	Genbank	CDS	395217	395441	.	-	0	ID=cds-AMW76598.1;Parent=gene-JCVISYN3_0649;Dbxref=NCBI_GP:AMW76598.1;Name=AMW76598.1;gbkey=CDS;locus_tag=JCVISYN3_0649;product=InfA: translation initiation factor IF-1;protein_id=AMW76598.1;transl_table=4
+CP014940.1	Genbank	gene	395453	396208	.	-	.	ID=gene-JCVISYN3_0650;Name=JCVISYN3_0650;gbkey=Gene;locus_tag=JCVISYN3_0650
+CP014940.1	Genbank	CDS	395453	396208	.	-	0	ID=cds-AMW76599.1;Parent=gene-JCVISYN3_0650;Dbxref=NCBI_GP:AMW76599.1;Name=AMW76599.1;gbkey=CDS;locus_tag=JCVISYN3_0650;product=met_pdase_I: methionine aminopeptidase%2C type I;protein_id=AMW76599.1;transl_table=4
+CP014940.1	Genbank	gene	396208	396849	.	-	.	ID=gene-JCVISYN3_0651;Name=JCVISYN3_0651;gbkey=Gene;locus_tag=JCVISYN3_0651
+CP014940.1	Genbank	CDS	396208	396849	.	-	0	ID=cds-AMW76600.1;Parent=gene-JCVISYN3_0651;Dbxref=NCBI_GP:AMW76600.1;Name=AMW76600.1;gbkey=CDS;locus_tag=JCVISYN3_0651;product=adk: Adenylate kinase;protein_id=AMW76600.1;transl_table=4
+CP014940.1	Genbank	gene	396977	398425	.	-	.	ID=gene-JCVISYN3_0652;Name=JCVISYN3_0652;gbkey=Gene;locus_tag=JCVISYN3_0652
+CP014940.1	Genbank	CDS	396977	398425	.	-	0	ID=cds-AMW76601.1;Parent=gene-JCVISYN3_0652;Dbxref=NCBI_GP:AMW76601.1;Name=AMW76601.1;gbkey=CDS;locus_tag=JCVISYN3_0652;product=SecY: Preprotein translocase%2C SecY subunit;protein_id=AMW76601.1;transl_table=4
+CP014940.1	Genbank	gene	398425	398862	.	-	.	ID=gene-JCVISYN3_0653;Name=JCVISYN3_0653;gbkey=Gene;locus_tag=JCVISYN3_0653
+CP014940.1	Genbank	CDS	398425	398862	.	-	0	ID=cds-AMW76602.1;Parent=gene-JCVISYN3_0653;Dbxref=NCBI_GP:AMW76602.1;Name=AMW76602.1;gbkey=CDS;locus_tag=JCVISYN3_0653;product=L15: ribosomal protein L15;protein_id=AMW76602.1;transl_table=4
+CP014940.1	Genbank	gene	398881	399645	.	-	.	ID=gene-JCVISYN3_0654;Name=JCVISYN3_0654;gbkey=Gene;locus_tag=JCVISYN3_0654
+CP014940.1	Genbank	CDS	398881	399645	.	-	0	ID=cds-AMW76603.1;Parent=gene-JCVISYN3_0654;Dbxref=NCBI_GP:AMW76603.1;Name=AMW76603.1;gbkey=CDS;locus_tag=JCVISYN3_0654;product=S5: ribosomal protein S5;protein_id=AMW76603.1;transl_table=4
+CP014940.1	Genbank	gene	399664	400014	.	-	.	ID=gene-JCVISYN3_0655;Name=JCVISYN3_0655;gbkey=Gene;locus_tag=JCVISYN3_0655
+CP014940.1	Genbank	CDS	399664	400014	.	-	0	ID=cds-AMW76604.1;Parent=gene-JCVISYN3_0655;Dbxref=NCBI_GP:AMW76604.1;Name=AMW76604.1;gbkey=CDS;locus_tag=JCVISYN3_0655;product=L18: ribosomal protein L18;protein_id=AMW76604.1;transl_table=4
+CP014940.1	Genbank	gene	400040	400582	.	-	.	ID=gene-JCVISYN3_0656;Name=JCVISYN3_0656;gbkey=Gene;locus_tag=JCVISYN3_0656
+CP014940.1	Genbank	CDS	400040	400582	.	-	0	ID=cds-AMW76605.1;Parent=gene-JCVISYN3_0656;Dbxref=NCBI_GP:AMW76605.1;Name=AMW76605.1;gbkey=CDS;locus_tag=JCVISYN3_0656;product=L6: ribosomal protein L6;protein_id=AMW76605.1;transl_table=4
+CP014940.1	Genbank	gene	400596	400985	.	-	.	ID=gene-JCVISYN3_0657;Name=JCVISYN3_0657;gbkey=Gene;locus_tag=JCVISYN3_0657
+CP014940.1	Genbank	CDS	400596	400985	.	-	0	ID=cds-AMW76606.1;Parent=gene-JCVISYN3_0657;Dbxref=NCBI_GP:AMW76606.1;Name=AMW76606.1;gbkey=CDS;locus_tag=JCVISYN3_0657;product=S8: ribosomal protein S8;protein_id=AMW76606.1;transl_table=4
+CP014940.1	Genbank	gene	401005	401190	.	-	.	ID=gene-JCVISYN3_0658;Name=JCVISYN3_0658;gbkey=Gene;locus_tag=JCVISYN3_0658
+CP014940.1	Genbank	CDS	401005	401190	.	-	0	ID=cds-AMW76607.1;Parent=gene-JCVISYN3_0658;Dbxref=NCBI_GP:AMW76607.1;Name=AMW76607.1;gbkey=CDS;locus_tag=JCVISYN3_0658;product=S14: ribosomal protein S14;protein_id=AMW76607.1;transl_table=4
+CP014940.1	Genbank	gene	401209	401751	.	-	.	ID=gene-JCVISYN3_0659;Name=JCVISYN3_0659;gbkey=Gene;locus_tag=JCVISYN3_0659
+CP014940.1	Genbank	CDS	401209	401751	.	-	0	ID=cds-AMW76608.1;Parent=gene-JCVISYN3_0659;Dbxref=NCBI_GP:AMW76608.1;Name=AMW76608.1;gbkey=CDS;locus_tag=JCVISYN3_0659;product=L5: ribosomal protein L5;protein_id=AMW76608.1;transl_table=4
+CP014940.1	Genbank	gene	401770	402096	.	-	.	ID=gene-JCVISYN3_0660;Name=JCVISYN3_0660;gbkey=Gene;locus_tag=JCVISYN3_0660
+CP014940.1	Genbank	CDS	401770	402096	.	-	0	ID=cds-AMW76609.1;Parent=gene-JCVISYN3_0660;Dbxref=NCBI_GP:AMW76609.1;Name=AMW76609.1;gbkey=CDS;locus_tag=JCVISYN3_0660;product=L24: ribosomal protein L24;protein_id=AMW76609.1;transl_table=4
+CP014940.1	Genbank	gene	402110	402478	.	-	.	ID=gene-JCVISYN3_0661;Name=JCVISYN3_0661;gbkey=Gene;locus_tag=JCVISYN3_0661
+CP014940.1	Genbank	CDS	402110	402478	.	-	0	ID=cds-AMW76610.1;Parent=gene-JCVISYN3_0661;Dbxref=NCBI_GP:AMW76610.1;Name=AMW76610.1;gbkey=CDS;locus_tag=JCVISYN3_0661;product=L14: ribosomal protein L14;protein_id=AMW76610.1;transl_table=4
+CP014940.1	Genbank	gene	402494	402751	.	-	.	ID=gene-JCVISYN3_0662;Name=JCVISYN3_0662;gbkey=Gene;locus_tag=JCVISYN3_0662
+CP014940.1	Genbank	CDS	402494	402751	.	-	0	ID=cds-AMW76611.1;Parent=gene-JCVISYN3_0662;Dbxref=NCBI_GP:AMW76611.1;Name=AMW76611.1;gbkey=CDS;locus_tag=JCVISYN3_0662;product=S17: 30S ribosomal protein S17;protein_id=AMW76611.1;transl_table=4
+CP014940.1	Genbank	gene	402751	403167	.	-	.	ID=gene-JCVISYN3_0663;Name=JCVISYN3_0663;gbkey=Gene;locus_tag=JCVISYN3_0663
+CP014940.1	Genbank	CDS	402751	403167	.	-	0	ID=cds-AMW76612.1;Parent=gene-JCVISYN3_0663;Dbxref=NCBI_GP:AMW76612.1;Name=AMW76612.1;gbkey=CDS;locus_tag=JCVISYN3_0663;product=L29: ribosomal protein L29;protein_id=AMW76612.1;transl_table=4
+CP014940.1	Genbank	gene	403167	403580	.	-	.	ID=gene-JCVISYN3_0664;Name=JCVISYN3_0664;gbkey=Gene;locus_tag=JCVISYN3_0664
+CP014940.1	Genbank	CDS	403167	403580	.	-	0	ID=cds-AMW76613.1;Parent=gene-JCVISYN3_0664;Dbxref=NCBI_GP:AMW76613.1;Name=AMW76613.1;gbkey=CDS;locus_tag=JCVISYN3_0664;product=L16: ribosomal protein L16;protein_id=AMW76613.1;transl_table=4
+CP014940.1	Genbank	gene	403583	404284	.	-	.	ID=gene-JCVISYN3_0665;Name=JCVISYN3_0665;gbkey=Gene;locus_tag=JCVISYN3_0665
+CP014940.1	Genbank	CDS	403583	404284	.	-	0	ID=cds-AMW76614.1;Parent=gene-JCVISYN3_0665;Dbxref=NCBI_GP:AMW76614.1;Name=AMW76614.1;gbkey=CDS;locus_tag=JCVISYN3_0665;product=S3: ribosomal protein S3;protein_id=AMW76614.1;transl_table=4
+CP014940.1	Genbank	gene	404302	404637	.	-	.	ID=gene-JCVISYN3_0666;Name=JCVISYN3_0666;gbkey=Gene;locus_tag=JCVISYN3_0666
+CP014940.1	Genbank	CDS	404302	404637	.	-	0	ID=cds-AMW76615.1;Parent=gene-JCVISYN3_0666;Dbxref=NCBI_GP:AMW76615.1;Name=AMW76615.1;gbkey=CDS;locus_tag=JCVISYN3_0666;product=L22: ribosomal protein L22;protein_id=AMW76615.1;transl_table=4
+CP014940.1	Genbank	gene	404661	404927	.	-	.	ID=gene-JCVISYN3_0667;Name=JCVISYN3_0667;gbkey=Gene;locus_tag=JCVISYN3_0667
+CP014940.1	Genbank	CDS	404661	404927	.	-	0	ID=cds-AMW76616.1;Parent=gene-JCVISYN3_0667;Dbxref=NCBI_GP:AMW76616.1;Name=AMW76616.1;gbkey=CDS;locus_tag=JCVISYN3_0667;product=S19: ribosomal protein S19;protein_id=AMW76616.1;transl_table=4
+CP014940.1	Genbank	gene	404949	405797	.	-	.	ID=gene-JCVISYN3_0668;Name=JCVISYN3_0668;gbkey=Gene;locus_tag=JCVISYN3_0668
+CP014940.1	Genbank	CDS	404949	405797	.	-	0	ID=cds-AMW76617.1;Parent=gene-JCVISYN3_0668;Dbxref=NCBI_GP:AMW76617.1;Name=AMW76617.1;gbkey=CDS;locus_tag=JCVISYN3_0668;product=L2: ribosomal protein L2;protein_id=AMW76617.1;transl_table=4
+CP014940.1	Genbank	gene	405852	406136	.	-	.	ID=gene-JCVISYN3_0669;Name=JCVISYN3_0669;gbkey=Gene;locus_tag=JCVISYN3_0669
+CP014940.1	Genbank	CDS	405852	406136	.	-	0	ID=cds-AMW76618.1;Parent=gene-JCVISYN3_0669;Dbxref=NCBI_GP:AMW76618.1;Name=AMW76618.1;gbkey=CDS;locus_tag=JCVISYN3_0669;product=L23: ribosomal protein L23;protein_id=AMW76618.1;transl_table=4
+CP014940.1	Genbank	gene	406136	406762	.	-	.	ID=gene-JCVISYN3_0670;Name=JCVISYN3_0670;gbkey=Gene;locus_tag=JCVISYN3_0670
+CP014940.1	Genbank	CDS	406136	406762	.	-	0	ID=cds-AMW76619.1;Parent=gene-JCVISYN3_0670;Dbxref=NCBI_GP:AMW76619.1;Name=AMW76619.1;gbkey=CDS;locus_tag=JCVISYN3_0670;product=L4: 50S ribosomal protein L4;protein_id=AMW76619.1;transl_table=4
+CP014940.1	Genbank	gene	406775	407446	.	-	.	ID=gene-JCVISYN3_0671;Name=JCVISYN3_0671;gbkey=Gene;locus_tag=JCVISYN3_0671
+CP014940.1	Genbank	CDS	406775	407446	.	-	0	ID=cds-AMW76620.1;Parent=gene-JCVISYN3_0671;Dbxref=NCBI_GP:AMW76620.1;Name=AMW76620.1;gbkey=CDS;locus_tag=JCVISYN3_0671;product=L3: 50S ribosomal protein L3;protein_id=AMW76620.1;transl_table=4
+CP014940.1	Genbank	gene	407522	407830	.	-	.	ID=gene-JCVISYN3_0672;Name=JCVISYN3_0672;gbkey=Gene;locus_tag=JCVISYN3_0672
+CP014940.1	Genbank	CDS	407522	407830	.	-	0	ID=cds-AMW76621.1;Parent=gene-JCVISYN3_0672;Dbxref=NCBI_GP:AMW76621.1;Name=AMW76621.1;gbkey=CDS;locus_tag=JCVISYN3_0672;product=S10: ribosomal protein S10;protein_id=AMW76621.1;transl_table=4
+CP014940.1	Genbank	gene	408673	408748	.	-	.	ID=gene-JCVISYN3_0678;Name=JCVISYN3_0678;gbkey=Gene;locus_tag=JCVISYN3_0678
+CP014940.1	Genbank	tRNA	408673	408748	.	-	.	ID=rna-JCVISYN3_0678;Parent=gene-JCVISYN3_0678;gbkey=tRNA;locus_tag=JCVISYN3_0678;product=tRNA-Thr
+CP014940.1	Genbank	exon	408673	408748	.	-	.	ID=exon-JCVISYN3_0678-1;Parent=rna-JCVISYN3_0678;gbkey=tRNA;locus_tag=JCVISYN3_0678;product=tRNA-Thr
+CP014940.1	Genbank	gene	408761	408836	.	-	.	ID=gene-JCVISYN3_0679;Name=JCVISYN3_0679;gbkey=Gene;locus_tag=JCVISYN3_0679
+CP014940.1	Genbank	tRNA	408761	408836	.	-	.	ID=rna-JCVISYN3_0679;Parent=gene-JCVISYN3_0679;gbkey=tRNA;locus_tag=JCVISYN3_0679;product=tRNA-Val
+CP014940.1	Genbank	exon	408761	408836	.	-	.	ID=exon-JCVISYN3_0679-1;Parent=rna-JCVISYN3_0679;gbkey=tRNA;locus_tag=JCVISYN3_0679;product=tRNA-Val
+CP014940.1	Genbank	gene	408844	408919	.	-	.	ID=gene-JCVISYN3_0680;Name=JCVISYN3_0680;gbkey=Gene;locus_tag=JCVISYN3_0680
+CP014940.1	Genbank	tRNA	408844	408919	.	-	.	ID=rna-JCVISYN3_0680;Parent=gene-JCVISYN3_0680;gbkey=tRNA;locus_tag=JCVISYN3_0680;product=tRNA-Glu
+CP014940.1	Genbank	exon	408844	408919	.	-	.	ID=exon-JCVISYN3_0680-1;Parent=rna-JCVISYN3_0680;gbkey=tRNA;locus_tag=JCVISYN3_0680;product=tRNA-Glu
+CP014940.1	Genbank	gene	408927	409002	.	-	.	ID=gene-JCVISYN3_0681;Name=JCVISYN3_0681;gbkey=Gene;locus_tag=JCVISYN3_0681
+CP014940.1	Genbank	tRNA	408927	409002	.	-	.	ID=rna-JCVISYN3_0681;Parent=gene-JCVISYN3_0681;gbkey=tRNA;locus_tag=JCVISYN3_0681;product=tRNA-Asn
+CP014940.1	Genbank	exon	408927	409002	.	-	.	ID=exon-JCVISYN3_0681-1;Parent=rna-JCVISYN3_0681;gbkey=tRNA;locus_tag=JCVISYN3_0681;product=tRNA-Asn
+CP014940.1	Genbank	gene	409104	409970	.	-	.	ID=gene-JCVISYN3_0684;Name=JCVISYN3_0684;gbkey=Gene;locus_tag=JCVISYN3_0684
+CP014940.1	Genbank	CDS	409104	409970	.	-	0	ID=cds-AMW76622.1;Parent=gene-JCVISYN3_0684;Dbxref=NCBI_GP:AMW76622.1;Name=AMW76622.1;gbkey=CDS;locus_tag=JCVISYN3_0684;product=FolD: Tetrahydrofolate interconversion;protein_id=AMW76622.1;transl_table=4
+CP014940.1	Genbank	gene	409979	411580	.	-	.	ID=gene-JCVISYN3_0685;Name=JCVISYN3_0685;gbkey=Gene;locus_tag=JCVISYN3_0685
+CP014940.1	Genbank	CDS	409979	411580	.	-	0	ID=cds-AMW76623.1;Parent=gene-JCVISYN3_0685;Dbxref=NCBI_GP:AMW76623.1;Name=AMW76623.1;gbkey=CDS;locus_tag=JCVISYN3_0685;product=KtrAB: Potassium uptake protein;protein_id=AMW76623.1;transl_table=4
+CP014940.1	Genbank	gene	411659	412387	.	+	.	ID=gene-JCVISYN3_0686;Name=JCVISYN3_0686;gbkey=Gene;locus_tag=JCVISYN3_0686
+CP014940.1	Genbank	CDS	411659	412387	.	+	0	ID=cds-AMW76624.1;Parent=gene-JCVISYN3_0686;Dbxref=NCBI_GP:AMW76624.1;Name=AMW76624.1;gbkey=CDS;locus_tag=JCVISYN3_0686;product=TrkA: Potassium uptake protein;protein_id=AMW76624.1;transl_table=4
+CP014940.1	Genbank	gene	412414	413853	.	-	.	ID=gene-JCVISYN3_0687;Name=JCVISYN3_0687;gbkey=Gene;locus_tag=JCVISYN3_0687
+CP014940.1	Genbank	CDS	412414	413853	.	-	0	ID=cds-AMW76625.1;Parent=gene-JCVISYN3_0687;Dbxref=NCBI_GP:AMW76625.1;Name=AMW76625.1;gbkey=CDS;locus_tag=JCVISYN3_0687;product=GatB: aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase;protein_id=AMW76625.1;transl_table=4
+CP014940.1	Genbank	gene	413855	415312	.	-	.	ID=gene-JCVISYN3_0688;Name=JCVISYN3_0688;gbkey=Gene;locus_tag=JCVISYN3_0688
+CP014940.1	Genbank	CDS	413855	415312	.	-	0	ID=cds-AMW76626.1;Parent=gene-JCVISYN3_0688;Dbxref=NCBI_GP:AMW76626.1;Name=AMW76626.1;gbkey=CDS;locus_tag=JCVISYN3_0688;product=GatA: aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase;protein_id=AMW76626.1;transl_table=4
+CP014940.1	Genbank	gene	415312	415608	.	-	.	ID=gene-JCVISYN3_0689;Name=JCVISYN3_0689;gbkey=Gene;locus_tag=JCVISYN3_0689
+CP014940.1	Genbank	CDS	415312	415608	.	-	0	ID=cds-AMW76627.1;Parent=gene-JCVISYN3_0689;Dbxref=NCBI_GP:AMW76627.1;Name=AMW76627.1;gbkey=CDS;locus_tag=JCVISYN3_0689;product=GatC: aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase;protein_id=AMW76627.1;transl_table=4
+CP014940.1	Genbank	gene	415610	417616	.	-	.	ID=gene-JCVISYN3_0690;Name=JCVISYN3_0690;gbkey=Gene;locus_tag=JCVISYN3_0690
+CP014940.1	Genbank	CDS	415610	417616	.	-	0	ID=cds-AMW76628.1;Parent=gene-JCVISYN3_0690;Dbxref=NCBI_GP:AMW76628.1;Name=AMW76628.1;gbkey=CDS;locus_tag=JCVISYN3_0690;product=DnlJ: DNA ligase%2C NAD-dependent;protein_id=AMW76628.1;transl_table=4
+CP014940.1	Genbank	gene	417620	419641	.	-	.	ID=gene-JCVISYN3_0691;Name=JCVISYN3_0691;gbkey=Gene;locus_tag=JCVISYN3_0691
+CP014940.1	Genbank	CDS	417620	419641	.	-	0	ID=cds-AMW76629.1;Parent=gene-JCVISYN3_0691;Dbxref=NCBI_GP:AMW76629.1;Name=AMW76629.1;gbkey=CDS;locus_tag=JCVISYN3_0691;product=membrane protein%2C putative;protein_id=AMW76629.1;transl_table=4
+CP014940.1	Genbank	gene	419644	420552	.	-	.	ID=gene-JCVISYN3_0692;Name=JCVISYN3_0692;gbkey=Gene;locus_tag=JCVISYN3_0692
+CP014940.1	Genbank	CDS	419644	420552	.	-	0	ID=cds-AMW76630.1;Parent=gene-JCVISYN3_0692;Dbxref=NCBI_GP:AMW76630.1;Name=AMW76630.1;gbkey=CDS;locus_tag=JCVISYN3_0692;product=pseudouridine synthase%2C RluA family;protein_id=AMW76630.1;transl_table=4
+CP014940.1	Genbank	gene	420555	421523	.	-	.	ID=gene-JCVISYN3_0693;Name=JCVISYN3_0693;gbkey=Gene;locus_tag=JCVISYN3_0693
+CP014940.1	Genbank	CDS	420555	421523	.	-	0	ID=cds-AMW76631.1;Parent=gene-JCVISYN3_0693;Dbxref=NCBI_GP:AMW76631.1;Name=AMW76631.1;gbkey=CDS;locus_tag=JCVISYN3_0693;product=CAAX protease;protein_id=AMW76631.1;transl_table=4
+CP014940.1	Genbank	gene	421579	421848	.	-	.	ID=gene-JCVISYN3_0694;Name=JCVISYN3_0694;gbkey=Gene;locus_tag=JCVISYN3_0694
+CP014940.1	Genbank	CDS	421579	421848	.	-	0	ID=cds-AMW76632.1;Parent=gene-JCVISYN3_0694;Dbxref=NCBI_GP:AMW76632.1;Name=AMW76632.1;gbkey=CDS;locus_tag=JCVISYN3_0694;product=PtsH: Phosphocarrier protein HPr;protein_id=AMW76632.1;transl_table=4
+CP014940.1	Genbank	gene	421913	424081	.	-	.	ID=gene-JCVISYN3_0695;Name=JCVISYN3_0695;gbkey=Gene;locus_tag=JCVISYN3_0695
+CP014940.1	Genbank	CDS	421913	424081	.	-	0	ID=cds-AMW76633.1;Parent=gene-JCVISYN3_0695;Dbxref=NCBI_GP:AMW76633.1;Name=AMW76633.1;gbkey=CDS;locus_tag=JCVISYN3_0695;product=PcrA: ATP-dependent DNA helicase;protein_id=AMW76633.1;transl_table=4
+CP014940.1	Genbank	gene	424098	424853	.	-	.	ID=gene-JCVISYN3_0696;Name=JCVISYN3_0696;gbkey=Gene;locus_tag=JCVISYN3_0696
+CP014940.1	Genbank	CDS	424098	424853	.	-	0	ID=cds-AMW76634.1;Parent=gene-JCVISYN3_0696;Dbxref=NCBI_GP:AMW76634.1;Name=AMW76634.1;gbkey=CDS;locus_tag=JCVISYN3_0696;product=RDD family protein;protein_id=AMW76634.1;transl_table=4
+CP014940.1	Genbank	gene	424853	425809	.	-	.	ID=gene-JCVISYN3_0697;Name=JCVISYN3_0697;gbkey=Gene;locus_tag=JCVISYN3_0697
+CP014940.1	Genbank	CDS	424853	425809	.	-	0	ID=cds-AMW76635.1;Parent=gene-JCVISYN3_0697;Dbxref=NCBI_GP:AMW76635.1;Name=AMW76635.1;gbkey=CDS;locus_tag=JCVISYN3_0697;product=glycosyltransferase%2C group 2 family protein;protein_id=AMW76635.1;transl_table=4
+CP014940.1	Genbank	gene	426229	427977	.	-	.	ID=gene-JCVISYN3_0706;Name=JCVISYN3_0706;gbkey=Gene;locus_tag=JCVISYN3_0706
+CP014940.1	Genbank	CDS	426229	427977	.	-	0	ID=cds-AMW76636.1;Parent=gene-JCVISYN3_0706;Dbxref=NCBI_GP:AMW76636.1;Name=AMW76636.1;gbkey=CDS;locus_tag=JCVISYN3_0706;product=ABC transporter%2C permease protein;protein_id=AMW76636.1;transl_table=4
+CP014940.1	Genbank	gene	427941	428690	.	-	.	ID=gene-JCVISYN3_0707;Name=JCVISYN3_0707;gbkey=Gene;locus_tag=JCVISYN3_0707
+CP014940.1	Genbank	CDS	427941	428690	.	-	0	ID=cds-AMW76637.1;Parent=gene-JCVISYN3_0707;Dbxref=NCBI_GP:AMW76637.1;Name=AMW76637.1;gbkey=CDS;locus_tag=JCVISYN3_0707;product=ABC transporter%2C ATP-binding protein;protein_id=AMW76637.1;transl_table=4
+CP014940.1	Genbank	gene	428704	430167	.	-	.	ID=gene-JCVISYN3_0708;Name=JCVISYN3_0708;gbkey=Gene;locus_tag=JCVISYN3_0708
+CP014940.1	Genbank	CDS	428704	430167	.	-	0	ID=cds-AMW76638.1;Parent=gene-JCVISYN3_0708;Dbxref=NCBI_GP:AMW76638.1;Name=AMW76638.1;gbkey=CDS;locus_tag=JCVISYN3_0708;product=high affinity transport system protein p37;protein_id=AMW76638.1;transl_table=4
+CP014940.1	Genbank	gene	430390	431253	.	-	.	ID=gene-JCVISYN3_0710;Name=JCVISYN3_0710;gbkey=Gene;locus_tag=JCVISYN3_0710
+CP014940.1	Genbank	CDS	430390	431253	.	-	0	ID=cds-AMW76639.1;Parent=gene-JCVISYN3_0710;Dbxref=NCBI_GP:AMW76639.1;Name=AMW76639.1;gbkey=CDS;locus_tag=JCVISYN3_0710;product=Cof-like hydrolase;protein_id=AMW76639.1;transl_table=4
+CP014940.1	Genbank	gene	431590	431666	.	+	.	ID=gene-JCVISYN3_0717;Name=JCVISYN3_0717;gbkey=Gene;locus_tag=JCVISYN3_0717
+CP014940.1	Genbank	tRNA	431590	431666	.	+	.	ID=rna-JCVISYN3_0717;Parent=gene-JCVISYN3_0717;gbkey=tRNA;locus_tag=JCVISYN3_0717;product=tRNA-Arg
+CP014940.1	Genbank	exon	431590	431666	.	+	.	ID=exon-JCVISYN3_0717-1;Parent=rna-JCVISYN3_0717;gbkey=tRNA;locus_tag=JCVISYN3_0717;product=tRNA-Arg
+CP014940.1	Genbank	gene	431714	431790	.	+	.	ID=gene-JCVISYN3_0718;Name=JCVISYN3_0718;gbkey=Gene;locus_tag=JCVISYN3_0718
+CP014940.1	Genbank	tRNA	431714	431790	.	+	.	ID=rna-JCVISYN3_0718;Parent=gene-JCVISYN3_0718;gbkey=tRNA;locus_tag=JCVISYN3_0718;product=tRNA-Pro
+CP014940.1	Genbank	exon	431714	431790	.	+	.	ID=exon-JCVISYN3_0718-1;Parent=rna-JCVISYN3_0718;gbkey=tRNA;locus_tag=JCVISYN3_0718;product=tRNA-Pro
+CP014940.1	Genbank	gene	431801	431876	.	+	.	ID=gene-JCVISYN3_0719;Name=JCVISYN3_0719;gbkey=Gene;locus_tag=JCVISYN3_0719
+CP014940.1	Genbank	tRNA	431801	431876	.	+	.	ID=rna-JCVISYN3_0719;Parent=gene-JCVISYN3_0719;gbkey=tRNA;locus_tag=JCVISYN3_0719;product=tRNA-Ala
+CP014940.1	Genbank	exon	431801	431876	.	+	.	ID=exon-JCVISYN3_0719-1;Parent=rna-JCVISYN3_0719;gbkey=tRNA;locus_tag=JCVISYN3_0719;product=tRNA-Ala
+CP014940.1	Genbank	gene	431881	431957	.	+	.	ID=gene-JCVISYN3_0720;Name=JCVISYN3_0720;gbkey=Gene;locus_tag=JCVISYN3_0720
+CP014940.1	Genbank	tRNA	431881	431957	.	+	.	ID=rna-JCVISYN3_0720;Parent=gene-JCVISYN3_0720;gbkey=tRNA;locus_tag=JCVISYN3_0720;product=tRNA-Met
+CP014940.1	Genbank	exon	431881	431957	.	+	.	ID=exon-JCVISYN3_0720-1;Parent=rna-JCVISYN3_0720;gbkey=tRNA;locus_tag=JCVISYN3_0720;product=tRNA-Met
+CP014940.1	Genbank	gene	431969	432045	.	+	.	ID=gene-JCVISYN3_0721;Name=JCVISYN3_0721;gbkey=Gene;locus_tag=JCVISYN3_0721
+CP014940.1	Genbank	tRNA	431969	432045	.	+	.	ID=rna-JCVISYN3_0721;Parent=gene-JCVISYN3_0721;gbkey=tRNA;locus_tag=JCVISYN3_0721;product=tRNA-Met
+CP014940.1	Genbank	exon	431969	432045	.	+	.	ID=exon-JCVISYN3_0721-1;Parent=rna-JCVISYN3_0721;gbkey=tRNA;locus_tag=JCVISYN3_0721;product=tRNA-Met
+CP014940.1	Genbank	gene	432088	432180	.	+	.	ID=gene-JCVISYN3_0722;Name=JCVISYN3_0722;gbkey=Gene;locus_tag=JCVISYN3_0722
+CP014940.1	Genbank	tRNA	432088	432180	.	+	.	ID=rna-JCVISYN3_0722;Parent=gene-JCVISYN3_0722;gbkey=tRNA;locus_tag=JCVISYN3_0722;product=tRNA-Ser
+CP014940.1	Genbank	exon	432088	432180	.	+	.	ID=exon-JCVISYN3_0722-1;Parent=rna-JCVISYN3_0722;gbkey=tRNA;locus_tag=JCVISYN3_0722;product=tRNA-Ser
+CP014940.1	Genbank	gene	432203	432278	.	+	.	ID=gene-JCVISYN3_0723;Name=JCVISYN3_0723;gbkey=Gene;locus_tag=JCVISYN3_0723
+CP014940.1	Genbank	tRNA	432203	432278	.	+	.	ID=rna-JCVISYN3_0723;Parent=gene-JCVISYN3_0723;gbkey=tRNA;locus_tag=JCVISYN3_0723;product=tRNA-Met
+CP014940.1	Genbank	exon	432203	432278	.	+	.	ID=exon-JCVISYN3_0723-1;Parent=rna-JCVISYN3_0723;gbkey=tRNA;locus_tag=JCVISYN3_0723;product=tRNA-Met
+CP014940.1	Genbank	gene	432281	432357	.	+	.	ID=gene-JCVISYN3_0724;Name=JCVISYN3_0724;gbkey=Gene;locus_tag=JCVISYN3_0724
+CP014940.1	Genbank	tRNA	432281	432357	.	+	.	ID=rna-JCVISYN3_0724;Parent=gene-JCVISYN3_0724;gbkey=tRNA;locus_tag=JCVISYN3_0724;product=tRNA-Asp
+CP014940.1	Genbank	exon	432281	432357	.	+	.	ID=exon-JCVISYN3_0724-1;Parent=rna-JCVISYN3_0724;gbkey=tRNA;locus_tag=JCVISYN3_0724;product=tRNA-Asp
+CP014940.1	Genbank	gene	432366	432441	.	+	.	ID=gene-JCVISYN3_0725;Name=JCVISYN3_0725;gbkey=Gene;locus_tag=JCVISYN3_0725
+CP014940.1	Genbank	tRNA	432366	432441	.	+	.	ID=rna-JCVISYN3_0725;Parent=gene-JCVISYN3_0725;gbkey=tRNA;locus_tag=JCVISYN3_0725;product=tRNA-Phe
+CP014940.1	Genbank	exon	432366	432441	.	+	.	ID=exon-JCVISYN3_0725-1;Parent=rna-JCVISYN3_0725;gbkey=tRNA;locus_tag=JCVISYN3_0725;product=tRNA-Phe
+CP014940.1	Genbank	gene	432549	433283	.	+	.	ID=gene-JCVISYN3_0726;Name=JCVISYN3_0726;gbkey=Gene;locus_tag=JCVISYN3_0726
+CP014940.1	Genbank	CDS	432549	433283	.	+	0	ID=cds-AMW76640.1;Parent=gene-JCVISYN3_0726;Dbxref=NCBI_GP:AMW76640.1;Name=AMW76640.1;gbkey=CDS;locus_tag=JCVISYN3_0726;product=NagB: glucosamine-6-phosphate deaminase;protein_id=AMW76640.1;transl_table=4
+CP014940.1	Genbank	gene	433381	434127	.	+	.	ID=gene-JCVISYN3_0727;Name=JCVISYN3_0727;gbkey=Gene;locus_tag=JCVISYN3_0727
+CP014940.1	Genbank	CDS	433381	434127	.	+	0	ID=cds-AMW76641.1;Parent=gene-JCVISYN3_0727;Dbxref=NCBI_GP:AMW76641.1;Name=AMW76641.1;gbkey=CDS;locus_tag=JCVISYN3_0727;product=TpiA: triose-phosphate isomerase;protein_id=AMW76641.1;transl_table=4
+CP014940.1	Genbank	gene	434120	434956	.	+	.	ID=gene-JCVISYN3_0728;Name=JCVISYN3_0728;gbkey=Gene;locus_tag=JCVISYN3_0728
+CP014940.1	Genbank	CDS	434120	434956	.	+	0	ID=cds-AMW76642.1;Parent=gene-JCVISYN3_0728;Dbxref=NCBI_GP:AMW76642.1;Name=AMW76642.1;gbkey=CDS;locus_tag=JCVISYN3_0728;product=HAD hydrolase%2C family IIB;protein_id=AMW76642.1;transl_table=4
+CP014940.1	Genbank	gene	434959	436554	.	+	.	ID=gene-JCVISYN3_0729;Name=JCVISYN3_0729;gbkey=Gene;locus_tag=JCVISYN3_0729
+CP014940.1	Genbank	CDS	434959	436554	.	+	0	ID=cds-AMW76643.1;Parent=gene-JCVISYN3_0729;Dbxref=NCBI_GP:AMW76643.1;Name=AMW76643.1;gbkey=CDS;locus_tag=JCVISYN3_0729;product=pgm_bpd_ind: phosphoglycerate mutase (2%2C3-diphosphoglycerate-independent);protein_id=AMW76643.1;transl_table=4
+CP014940.1	Genbank	gene	436654	437253	.	+	.	ID=gene-JCVISYN3_0730;Name=JCVISYN3_0730;gbkey=Gene;locus_tag=JCVISYN3_0730
+CP014940.1	Genbank	CDS	436654	437253	.	+	0	ID=cds-AMW76644.1;Parent=gene-JCVISYN3_0730;Dbxref=NCBI_GP:AMW76644.1;Name=AMW76644.1;gbkey=CDS;locus_tag=JCVISYN3_0730;product=hypothetical protein;protein_id=AMW76644.1;transl_table=4
+CP014940.1	Genbank	gene	437306	437974	.	-	.	ID=gene-JCVISYN3_0732;Name=JCVISYN3_0732;gbkey=Gene;locus_tag=JCVISYN3_0732
+CP014940.1	Genbank	CDS	437306	437974	.	-	0	ID=cds-AMW76645.1;Parent=gene-JCVISYN3_0732;Dbxref=NCBI_GP:AMW76645.1;Name=AMW76645.1;gbkey=CDS;locus_tag=JCVISYN3_0732;product=DeoC: deoxyribose-phosphate aldolase;protein_id=AMW76645.1;transl_table=4
+CP014940.1	Genbank	gene	437986	439662	.	-	.	ID=gene-JCVISYN3_0733;Name=JCVISYN3_0733;gbkey=Gene;locus_tag=JCVISYN3_0733
+CP014940.1	Genbank	CDS	437986	439662	.	-	0	ID=cds-AMW76646.1;Parent=gene-JCVISYN3_0733;Dbxref=NCBI_GP:AMW76646.1;Name=AMW76646.1;gbkey=CDS;locus_tag=JCVISYN3_0733;product=PgcA: Phosphoglucomutase;protein_id=AMW76646.1;transl_table=4
+CP014940.1	Genbank	gene	440026	440679	.	+	.	ID=gene-JCVISYN3_0747;Name=JCVISYN3_0747;gbkey=Gene;locus_tag=JCVISYN3_0747
+CP014940.1	Genbank	CDS	440026	440679	.	+	0	ID=cds-AMW76647.1;Parent=gene-JCVISYN3_0747;Dbxref=NCBI_GP:AMW76647.1;Name=AMW76647.1;gbkey=CDS;locus_tag=JCVISYN3_0747;product=PunA: Purine nucleoside phosphorylase;protein_id=AMW76647.1;transl_table=4
+CP014940.1	Genbank	gene	440832	442994	.	-	.	ID=gene-JCVISYN3_0771;Name=JCVISYN3_0771;gbkey=Gene;locus_tag=JCVISYN3_0771
+CP014940.1	Genbank	CDS	440832	442994	.	-	0	ID=cds-AMW76648.1;Parent=gene-JCVISYN3_0771;Dbxref=NCBI_GP:AMW76648.1;Name=AMW76648.1;gbkey=CDS;locus_tag=JCVISYN3_0771;product=NrdE_NrdA: ribonucleoside-diphosphate reductase%2C alpha subunit;protein_id=AMW76648.1;transl_table=4
+CP014940.1	Genbank	gene	442981	443454	.	-	.	ID=gene-JCVISYN3_0772;Name=JCVISYN3_0772;gbkey=Gene;locus_tag=JCVISYN3_0772
+CP014940.1	Genbank	CDS	442981	443454	.	-	0	ID=cds-AMW76649.1;Parent=gene-JCVISYN3_0772;Dbxref=NCBI_GP:AMW76649.1;Name=AMW76649.1;gbkey=CDS;locus_tag=JCVISYN3_0772;product=NrdI: ribonucleotide reductase related;protein_id=AMW76649.1;transl_table=4
+CP014940.1	Genbank	gene	443463	444482	.	-	.	ID=gene-JCVISYN3_0773;Name=JCVISYN3_0773;gbkey=Gene;locus_tag=JCVISYN3_0773
+CP014940.1	Genbank	CDS	443463	444482	.	-	0	ID=cds-AMW76650.1;Parent=gene-JCVISYN3_0773;Dbxref=NCBI_GP:AMW76650.1;Name=AMW76650.1;gbkey=CDS;locus_tag=JCVISYN3_0773;product=NrdF: Ribonucleoside-diphosphate reductase;protein_id=AMW76650.1;transl_table=4
+CP014940.1	Genbank	gene	444781	445065	.	+	.	ID=gene-JCVISYN3_0774;Name=JCVISYN3_0774;gbkey=Gene;locus_tag=JCVISYN3_0774
+CP014940.1	Genbank	CDS	444781	445065	.	+	0	ID=cds-AMW76651.1;Parent=gene-JCVISYN3_0774;Dbxref=NCBI_GP:AMW76651.1;Name=AMW76651.1;gbkey=CDS;locus_tag=JCVISYN3_0774;product=SecG: preprotein translocase;protein_id=AMW76651.1;transl_table=4
+CP014940.1	Genbank	gene	445101	447215	.	+	.	ID=gene-JCVISYN3_0775;Name=JCVISYN3_0775;gbkey=Gene;locus_tag=JCVISYN3_0775
+CP014940.1	Genbank	CDS	445101	447215	.	+	0	ID=cds-AMW76652.1;Parent=gene-JCVISYN3_0775;Dbxref=NCBI_GP:AMW76652.1;Name=AMW76652.1;gbkey=CDS;locus_tag=JCVISYN3_0775;product=RNase_R: ribonuclease R;protein_id=AMW76652.1;transl_table=4
+CP014940.1	Genbank	gene	447225	447671	.	+	.	ID=gene-JCVISYN3_0776;Name=JCVISYN3_0776;gbkey=Gene;locus_tag=JCVISYN3_0776
+CP014940.1	Genbank	CDS	447225	447671	.	+	0	ID=cds-AMW76653.1;Parent=gene-JCVISYN3_0776;Dbxref=NCBI_GP:AMW76653.1;Name=AMW76653.1;gbkey=CDS;locus_tag=JCVISYN3_0776;product=SmpB: SsrA-binding protein;protein_id=AMW76653.1;transl_table=4
+CP014940.1	Genbank	gene	447671	448156	.	+	.	ID=gene-JCVISYN3_0777;Name=JCVISYN3_0777;gbkey=Gene;locus_tag=JCVISYN3_0777
+CP014940.1	Genbank	CDS	447671	448156	.	+	0	ID=cds-AMW76654.1;Parent=gene-JCVISYN3_0777;Dbxref=NCBI_GP:AMW76654.1;Name=AMW76654.1;gbkey=CDS;locus_tag=JCVISYN3_0777;product=hypothetical protein;protein_id=AMW76654.1;transl_table=4
+CP014940.1	Genbank	gene	448276	448527	.	+	.	ID=gene-JCVISYN3_0778;Name=JCVISYN3_0778;gbkey=Gene;locus_tag=JCVISYN3_0778
+CP014940.1	Genbank	CDS	448276	448527	.	+	0	ID=cds-AMW76655.1;Parent=gene-JCVISYN3_0778;Dbxref=NCBI_GP:AMW76655.1;Name=AMW76655.1;gbkey=CDS;locus_tag=JCVISYN3_0778;product=hypothetical protein;protein_id=AMW76655.1;transl_table=4
+CP014940.1	Genbank	gene	448578	450815	.	+	.	ID=gene-JCVISYN3_0779;Name=JCVISYN3_0779;gbkey=Gene;locus_tag=JCVISYN3_0779
+CP014940.1	Genbank	CDS	448578	450815	.	+	0	ID=cds-AMW76656.1;Parent=gene-JCVISYN3_0779;Dbxref=NCBI_GP:AMW76656.1;Name=AMW76656.1;gbkey=CDS;locus_tag=JCVISYN3_0779;product=PtsG: PTS system glucose-specific EIICB component;protein_id=AMW76656.1;transl_table=4
+CP014940.1	Genbank	gene	451153	453981	.	-	.	ID=gene-JCVISYN3_0787;Name=JCVISYN3_0787;gbkey=Gene;locus_tag=JCVISYN3_0787
+CP014940.1	Genbank	CDS	451153	453981	.	-	0	ID=cds-AMW76657.1;Parent=gene-JCVISYN3_0787;Dbxref=NCBI_GP:AMW76657.1;Name=AMW76657.1;gbkey=CDS;locus_tag=JCVISYN3_0787;product=ATPase-IIIB_Mg: magnesium-translocating P-type ATPase;protein_id=AMW76657.1;transl_table=4
+CP014940.1	Genbank	gene	454399	454698	.	-	.	ID=gene-JCVISYN3_0789;Name=JCVISYN3_0789;gbkey=Gene;locus_tag=JCVISYN3_0789
+CP014940.1	Genbank	CDS	454399	454698	.	-	0	ID=cds-AMW76658.1;Parent=gene-JCVISYN3_0789;Dbxref=NCBI_GP:AMW76658.1;Name=AMW76658.1;gbkey=CDS;locus_tag=JCVISYN3_0789;product=AtpC: ATP synthase epsilon chain;protein_id=AMW76658.1;transl_table=4
+CP014940.1	Genbank	gene	454698	456125	.	-	.	ID=gene-JCVISYN3_0790;Name=JCVISYN3_0790;gbkey=Gene;locus_tag=JCVISYN3_0790
+CP014940.1	Genbank	CDS	454698	456125	.	-	0	ID=cds-AMW76659.1;Parent=gene-JCVISYN3_0790;Dbxref=NCBI_GP:AMW76659.1;Name=AMW76659.1;gbkey=CDS;locus_tag=JCVISYN3_0790;product=AtpD: ATP synthase subunit beta;protein_id=AMW76659.1;transl_table=4
+CP014940.1	Genbank	gene	456134	456976	.	-	.	ID=gene-JCVISYN3_0791;Name=JCVISYN3_0791;gbkey=Gene;locus_tag=JCVISYN3_0791
+CP014940.1	Genbank	CDS	456134	456976	.	-	0	ID=cds-AMW76660.1;Parent=gene-JCVISYN3_0791;Dbxref=NCBI_GP:AMW76660.1;Name=AMW76660.1;gbkey=CDS;locus_tag=JCVISYN3_0791;product=ATPsyn_F1gamma: ATP synthase F1%2C gamma subunit;protein_id=AMW76660.1;transl_table=4
+CP014940.1	Genbank	gene	456978	458555	.	-	.	ID=gene-JCVISYN3_0792;Name=JCVISYN3_0792;gbkey=Gene;locus_tag=JCVISYN3_0792
+CP014940.1	Genbank	CDS	456978	458555	.	-	0	ID=cds-AMW76661.1;Parent=gene-JCVISYN3_0792;Dbxref=NCBI_GP:AMW76661.1;Name=AMW76661.1;gbkey=CDS;locus_tag=JCVISYN3_0792;product=atpA: ATP synthase F1%2C alpha subunit;protein_id=AMW76661.1;transl_table=4
+CP014940.1	Genbank	gene	458567	459112	.	-	.	ID=gene-JCVISYN3_0793;Name=JCVISYN3_0793;gbkey=Gene;locus_tag=JCVISYN3_0793
+CP014940.1	Genbank	CDS	458567	459112	.	-	0	ID=cds-AMW76662.1;Parent=gene-JCVISYN3_0793;Dbxref=NCBI_GP:AMW76662.1;Name=AMW76662.1;gbkey=CDS;locus_tag=JCVISYN3_0793;product=ATP_synt_delta: ATP synthase F1%2C delta subunit;protein_id=AMW76662.1;transl_table=4
+CP014940.1	Genbank	gene	459114	459659	.	-	.	ID=gene-JCVISYN3_0794;Name=JCVISYN3_0794;gbkey=Gene;locus_tag=JCVISYN3_0794
+CP014940.1	Genbank	CDS	459114	459659	.	-	0	ID=cds-AMW76663.1;Parent=gene-JCVISYN3_0794;Dbxref=NCBI_GP:AMW76663.1;Name=AMW76663.1;gbkey=CDS;locus_tag=JCVISYN3_0794;product=ATP_synt_b: ATP synthase F0%2C B subunit;protein_id=AMW76663.1;transl_table=4
+CP014940.1	Genbank	gene	459688	459993	.	-	.	ID=gene-JCVISYN3_0795;Name=JCVISYN3_0795;gbkey=Gene;locus_tag=JCVISYN3_0795
+CP014940.1	Genbank	CDS	459688	459993	.	-	0	ID=cds-AMW76664.1;Parent=gene-JCVISYN3_0795;Dbxref=NCBI_GP:AMW76664.1;Name=AMW76664.1;gbkey=CDS;locus_tag=JCVISYN3_0795;product=ATP_synt_c: ATP synthase F0%2C C subunit;protein_id=AMW76664.1;transl_table=4
+CP014940.1	Genbank	gene	460023	460886	.	-	.	ID=gene-JCVISYN3_0796;Name=JCVISYN3_0796;gbkey=Gene;locus_tag=JCVISYN3_0796
+CP014940.1	Genbank	CDS	460023	460886	.	-	0	ID=cds-AMW76665.1;Parent=gene-JCVISYN3_0796;Dbxref=NCBI_GP:AMW76665.1;Name=AMW76665.1;gbkey=CDS;locus_tag=JCVISYN3_0796;product=AtpB: ATP synthase subunit a;protein_id=AMW76665.1;transl_table=4
+CP014940.1	Genbank	gene	460886	461122	.	-	.	ID=gene-JCVISYN3_0797;Name=JCVISYN3_0797;gbkey=Gene;locus_tag=JCVISYN3_0797
+CP014940.1	Genbank	CDS	460886	461122	.	-	0	ID=cds-AMW76666.1;Parent=gene-JCVISYN3_0797;Dbxref=NCBI_GP:AMW76666.1;Name=AMW76666.1;gbkey=CDS;locus_tag=JCVISYN3_0797;product=hypothetical protein;protein_id=AMW76666.1;transl_table=4
+CP014940.1	Genbank	gene	461424	462047	.	-	.	ID=gene-JCVISYN3_0798;Name=JCVISYN3_0798;gbkey=Gene;locus_tag=JCVISYN3_0798
+CP014940.1	Genbank	CDS	461424	462047	.	-	0	ID=cds-AMW76667.1;Parent=gene-JCVISYN3_0798;Dbxref=NCBI_GP:AMW76667.1;Name=AMW76667.1;gbkey=CDS;locus_tag=JCVISYN3_0798;product=upp: uracil phosphoribosyltransferase;protein_id=AMW76667.1;transl_table=4
+CP014940.1	Genbank	gene	462147	463388	.	-	.	ID=gene-JCVISYN3_0799;Name=JCVISYN3_0799;gbkey=Gene;locus_tag=JCVISYN3_0799
+CP014940.1	Genbank	CDS	462147	463388	.	-	0	ID=cds-AMW76668.1;Parent=gene-JCVISYN3_0799;Dbxref=NCBI_GP:AMW76668.1;Name=AMW76668.1;gbkey=CDS;locus_tag=JCVISYN3_0799;product=glyA%2C transferase;protein_id=AMW76668.1;transl_table=4
+CP014940.1	Genbank	gene	463372	463815	.	-	.	ID=gene-JCVISYN3_0800;Name=JCVISYN3_0800;gbkey=Gene;locus_tag=JCVISYN3_0800
+CP014940.1	Genbank	CDS	463372	463815	.	-	0	ID=cds-AMW76669.1;Parent=gene-JCVISYN3_0800;Dbxref=NCBI_GP:AMW76669.1;Name=AMW76669.1;gbkey=CDS;locus_tag=JCVISYN3_0800;product=RpiB: ribose 5-phosphate isomerase B;protein_id=AMW76669.1;transl_table=4
+CP014940.1	Genbank	gene	463983	467750	.	-	.	ID=gene-JCVISYN3_0803;Name=JCVISYN3_0803;gbkey=Gene;locus_tag=JCVISYN3_0803
+CP014940.1	Genbank	CDS	463983	467750	.	-	0	ID=cds-AMW76670.1;Parent=gene-JCVISYN3_0803;Dbxref=NCBI_GP:AMW76670.1;Name=AMW76670.1;gbkey=CDS;locus_tag=JCVISYN3_0803;product=RpoC: DNA-directed RNA polymerase%2C beta' subunit;protein_id=AMW76670.1;transl_table=4
+CP014940.1	Genbank	gene	467762	471637	.	-	.	ID=gene-JCVISYN3_0804;Name=JCVISYN3_0804;gbkey=Gene;locus_tag=JCVISYN3_0804
+CP014940.1	Genbank	CDS	467762	471637	.	-	0	ID=cds-AMW76671.1;Parent=gene-JCVISYN3_0804;Dbxref=NCBI_GP:AMW76671.1;Name=AMW76671.1;gbkey=CDS;locus_tag=JCVISYN3_0804;product=RpoB: DNA-directed RNA polymerase%2C beta subunit;protein_id=AMW76671.1;transl_table=4
+CP014940.1	Genbank	gene	471627	472802	.	-	.	ID=gene-JCVISYN3_0805;Name=JCVISYN3_0805;gbkey=Gene;locus_tag=JCVISYN3_0805
+CP014940.1	Genbank	CDS	471627	472802	.	-	0	ID=cds-AMW76672.1;Parent=gene-JCVISYN3_0805;Dbxref=NCBI_GP:AMW76672.1;Name=AMW76672.1;gbkey=CDS;locus_tag=JCVISYN3_0805;product=transcription factor;protein_id=AMW76672.1;transl_table=4
+CP014940.1	Genbank	gene	472973	473341	.	-	.	ID=gene-JCVISYN3_0806;Name=JCVISYN3_0806;gbkey=Gene;locus_tag=JCVISYN3_0806
+CP014940.1	Genbank	CDS	472973	473341	.	-	0	ID=cds-AMW76673.1;Parent=gene-JCVISYN3_0806;Dbxref=NCBI_GP:AMW76673.1;Name=AMW76673.1;gbkey=CDS;locus_tag=JCVISYN3_0806;product=L12: ribosomal protein L7/L12;protein_id=AMW76673.1;transl_table=4
+CP014940.1	Genbank	gene	473410	473907	.	-	.	ID=gene-JCVISYN3_0807;Name=JCVISYN3_0807;gbkey=Gene;locus_tag=JCVISYN3_0807
+CP014940.1	Genbank	CDS	473410	473907	.	-	0	ID=cds-AMW76674.1;Parent=gene-JCVISYN3_0807;Dbxref=NCBI_GP:AMW76674.1;Name=AMW76674.1;gbkey=CDS;locus_tag=JCVISYN3_0807;product=L10: ribosomal protein L10;protein_id=AMW76674.1;transl_table=4
+CP014940.1	Genbank	gene	474134	474814	.	-	.	ID=gene-JCVISYN3_0809;Name=JCVISYN3_0809;gbkey=Gene;locus_tag=JCVISYN3_0809
+CP014940.1	Genbank	CDS	474134	474814	.	-	0	ID=cds-AMW76675.1;Parent=gene-JCVISYN3_0809;Dbxref=NCBI_GP:AMW76675.1;Name=AMW76675.1;gbkey=CDS;locus_tag=JCVISYN3_0809;product=L1: ribosomal protein L1;protein_id=AMW76675.1;transl_table=4
+CP014940.1	Genbank	gene	474814	475242	.	-	.	ID=gene-JCVISYN3_0810;Name=JCVISYN3_0810;gbkey=Gene;locus_tag=JCVISYN3_0810
+CP014940.1	Genbank	CDS	474814	475242	.	-	0	ID=cds-AMW76676.1;Parent=gene-JCVISYN3_0810;Dbxref=NCBI_GP:AMW76676.1;Name=AMW76676.1;gbkey=CDS;locus_tag=JCVISYN3_0810;product=L11: ribosomal protein L11;protein_id=AMW76676.1;transl_table=4
+CP014940.1	Genbank	gene	475753	476751	.	+	.	ID=gene-JCVISYN3_0813;Name=JCVISYN3_0813;gbkey=Gene;locus_tag=JCVISYN3_0813
+CP014940.1	Genbank	CDS	475753	476751	.	+	0	ID=cds-AMW76677.1;Parent=gene-JCVISYN3_0813;Dbxref=NCBI_GP:AMW76677.1;Name=AMW76677.1;gbkey=CDS;locus_tag=JCVISYN3_0813;product=GalE: UDP-glucose 4-epimerase;protein_id=AMW76677.1;transl_table=4
+CP014940.1	Genbank	gene	476765	477952	.	+	.	ID=gene-JCVISYN3_0814;Name=JCVISYN3_0814;gbkey=Gene;locus_tag=JCVISYN3_0814
+CP014940.1	Genbank	CDS	476765	477952	.	+	0	ID=cds-AMW76678.1;Parent=gene-JCVISYN3_0814;Dbxref=NCBI_GP:AMW76678.1;Name=AMW76678.1;gbkey=CDS;locus_tag=JCVISYN3_0814;product=glf: UDP-GALP_mutase: UDP-galactopyranose mutase;protein_id=AMW76678.1;transl_table=4
+CP014940.1	Genbank	gene	478582	479511	.	-	.	ID=gene-JCVISYN3_0817;Name=JCVISYN3_0817;gbkey=Gene;locus_tag=JCVISYN3_0817
+CP014940.1	Genbank	CDS	478582	479511	.	-	0	ID=cds-AMW76679.1;Parent=gene-JCVISYN3_0817;Dbxref=NCBI_GP:AMW76679.1;Name=AMW76679.1;gbkey=CDS;locus_tag=JCVISYN3_0817;product=transcription factor%2C WhiA like;protein_id=AMW76679.1;transl_table=4
+CP014940.1	Genbank	gene	479524	480954	.	-	.	ID=gene-JCVISYN3_0818;Name=JCVISYN3_0818;gbkey=Gene;locus_tag=JCVISYN3_0818
+CP014940.1	Genbank	CDS	479524	480954	.	-	0	ID=cds-AMW76680.1;Parent=gene-JCVISYN3_0818;Dbxref=NCBI_GP:AMW76680.1;Name=AMW76680.1;gbkey=CDS;locus_tag=JCVISYN3_0818;product=lgt: Prolipoprotein diacylglyceryl transferase;protein_id=AMW76680.1;transl_table=4
+CP014940.1	Genbank	gene	480963	481895	.	-	.	ID=gene-JCVISYN3_0819;Name=JCVISYN3_0819;gbkey=Gene;locus_tag=JCVISYN3_0819
+CP014940.1	Genbank	CDS	480963	481895	.	-	0	ID=cds-AMW76681.1;Parent=gene-JCVISYN3_0819;Dbxref=NCBI_GP:AMW76681.1;Name=AMW76681.1;gbkey=CDS;locus_tag=JCVISYN3_0819;product=TRX_reduct: thioredoxin-disulfide reductase;protein_id=AMW76681.1;transl_table=4
+CP014940.1	Genbank	gene	481879	483459	.	-	.	ID=gene-JCVISYN3_0820;Name=JCVISYN3_0820;gbkey=Gene;locus_tag=JCVISYN3_0820
+CP014940.1	Genbank	CDS	481879	483459	.	-	0	ID=cds-AMW76682.1;Parent=gene-JCVISYN3_0820;Dbxref=NCBI_GP:AMW76682.1;Name=AMW76682.1;gbkey=CDS;locus_tag=JCVISYN3_0820;product=lgt: Prolipoprotein diacylglyceryl transferase;protein_id=AMW76682.1;transl_table=4
+CP014940.1	Genbank	gene	483470	484411	.	-	.	ID=gene-JCVISYN3_0821;Name=JCVISYN3_0821;gbkey=Gene;locus_tag=JCVISYN3_0821
+CP014940.1	Genbank	CDS	483470	484411	.	-	0	ID=cds-AMW76683.1;Parent=gene-JCVISYN3_0821;Dbxref=NCBI_GP:AMW76683.1;Name=AMW76683.1;gbkey=CDS;locus_tag=JCVISYN3_0821;product=hpr-ser: HPr(Ser) kinase/phosphatase;protein_id=AMW76683.1;transl_table=4
+CP014940.1	Genbank	gene	484495	485169	.	-	.	ID=gene-JCVISYN3_0822;Name=JCVISYN3_0822;gbkey=Gene;locus_tag=JCVISYN3_0822
+CP014940.1	Genbank	CDS	484495	485169	.	-	0	ID=cds-AMW76684.1;Parent=gene-JCVISYN3_0822;Dbxref=NCBI_GP:AMW76684.1;Name=AMW76684.1;gbkey=CDS;locus_tag=JCVISYN3_0822;product=EcfS: Energy coupling-factor transporter%2C specificity component;protein_id=AMW76684.1;transl_table=4
+CP014940.1	Genbank	gene	485186	486301	.	-	.	ID=gene-JCVISYN3_0823;Name=JCVISYN3_0823;gbkey=Gene;locus_tag=JCVISYN3_0823
+CP014940.1	Genbank	CDS	485186	486301	.	-	0	ID=cds-AMW76685.1;Parent=gene-JCVISYN3_0823;Dbxref=NCBI_GP:AMW76685.1;Name=AMW76685.1;gbkey=CDS;locus_tag=JCVISYN3_0823;product=FolC: folates to polyglutamate derivatives;protein_id=AMW76685.1;transl_table=4
+CP014940.1	Genbank	gene	486294	489134	.	-	.	ID=gene-JCVISYN3_0824;Name=JCVISYN3_0824;gbkey=Gene;locus_tag=JCVISYN3_0824
+CP014940.1	Genbank	CDS	486294	489134	.	-	0	ID=cds-AMW76686.1;Parent=gene-JCVISYN3_0824;Dbxref=NCBI_GP:AMW76686.1;Name=AMW76686.1;gbkey=CDS;locus_tag=JCVISYN3_0824;product=UvrA: excinuclease ABC subunit A;protein_id=AMW76686.1;transl_table=4
+CP014940.1	Genbank	gene	489143	491140	.	-	.	ID=gene-JCVISYN3_0825;Name=JCVISYN3_0825;gbkey=Gene;locus_tag=JCVISYN3_0825
+CP014940.1	Genbank	CDS	489143	491140	.	-	0	ID=cds-AMW76687.1;Parent=gene-JCVISYN3_0825;Dbxref=NCBI_GP:AMW76687.1;Name=AMW76687.1;gbkey=CDS;locus_tag=JCVISYN3_0825;product=UvrB: excinuclease ABC subunit B;protein_id=AMW76687.1;transl_table=4
+CP014940.1	Genbank	gene	491425	492375	.	+	.	ID=gene-JCVISYN3_0826;Name=JCVISYN3_0826;gbkey=Gene;locus_tag=JCVISYN3_0826
+CP014940.1	Genbank	CDS	491425	492375	.	+	0	ID=cds-AMW76688.1;Parent=gene-JCVISYN3_0826;Dbxref=NCBI_GP:AMW76688.1;Name=AMW76688.1;gbkey=CDS;locus_tag=JCVISYN3_0826;product=YqeN: DNA polymerase clamp loader subunit;protein_id=AMW76688.1;transl_table=4
+CP014940.1	Genbank	gene	492378	493844	.	+	.	ID=gene-JCVISYN3_0827;Name=JCVISYN3_0827;gbkey=Gene;locus_tag=JCVISYN3_0827
+CP014940.1	Genbank	CDS	492378	493844	.	+	0	ID=cds-AMW76689.1;Parent=gene-JCVISYN3_0827;Dbxref=NCBI_GP:AMW76689.1;Name=AMW76689.1;gbkey=CDS;locus_tag=JCVISYN3_0827;product=hypothetical protein;protein_id=AMW76689.1;transl_table=4
+CP014940.1	Genbank	gene	494010	494084	.	+	.	ID=gene-JCVISYN3_0828;Name=JCVISYN3_0828;gbkey=Gene;locus_tag=JCVISYN3_0828
+CP014940.1	Genbank	tRNA	494010	494084	.	+	.	ID=rna-JCVISYN3_0828;Parent=gene-JCVISYN3_0828;gbkey=tRNA;locus_tag=JCVISYN3_0828;product=tRNA-Cys
+CP014940.1	Genbank	exon	494010	494084	.	+	.	ID=exon-JCVISYN3_0828-1;Parent=rna-JCVISYN3_0828;gbkey=tRNA;locus_tag=JCVISYN3_0828;product=tRNA-Cys
+CP014940.1	Genbank	gene	494222	494482	.	+	.	ID=gene-JCVISYN3_0830;Name=JCVISYN3_0830;gbkey=Gene;locus_tag=JCVISYN3_0830
+CP014940.1	Genbank	CDS	494222	494482	.	+	0	ID=cds-AMW76690.1;Parent=gene-JCVISYN3_0830;Dbxref=NCBI_GP:AMW76690.1;Name=AMW76690.1;gbkey=CDS;locus_tag=JCVISYN3_0830;product=hypothetical protein;protein_id=AMW76690.1;transl_table=4
+CP014940.1	Genbank	gene	494662	495696	.	+	.	ID=gene-JCVISYN3_0831;Name=JCVISYN3_0831;gbkey=Gene;locus_tag=JCVISYN3_0831
+CP014940.1	Genbank	CDS	494662	495696	.	+	0	ID=cds-AMW76691.1;Parent=gene-JCVISYN3_0831;Dbxref=NCBI_GP:AMW76691.1;Name=AMW76691.1;gbkey=CDS;locus_tag=JCVISYN3_0831;product=prs: Ribose-phosphate pyrophosphokinase;protein_id=AMW76691.1;transl_table=4
+CP014940.1	Genbank	gene	496122	496682	.	+	.	ID=gene-JCVISYN3_0832;Name=JCVISYN3_0832;gbkey=Gene;locus_tag=JCVISYN3_0832
+CP014940.1	Genbank	CDS	496122	496682	.	+	0	ID=cds-AMW76692.1;Parent=gene-JCVISYN3_0832;Dbxref=NCBI_GP:AMW76692.1;Name=AMW76692.1;gbkey=CDS;locus_tag=JCVISYN3_0832;product=pth: aminoacyl-tRNA hydrolase;protein_id=AMW76692.1;transl_table=4
+CP014940.1	Genbank	gene	496803	497246	.	+	.	ID=gene-JCVISYN3_0833;Name=JCVISYN3_0833;gbkey=Gene;locus_tag=JCVISYN3_0833
+CP014940.1	Genbank	CDS	496803	497246	.	+	0	ID=cds-AMW76693.1;Parent=gene-JCVISYN3_0833;Dbxref=NCBI_GP:AMW76693.1;Name=AMW76693.1;gbkey=CDS;locus_tag=JCVISYN3_0833;product=L9: ribosomal protein L9;protein_id=AMW76693.1;transl_table=4
+CP014940.1	Genbank	gene	497249	498565	.	+	.	ID=gene-JCVISYN3_0834;Name=JCVISYN3_0834;gbkey=Gene;locus_tag=JCVISYN3_0834
+CP014940.1	Genbank	CDS	497249	498565	.	+	0	ID=cds-AMW76694.1;Parent=gene-JCVISYN3_0834;Dbxref=NCBI_GP:AMW76694.1;Name=AMW76694.1;gbkey=CDS;locus_tag=JCVISYN3_0834;product=DnaC: Replicative DNA helicase;protein_id=AMW76694.1;transl_table=4
+CP014940.1	Genbank	gene	498632	499939	.	+	.	ID=gene-JCVISYN3_0835;Name=JCVISYN3_0835;gbkey=Gene;locus_tag=JCVISYN3_0835
+CP014940.1	Genbank	CDS	498632	499939	.	+	0	ID=cds-AMW76695.1;Parent=gene-JCVISYN3_0835;Dbxref=NCBI_GP:AMW76695.1;Name=AMW76695.1;gbkey=CDS;locus_tag=JCVISYN3_0835;product=lipoprotein%2C putative;protein_id=AMW76695.1;transl_table=4
+CP014940.1	Genbank	gene	500081	501007	.	+	.	ID=gene-JCVISYN3_0836;Name=JCVISYN3_0836;gbkey=Gene;locus_tag=JCVISYN3_0836
+CP014940.1	Genbank	CDS	500081	501007	.	+	0	ID=cds-AMW76696.1;Parent=gene-JCVISYN3_0836;Dbxref=NCBI_GP:AMW76696.1;Name=AMW76696.1;gbkey=CDS;locus_tag=JCVISYN3_0836;product=EcfS: Energy coupling-factor transporter%2C specificity component;protein_id=AMW76696.1;transl_table=4
+CP014940.1	Genbank	gene	501016	502341	.	+	.	ID=gene-JCVISYN3_0837;Name=JCVISYN3_0837;gbkey=Gene;locus_tag=JCVISYN3_0837
+CP014940.1	Genbank	CDS	501016	502341	.	+	0	ID=cds-AMW76697.1;Parent=gene-JCVISYN3_0837;Dbxref=NCBI_GP:AMW76697.1;Name=AMW76697.1;gbkey=CDS;locus_tag=JCVISYN3_0837;product=CysRS: Cysteinyl-tRNA synthetase;protein_id=AMW76697.1;transl_table=4
+CP014940.1	Genbank	gene	502343	503077	.	+	.	ID=gene-JCVISYN3_0838;Name=JCVISYN3_0838;gbkey=Gene;locus_tag=JCVISYN3_0838
+CP014940.1	Genbank	CDS	502343	503077	.	+	0	ID=cds-AMW76698.1;Parent=gene-JCVISYN3_0838;Dbxref=NCBI_GP:AMW76698.1;Name=AMW76698.1;gbkey=CDS;locus_tag=JCVISYN3_0838;product=RNA methyltransferase%2C TrmH family%2C group 3;protein_id=AMW76698.1;transl_table=4
+CP014940.1	Genbank	gene	503299	503622	.	+	.	ID=gene-JCVISYN3_0839;Name=JCVISYN3_0839;gbkey=Gene;locus_tag=JCVISYN3_0839
+CP014940.1	Genbank	CDS	503299	503622	.	+	0	ID=cds-AMW76699.1;Parent=gene-JCVISYN3_0839;Dbxref=NCBI_GP:AMW76699.1;Name=AMW76699.1;gbkey=CDS;locus_tag=JCVISYN3_0839;product=SecE: preprotein translocase%2C SecE subunit;protein_id=AMW76699.1;transl_table=4
+CP014940.1	Genbank	gene	503639	504280	.	+	.	ID=gene-JCVISYN3_0840;Name=JCVISYN3_0840;gbkey=Gene;locus_tag=JCVISYN3_0840
+CP014940.1	Genbank	CDS	503639	504280	.	+	0	ID=cds-AMW76700.1;Parent=gene-JCVISYN3_0840;Dbxref=NCBI_GP:AMW76700.1;Name=AMW76700.1;gbkey=CDS;locus_tag=JCVISYN3_0840;product=NusG: Transcription termination/antitermination protein;protein_id=AMW76700.1;transl_table=4
+CP014940.1	Genbank	gene	504786	504968	.	-	.	ID=gene-JCVISYN3_0851;Name=JCVISYN3_0851;gbkey=Gene;locus_tag=JCVISYN3_0851
+CP014940.1	Genbank	CDS	504786	504968	.	-	0	ID=cds-AMW76701.1;Parent=gene-JCVISYN3_0851;Dbxref=NCBI_GP:AMW76701.1;Name=AMW76701.1;gbkey=CDS;locus_tag=JCVISYN3_0851;product=lipoprotein%2C putative;protein_id=AMW76701.1;transl_table=4
+CP014940.1	Genbank	gene	505134	505364	.	-	.	ID=gene-JCVISYN3_0852;Name=JCVISYN3_0852;gbkey=Gene;locus_tag=JCVISYN3_0852
+CP014940.1	Genbank	CDS	505134	505364	.	-	0	ID=cds-AMW76702.1;Parent=gene-JCVISYN3_0852;Dbxref=NCBI_GP:AMW76702.1;Name=AMW76702.1;gbkey=CDS;locus_tag=JCVISYN3_0852;product=hypothetical protein;protein_id=AMW76702.1;transl_table=4
+CP014940.1	Genbank	gene	505354	506073	.	-	.	ID=gene-JCVISYN3_0853;Name=JCVISYN3_0853;gbkey=Gene;locus_tag=JCVISYN3_0853
+CP014940.1	Genbank	CDS	505354	506073	.	-	0	ID=cds-AMW76703.1;Parent=gene-JCVISYN3_0853;Dbxref=NCBI_GP:AMW76703.1;Name=AMW76703.1;gbkey=CDS;locus_tag=JCVISYN3_0853;product=hypothetical protein;protein_id=AMW76703.1;transl_table=4
+CP014940.1	Genbank	gene	506276	508237	.	+	.	ID=gene-JCVISYN3_0859;Name=JCVISYN3_0859;gbkey=Gene;locus_tag=JCVISYN3_0859
+CP014940.1	Genbank	CDS	506276	508237	.	+	0	ID=cds-AMW76704.1;Parent=gene-JCVISYN3_0859;Dbxref=NCBI_GP:AMW76704.1;Name=AMW76704.1;gbkey=CDS;locus_tag=JCVISYN3_0859;product=TopA: DNA topoisomerase 1;protein_id=AMW76704.1;transl_table=4
+CP014940.1	Genbank	gene	508493	510259	.	-	.	ID=gene-JCVISYN3_0870;Name=JCVISYN3_0870;gbkey=Gene;locus_tag=JCVISYN3_0870
+CP014940.1	Genbank	CDS	508493	510259	.	-	0	ID=cds-AMW76705.1;Parent=gene-JCVISYN3_0870;Dbxref=NCBI_GP:AMW76705.1;Name=AMW76705.1;gbkey=CDS;locus_tag=JCVISYN3_0870;product=Putative C4-dicarboxylate anaerobic carrier;protein_id=AMW76705.1;transl_table=4
+CP014940.1	Genbank	gene	510328	511422	.	-	.	ID=gene-JCVISYN3_0872;Name=JCVISYN3_0872;gbkey=Gene;locus_tag=JCVISYN3_0872
+CP014940.1	Genbank	CDS	510328	511422	.	-	0	ID=cds-AMW76706.1;Parent=gene-JCVISYN3_0872;Dbxref=NCBI_GP:AMW76706.1;Name=AMW76706.1;gbkey=CDS;locus_tag=JCVISYN3_0872;product=GTP-binding protein YchF like;protein_id=AMW76706.1;transl_table=4
+CP014940.1	Genbank	gene	511458	511658	.	-	.	ID=gene-JCVISYN3_0873;Name=JCVISYN3_0873;gbkey=Gene;locus_tag=JCVISYN3_0873
+CP014940.1	Genbank	CDS	511458	511658	.	-	0	ID=cds-AMW76707.1;Parent=gene-JCVISYN3_0873;Dbxref=NCBI_GP:AMW76707.1;Name=AMW76707.1;gbkey=CDS;locus_tag=JCVISYN3_0873;product=PF06107 family protein;protein_id=AMW76707.1;transl_table=4
+CP014940.1	Genbank	gene	511660	512355	.	-	.	ID=gene-JCVISYN3_0874;Name=JCVISYN3_0874;gbkey=Gene;locus_tag=JCVISYN3_0874
+CP014940.1	Genbank	CDS	511660	512355	.	-	0	ID=cds-AMW76708.1;Parent=gene-JCVISYN3_0874;Dbxref=NCBI_GP:AMW76708.1;Name=AMW76708.1;gbkey=CDS;locus_tag=JCVISYN3_0874;product=RsmG: Ribosomal RNA small subunit methyltransferase;protein_id=AMW76708.1;transl_table=4
+CP014940.1	Genbank	gene	512355	512951	.	-	.	ID=gene-JCVISYN3_0875;Name=JCVISYN3_0875;gbkey=Gene;locus_tag=JCVISYN3_0875
+CP014940.1	Genbank	CDS	512355	512951	.	-	0	ID=cds-AMW76709.1;Parent=gene-JCVISYN3_0875;Dbxref=NCBI_GP:AMW76709.1;Name=AMW76709.1;gbkey=CDS;locus_tag=JCVISYN3_0875;product=PgsA: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase;protein_id=AMW76709.1;transl_table=4
+CP014940.1	Genbank	gene	513053	514633	.	-	.	ID=gene-JCVISYN3_0876;Name=JCVISYN3_0876;gbkey=Gene;locus_tag=JCVISYN3_0876
+CP014940.1	Genbank	CDS	513053	514633	.	-	0	ID=cds-AMW76710.1;Parent=gene-JCVISYN3_0876;Dbxref=NCBI_GP:AMW76710.1;Name=AMW76710.1;gbkey=CDS;locus_tag=JCVISYN3_0876;product=amino acid permease;protein_id=AMW76710.1;transl_table=4
+CP014940.1	Genbank	gene	514780	515460	.	-	.	ID=gene-JCVISYN3_0877;Name=JCVISYN3_0877;gbkey=Gene;locus_tag=JCVISYN3_0877
+CP014940.1	Genbank	CDS	514780	515460	.	-	0	ID=cds-AMW76711.1;Parent=gene-JCVISYN3_0877;Dbxref=NCBI_GP:AMW76711.1;Name=AMW76711.1;gbkey=CDS;locus_tag=JCVISYN3_0877;product=membrane protein%2C putative;protein_id=AMW76711.1;transl_table=4
+CP014940.1	Genbank	gene	515432	516925	.	-	.	ID=gene-JCVISYN3_0878;Name=JCVISYN3_0878;gbkey=Gene;locus_tag=JCVISYN3_0878
+CP014940.1	Genbank	CDS	515432	516925	.	-	0	ID=cds-AMW76712.1;Parent=gene-JCVISYN3_0878;Dbxref=NCBI_GP:AMW76712.1;Name=AMW76712.1;gbkey=CDS;locus_tag=JCVISYN3_0878;product=amino acid permease;protein_id=AMW76712.1;transl_table=4
+CP014940.1	Genbank	gene	517028	519685	.	-	.	ID=gene-JCVISYN3_0879;Name=JCVISYN3_0879;gbkey=Gene;locus_tag=JCVISYN3_0879
+CP014940.1	Genbank	CDS	517028	519685	.	-	0	ID=cds-AMW76713.1;Parent=gene-JCVISYN3_0879;Dbxref=NCBI_GP:AMW76713.1;Name=AMW76713.1;gbkey=CDS;locus_tag=JCVISYN3_0879;product=putative magnesium-importing ATPase;protein_id=AMW76713.1;transl_table=4
+CP014940.1	Genbank	gene	520084	521511	.	-	.	ID=gene-JCVISYN3_0881;Name=JCVISYN3_0881;gbkey=Gene;locus_tag=JCVISYN3_0881
+CP014940.1	Genbank	CDS	520084	521511	.	-	0	ID=cds-AMW76714.1;Parent=gene-JCVISYN3_0881;Dbxref=NCBI_GP:AMW76714.1;Name=AMW76714.1;gbkey=CDS;locus_tag=JCVISYN3_0881;product=membrane protein%2C putative;protein_id=AMW76714.1;transl_table=4
+CP014940.1	Genbank	gene	521975	523864	.	-	.	ID=gene-JCVISYN3_0885;Name=JCVISYN3_0885;gbkey=Gene;locus_tag=JCVISYN3_0885
+CP014940.1	Genbank	CDS	521975	523864	.	-	0	ID=cds-AMW76715.1;Parent=gene-JCVISYN3_0885;Dbxref=NCBI_GP:AMW76715.1;Name=AMW76715.1;gbkey=CDS;locus_tag=JCVISYN3_0885;product=GidA: tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA;protein_id=AMW76715.1;transl_table=4
+CP014940.1	Genbank	gene	524012	525589	.	-	.	ID=gene-JCVISYN3_0886;Name=JCVISYN3_0886;gbkey=Gene;locus_tag=JCVISYN3_0886
+CP014940.1	Genbank	CDS	524012	525589	.	-	0	ID=cds-AMW76716.1;Parent=gene-JCVISYN3_0886;Dbxref=NCBI_GP:AMW76716.1;Name=AMW76716.1;gbkey=CDS;locus_tag=JCVISYN3_0886;product=GltP: Proton glutamate symport protein;protein_id=AMW76716.1;transl_table=4
+CP014940.1	Genbank	gene	525609	526952	.	-	.	ID=gene-JCVISYN3_0887;Name=JCVISYN3_0887;gbkey=Gene;locus_tag=JCVISYN3_0887
+CP014940.1	Genbank	CDS	525609	526952	.	-	0	ID=cds-AMW76717.1;Parent=gene-JCVISYN3_0887;Dbxref=NCBI_GP:AMW76717.1;Name=AMW76717.1;gbkey=CDS;locus_tag=JCVISYN3_0887;product=pyridine nucleotide-disulfide oxidoreductase;protein_id=AMW76717.1;transl_table=4
+CP014940.1	Genbank	gene	527932	528648	.	-	.	ID=gene-JCVISYN3_0906;Name=JCVISYN3_0906;gbkey=Gene;locus_tag=JCVISYN3_0906
+CP014940.1	Genbank	CDS	527932	528648	.	-	0	ID=cds-AMW76718.1;Parent=gene-JCVISYN3_0906;Dbxref=NCBI_GP:AMW76718.1;Name=AMW76718.1;gbkey=CDS;locus_tag=JCVISYN3_0906;product=Putative choline/ethanolamine kinase;protein_id=AMW76718.1;transl_table=4
+CP014940.1	Genbank	gene	528648	529442	.	-	.	ID=gene-JCVISYN3_0907;Name=JCVISYN3_0907;gbkey=Gene;locus_tag=JCVISYN3_0907
+CP014940.1	Genbank	CDS	528648	529442	.	-	0	ID=cds-AMW76719.1;Parent=gene-JCVISYN3_0907;Dbxref=NCBI_GP:AMW76719.1;Name=AMW76719.1;gbkey=CDS;locus_tag=JCVISYN3_0907;product=Cof-like hydrolase;protein_id=AMW76719.1;transl_table=4
+CP014940.1	Genbank	gene	529519	530709	.	-	.	ID=gene-JCVISYN3_0908;Name=JCVISYN3_0908;gbkey=Gene;locus_tag=JCVISYN3_0908
+CP014940.1	Genbank	CDS	529519	530709	.	-	0	ID=cds-AMW76720.1;Parent=gene-JCVISYN3_0908;Dbxref=NCBI_GP:AMW76720.1;Name=AMW76720.1;gbkey=CDS;locus_tag=JCVISYN3_0908;product=YidC: Membrane protein insertase;protein_id=AMW76720.1;transl_table=4
+CP014940.1	Genbank	gene	530727	531056	.	-	.	ID=gene-JCVISYN3_0909;Name=JCVISYN3_0909;gbkey=Gene;locus_tag=JCVISYN3_0909
+CP014940.1	Genbank	CDS	530727	531056	.	-	0	ID=cds-AMW76721.1;Parent=gene-JCVISYN3_0909;Dbxref=NCBI_GP:AMW76721.1;Name=AMW76721.1;gbkey=CDS;locus_tag=JCVISYN3_0909;product=RnpA: ribonuclease P protein component;protein_id=AMW76721.1;transl_table=4
+CP014940.1	Genbank	gene	531063	531197	.	-	.	ID=gene-JCVISYN3_0910;Name=JCVISYN3_0910;gbkey=Gene;locus_tag=JCVISYN3_0910
+CP014940.1	Genbank	CDS	531063	531197	.	-	0	ID=cds-AMW76722.1;Parent=gene-JCVISYN3_0910;Dbxref=NCBI_GP:AMW76722.1;Name=AMW76722.1;gbkey=CDS;locus_tag=JCVISYN3_0910;product=L34: ribosomal protein L34;protein_id=AMW76722.1;transl_table=4
+

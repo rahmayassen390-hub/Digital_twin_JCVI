@@ -1,0 +1,494 @@
+locus_tag,ortholog_syn1,gene_name,product_description,kegg_id,function_class,essentiality_status,length_bp,protein_abundance,rbs_strength_index,mrna_half_life_min,protein_half_life_hr
+JCVISYN3A_0001,MMSYN1_0001,dnaA,Chromosomal replication initiator protein,K02313,Genetic Information Processing,Essential,1353,0.0,,1.0,25.0
+JCVISYN3A_0002,MMSYN1_0002,dnaN,DNA polymerase III subunit beta,K02338,Genetic Information Processing,Essential,1128,0.0,,1.0,25.0
+JCVISYN3A_0003,MMSYN1_0003,rnmV,Ribonuclease M5,K05985,Genetic Information Processing,Quasiessential,543,0.0,,1.0,25.0
+JCVISYN3A_0004,MMSYN1_0004,ksgA,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase,K02528,Genetic Information Processing,Nonessential,801,0.0,,1.0,25.0
+JCVISYN3A_0005,MMSYN1_0005,0005,Uncharacterized protein,,Unclear,Nonessential,1092,0.0,,1.0,25.0
+JCVISYN3A_0006,MMSYN1_0006,gyrB,DNA gyrase subunit B,K02470,Genetic Information Processing,Essential,1905,0.0,,1.0,25.0
+JCVISYN3A_0007,MMSYN1_0007,gyrA,DNA gyrase subunit A,K02469,Genetic Information Processing,Essential,2505,0.0,,1.0,25.0
+JCVISYN3A_0008,MMSYN1_0008,rnsD,Nucleoside ABC transporter permease,K02057,Metabolism,Essential,978,0.0,,1.0,25.0
+JCVISYN3A_0009,MMSYN1_0009,rnsC,Nucleoside ABC transporter permease,K02057,Metabolism,Essential,2568,0.0,,1.0,25.0
+JCVISYN3A_0010,MMSYN1_0010,rnsA,Nucleoside ABC transporter ATP-binding protein,K02056,Metabolism,Essential,1617,0.0,,1.0,25.0
+JCVISYN3A_0011,MMSYN1_0011,rnsB,Nucleoside ABC transporter substrate-binding protein,K07335,Metabolism,Essential,1647,0.0,,1.0,25.0
+JCVISYN3A_0012,MMSYN1_0012,metRS,Methionine--tRNA ligase,K01874,Genetic Information Processing,Essential,1530,0.0,,1.0,25.0
+JCVISYN3A_0918,,HIS3,Imidazoleglycerol-phosphate dehydratase,K01693,Metabolism,Nonessential,663,0.0,,1.0,25.0
+JCVISYN3A_0913,MMSYN1_0913,tetM,Tetracycline resistance ribosomal protection protein,K18220,Human Diseases,Nonessential,1920,0.0,,1.0,25.0
+JCVISYN3A_0025,MMSYN1_0025,rpsR,30S ribosomal protein S18,K02963,Genetic Information Processing,Essential,228,0.0,,2.0,100.0
+JCVISYN3A_0026,MMSYN1_0026,priB,Single-stranded DNA-binding protein,K03111,Genetic Information Processing,Essential,441,0.0,,1.0,25.0
+JCVISYN3A_0027,MMSYN1_0027,rpsF,30S ribosomal protein S6,K02990,Genetic Information Processing,Essential,414,0.0,,2.0,100.0
+JCVISYN3A_0029,MMSYN1_0029,0029,Uncharacterized FMN-dependent NADH-azoreductase,K01118,Metabolism,Essential,600,0.0,,1.0,25.0
+JCVISYN3A_0030,MMSYN1_0030,0030,Uncharacterized ABC transporter ATP-binding protein,K02003,Metabolism,Essential,1035,0.0,,1.0,25.0
+JCVISYN3A_0033,MMSYN1_0033,0033,Uncharacterized protein,,Unclear,Essential,3159,0.0,,1.0,25.0
+JCVISYN3A_0034,MMSYN1_0034,0034,Uncharacterized efflux ABC transporter permease,,Metabolism,Nonessential,5388,0.0,,1.0,25.0
+JCVISYN3A_0039,MMSYN1_0039,ftsH,Membrane anchored AAA+ protease,K03798,Cellular Processes,Essential,1947,0.0,,1.0,25.0
+JCVISYN3A_0040,MMSYN1_0040,tilS,tRNA lysidine(34) synthetase,K04075,Genetic Information Processing,Essential,1206,0.0,,1.0,25.0
+JCVISYN3A_0042,MMSYN1_0042,0042,Uncharacterized transcriptional regulator,,Genetic Information Processing,Quasiessential,828,0.0,,1.0,25.0
+JCVISYN3A_0043,MMSYN1_0043,yabD,Uncharacterized methyltransferase,,Unclear,Nonessential,723,0.0,,1.0,25.0
+JCVISYN3A_0044,MMSYN1_0044,holA,DNA polymerase III subunit delta,K02340,Genetic Information Processing,Essential,741,0.0,,1.0,25.0
+JCVISYN3A_0045,MMSYN1_0045,tmk,dTMP kinase,K00943,Metabolism,Essential,642,0.0,,1.0,25.0
+JCVISYN3A_0046,MMSYN1_0046,recR,Recombination protein,K06187,Genetic Information Processing,Quasiessential,591,0.0,,1.0,25.0
+JCVISYN3A_0047,MMSYN1_0047,dnaX,DNA polymerase III subunit gamma and tau,K02343,Genetic Information Processing,Essential,2007,0.0,,1.0,25.0
+JCVISYN3A_0051,,0051(3A),"Truncated protein=""internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology.",,Unclear,Nonessential,615,0.0,,1.0,25.0
+JCVISYN3A_0054,MMSYN1_0054,ahpC,Uncharacterized peroxiredoxin,K03564,Metabolism,Nonessential,450,0.0,,1.0,25.0
+JCVISYN3A_0060,MMSYN1_0060,0060,Uncharacterized protein,,Unclear,Quasiessential,825,0.0,,1.0,25.0
+JCVISYN3A_0061,MMSYN1_0061,serRS,Serine--tRNA ligase,K01875,Genetic Information Processing,Essential,1269,0.0,,1.0,25.0
+JCVISYN3A_0063,MMSYN1_0063,dusB,Uncharacterized tRNA dihydrouridine synthase,K05540,Genetic Information Processing,Nonessential,975,0.0,,1.0,25.0
+JCVISYN3A_0064,MMSYN1_0064,lysRS,Lysine--tRNA ligase,K04567,Genetic Information Processing,Essential,1503,0.0,,1.0,25.0
+JCVISYN3A_0065,MMSYN1_0065,trxA,Thioredoxin,K03671,Metabolism,Essential,309,0.0,,1.0,25.0
+JCVISYN3A_0066,MMSYN1_0066,0066,Low specificity hydrolase,,Unclear,Quasiessential,843,0.0,,1.0,25.0
+JCVISYN3A_0070,MMSYN1_0070,Leu,tRNA-Leu,K14228,Genetic Information Processing,Essential,84,0.0,,5.0,0.0
+JCVISYN3A_0071,MMSYN1_0071,Lys,tRNA-Lys,K14229,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0076,MMSYN1_0076,asnRS,Asparagine--tRNA ligase,K01893,Genetic Information Processing,Essential,1365,0.0,,1.0,25.0
+JCVISYN3A_0077,MMSYN1_0077,0077,Uncharacterized hydrolase,,Unclear,Quasiessential,840,0.0,,1.0,25.0
+JCVISYN3A_0079,MMSYN1_0079,tsaD,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit D,K01409,Genetic Information Processing,Essential,957,0.0,,1.0,25.0
+JCVISYN3A_0080,MMSYN1_0080,0080,Uncharacterized protein,,Unclear,Nonessential,222,0.0,,1.0,25.0
+JCVISYN3A_0081,MMSYN1_0081,mnmE,tRNA uridine(34) 5-carboxymethylaminomethyl synthesis GTPase,K03650,Genetic Information Processing,Quasiessential,1359,0.0,,1.0,25.0
+JCVISYN3A_0082,MMSYN1_0082,rpsT,30S ribosomal protein S20,K02968,Genetic Information Processing,Quasiessential,246,0.0,,2.0,100.0
+JCVISYN3A_0094,MMSYN1_0094,0094,Uncharacterized protein,,Unclear,Nonessential,717,0.0,,1.0,25.0
+JCVISYN3A_0095,MMSYN1_0095,secA,Preprotein translocase subunit A,K03070,Genetic Information Processing,Essential,2835,0.0,,1.0,25.0
+JCVISYN3A_0097,MMSYN1_0097,yycJ,Uncharacterized 5'-3' exonuclease,K02335,Genetic Information Processing,Quasiessential,912,0.0,,1.0,25.0
+JCVISYN3A_0105,MMSYN1_0105,xseB,Exodeoxyribonuclease VII small subunit,K03602,Genetic Information Processing,Nonessential,216,0.0,,1.0,25.0
+JCVISYN3A_0106,MMSYN1_0106,xseA,Exodeoxyribonuclease VII large subunit,K03601,Genetic Information Processing,Nonessential,1410,0.0,,1.0,25.0
+JCVISYN3A_0107,MMSYN1_0107,nusB,Transcription antitermination factor,K03625,Genetic Information Processing,Quasiessential,399,0.0,,1.0,25.0
+JCVISYN3A_0108,MMSYN1_0108,0108,Uncharacterized lipoprotein,,Unclear,Quasiessential,1113,0.0,,1.0,25.0
+JCVISYN3A_0109,MMSYN1_0109,nfo,Deoxyribonuclease IV,K01151,Genetic Information Processing,Quasiessential,870,0.0,,1.0,25.0
+JCVISYN3A_0113,MMSYN1_0113,epsG,Glycolipid synthase A,,Metabolism,Essential,1350,0.0,,1.0,25.0
+JCVISYN3A_0114,MMSYN1_0114,cps,Glycolipid synthase B,,Metabolism,Essential,921,0.0,,1.0,25.0
+JCVISYN3A_0115,MMSYN1_0115,galU,UTP--glucose-1-phosphate uridylyltransferase,K00963,Metabolism,Essential,873,0.0,,1.0,25.0
+JCVISYN3A_0116,MMSYN1_0116,0116,Uncharacterized protein,,Unclear,Quasiessential,441,0.0,,1.0,25.0
+JCVISYN3A_0117,MMSYN1_0117,plsY,Acyl-phosphate glycerol 3-phosphate acyltransferase,K08591,Metabolism,Essential,762,0.0,,1.0,25.0
+JCVISYN3A_0126,MMSYN1_0126,gluRS,Glutamate--tRNA ligase,K09698,Genetic Information Processing,Essential,1452,0.0,,1.0,25.0
+JCVISYN3A_0127,MMSYN1_0127,0127,Uncharacterized phosphohydrolase,K06885,Unclear,Nonessential,1215,0.0,,1.0,25.0
+JCVISYN3A_0128,MMSYN1_0128,rpoE,DNA-directed RNA polymerase subunit delta,K03048,Genetic Information Processing,Quasiessential,429,0.0,,1.0,25.0
+JCVISYN3A_0129,MMSYN1_0129,pyrG,CTP synthase,K01937,Metabolism,Essential,1599,0.0,,1.0,25.0
+JCVISYN3A_0131,MMSYN1_0131,fbaA,"Fructose-1,6-bisphosphate aldolase",K01624,Metabolism,Essential,894,0.0,,1.0,25.0
+JCVISYN3A_0132,MMSYN1_0132,ietA,Toxin-antitoxin AAA ATPase,,Cellular Processes,Essential,1062,0.0,,1.0,25.0
+JCVISYN3A_0133,MMSYN1_0133,ietS,Toxin-antitoxin serine protease,,Cellular Processes,Nonessential,2274,0.0,,1.0,25.0
+JCVISYN3A_0137,MMSYN1_0137,rpmE,50S ribosomal protein L31,K02909,Genetic Information Processing,Essential,279,0.0,,2.0,100.0
+JCVISYN3A_0138,MMSYN1_0138,0138,Uncharacterized protein,,Unclear,Quasiessential,1899,0.0,,1.0,25.0
+JCVISYN3A_0139,MMSYN1_0139,ytqI,NanoRNAse,K06881,Genetic Information Processing,Quasiessential,951,0.0,,1.0,25.0
+JCVISYN3A_0140,MMSYN1_0140,tdk,Thymidine kinase,K00857,Metabolism,Essential,630,0.0,,1.0,25.0
+JCVISYN3A_0141,MMSYN1_0141,prfA,Peptide chain release factor 1,K02835,Genetic Information Processing,Essential,1095,0.0,,1.0,25.0
+JCVISYN3A_0142,MMSYN1_0142,prmC,"Protein-(glutamine-N5) methyltransferase, release factor-specific",K02493,Genetic Information Processing,Quasiessential,849,0.0,,1.0,25.0
+JCVISYN3A_0143,MMSYN1_0143,0143,Uncharacterized protein,,Unclear,Essential,1473,0.0,,1.0,25.0
+JCVISYN3A_0144,MMSYN1_0144,tsaC,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit,K07566,Genetic Information Processing,Essential,501,0.0,,1.0,25.0
+JCVISYN3A_0145,MMSYN1_0145,0145,Uncharacterized acetyltransferase,,Unclear,Essential,915,0.0,,1.0,25.0
+JCVISYN3A_0146,MMSYN1_0146,0146,Uncharacterized protein,,Unclear,Essential,708,0.0,,1.0,25.0
+JCVISYN3A_0147,MMSYN1_0147,clsA,Cardiolipin synthase,K06131,Metabolism,Essential,1530,0.0,,1.0,25.0
+JCVISYN3A_0148,MMSYN1_0148,rpsL,30S ribosomal protein S12,K02950,Genetic Information Processing,Essential,420,0.0,,2.0,100.0
+JCVISYN3A_0149,MMSYN1_0149,rpsG,30S ribosomal protein S7,K02992,Genetic Information Processing,Essential,468,0.0,,2.0,100.0
+JCVISYN3A_0150,MMSYN1_0150,EF-G,Translation elongation factor G,K02355,Genetic Information Processing,Essential,2070,0.0,,1.0,25.0
+JCVISYN3A_0151,MMSYN1_0151,EF-Tu,Translation elongation factor Tu,K02358,Genetic Information Processing,Essential,1188,0.0,,1.0,25.0
+JCVISYN3A_0158,MMSYN1_0158,ssrA,Transfer-messenger RNA,K15035,Genetic Information Processing,Essential,411,0.0,,5.0,0.0
+JCVISYN3A_0163,MMSYN1_0163,alaRS,Alanine--tRNA ligase,K01872,Genetic Information Processing,Essential,2691,0.0,,1.0,25.0
+JCVISYN3A_0164,MMSYN1_0164,0164,Uncharacterized protein,,Unclear,Quasiessential,495,0.0,,1.0,25.0
+JCVISYN3A_0165,MMSYN1_0165,oppB,Oligopeptide ABC transporter permease,K15581,Metabolism,Quasiessential,1245,0.0,,1.0,25.0
+JCVISYN3A_0166,MMSYN1_0166,oppC,Oligopeptide ABC transporter permease,K15582,Metabolism,Quasiessential,1011,0.0,,1.0,25.0
+JCVISYN3A_0167,MMSYN1_0167,oppD,Oligopeptide ABC transporter ATP-binding protein,K15583,Metabolism,Quasiessential,1701,0.0,,1.0,25.0
+JCVISYN3A_0168,MMSYN1_0168,oppF,Oligopeptide ABC transporter ATP-binding protein,K10823,Metabolism,Quasiessential,1869,0.0,,1.0,25.0
+JCVISYN3A_0169,MMSYN1_0169,oppA,Oligopeptide ABC transporter substrate-binding protein,K15580,Metabolism,Quasiessential,3102,0.0,,1.0,25.0
+JCVISYN3A_0195,MMSYN1_0195,potC,Spermidine/putrescine ABC transporter permease,K11070,Metabolism,Quasiessential,3111,0.0,,1.0,25.0
+JCVISYN3A_0196,MMSYN1_0196,potB,Spermidine/putrescine ABC transporter permease,K11071,Metabolism,Quasiessential,993,0.0,,1.0,25.0
+JCVISYN3A_0197,MMSYN1_0197,potA,Spermidine/putrescine ABC transporter ATP-binding protein,K11072,Metabolism,Quasiessential,1056,0.0,,1.0,25.0
+JCVISYN3A_0198,MMSYN1_0198,rplT,50S ribosomal protein L20,K02887,Genetic Information Processing,Essential,360,0.0,,2.0,100.0
+JCVISYN3A_0199,MMSYN1_0199,rpmI,50S ribosomal protein L35,K02916,Genetic Information Processing,Essential,192,0.0,,2.0,100.0
+JCVISYN3A_0200,MMSYN1_0200,infC,Translation initiation factor IF-3,K02520,Genetic Information Processing,Essential,546,0.0,,1.0,25.0
+JCVISYN3A_0201,MMSYN1_0201,def,Peptide deformylase,K01462,Genetic Information Processing,Essential,603,0.0,,1.0,25.0
+JCVISYN3A_0202,MMSYN1_0202,rsmD,16S rRNA (guanine(966)-N(2))-methyltransferase,K08316,Genetic Information Processing,Quasiessential,558,0.0,,1.0,25.0
+JCVISYN3A_0203,MMSYN1_0203,gmk,Guanylate kinase,K00942,Metabolism,Essential,894,0.0,,1.0,25.0
+JCVISYN3A_0213,MMSYN1_0213,eno,Phosphopyruvate hydratase,K01689,Metabolism,Essential,1356,0.0,,1.0,25.0
+JCVISYN3A_0214,MMSYN1_0214,pgpA,Phosphatidylglycerophosphatase,K01095,Metabolism,Quasiessential,822,0.0,,1.0,25.0
+JCVISYN3A_0215,MMSYN1_0215,yrrK,Putative pre-16S rRNA nuclease,K07447,Genetic Information Processing,Essential,432,0.0,,1.0,25.0
+JCVISYN3A_0216,MMSYN1_0216,hptA,Hypoxanthine phosphoribosyltransferase,K00760,Metabolism,Quasiessential,573,0.0,,1.0,25.0
+JCVISYN3A_0218,MMSYN1_0218,glpK,Glycerol kinase,K00864,Metabolism,Essential,1518,0.0,,1.0,25.0
+JCVISYN3A_0220,MMSYN1_0220,pfkA,6-Phosphofructokinase,K00850,Metabolism,Essential,981,0.0,,1.0,25.0
+JCVISYN3A_0221,MMSYN1_0221,pyk,Pyruvate kinase,K00873,Metabolism,Essential,1437,0.0,,1.0,25.0
+JCVISYN3A_0222,MMSYN1_0222,thrRS,Threonine--tRNA ligase,K01868,Genetic Information Processing,Essential,1920,0.0,,1.0,25.0
+JCVISYN3A_0227,MMSYN1_0227,pdhC,Branched-chain alpha-keto acid dehydrogenase subunit E2,K00627,Metabolism,Nonessential,1326,0.0,,1.0,25.0
+JCVISYN3A_0228,MMSYN1_0228,pdhD,Dihydrolipoyl dehydrogenase,K00382,Metabolism,Nonessential,1890,0.0,,1.0,25.0
+JCVISYN3A_0229,MMSYN1_0229,pta,Phosphate acetyltransferase,K00625,Metabolism,Essential,969,0.0,,1.0,25.0
+JCVISYN3A_0230,MMSYN1_0230,ackA,Acetate kinase,K00925,Metabolism,Essential,1182,0.0,,1.0,25.0
+JCVISYN3A_0233,MMSYN1_0233,ptsI,Phosphoenolpyruvate--protein phosphotransferase,K08483,Metabolism,Essential,1722,0.0,,1.0,25.0
+JCVISYN3A_0234,MMSYN1_0234,crr,PTS glucose transporter subunit IIA,K02777,Metabolism,Essential,465,0.0,,1.0,25.0
+JCVISYN3A_0235,MMSYN1_0235,0235,Uncharacterized protein,,Unclear,Quasiessential,183,0.0,,1.0,25.0
+JCVISYN3A_0238,MMSYN1_0238,rpsD,30S ribosomal protein S4,K02986,Genetic Information Processing,Essential,627,0.0,,2.0,100.0
+JCVISYN3A_0239,MMSYN1_0239,0239,Uncharacterized protein,,Unclear,Nonessential,1788,0.0,,1.0,25.0
+JCVISYN3A_0240,MMSYN1_0240,thiI,tRNA 4-thiouridine(8) synthase,K03151,Genetic Information Processing,Quasiessential,1188,0.0,,1.0,25.0
+JCVISYN3A_0247,MMSYN1_0247,ysxC,Ribosome biogenesis GTP-binding protein,K03978,Genetic Information Processing,Essential,591,0.0,,1.0,25.0
+JCVISYN3A_0248,MMSYN1_0248,0248,Uncharacterized protein,,Unclear,Nonessential,561,0.0,,1.0,25.0
+JCVISYN3A_0249,MMSYN1_0249,0249,Uncharacterized protein,,Unclear,Essential,579,0.0,,1.0,25.0
+JCVISYN3A_0250,MMSYN1_0250,0250,Uncharacterized protein,,Unclear,Nonessential,690,0.0,,1.0,25.0
+JCVISYN3A_0253,MMSYN1_0253,greA,Transcription elongation factor,K03624,Genetic Information Processing,Essential,474,0.0,,1.0,25.0
+JCVISYN3A_0254,MMSYN1_0254,uvrC,Excinuclease ABC subunit C,K03703,Genetic Information Processing,Quasiessential,1755,0.0,,1.0,25.0
+JCVISYN3A_0257,MMSYN1_0257,rnjB,RNase J family beta-CASP ribonuclease,K12574,Genetic Information Processing,Essential,1752,0.0,,1.0,25.0
+JCVISYN3A_0259,MMSYN1_0259,nadK,NAD(+) kinase,K00858,Metabolism,Essential,798,0.0,,1.0,25.0
+JCVISYN3A_0260,MMSYN1_0260,valRS,Valine--tRNA ligase,K01873,Genetic Information Processing,Essential,2619,0.0,,1.0,25.0
+JCVISYN3A_0262,MMSYN1_0262,rpe,Ribulose-phosphate 3-epimerase,K01783,Metabolism,Quasiessential,678,0.0,,1.0,25.0
+JCVISYN3A_0263,MMSYN1_0263,0263,Ribosome small subunit-dependent GTPase A,K06949,Genetic Information Processing,Quasiessential,903,0.0,,1.0,25.0
+JCVISYN3A_0264,MMSYN1_0264,0264,Uncharacterized serine/threonine protein kinase,K12132,Metabolism,Quasiessential,1116,0.0,,1.0,25.0
+JCVISYN3A_0270,MMSYN1_0270,tsaE,tRNA (N6-adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase,K06925,Genetic Information Processing,Essential,417,0.0,,1.0,25.0
+JCVISYN3A_0271,MMSYN1_0271,tsaB,tRNA N6-adenosine(37)-N6-threonylcarbamoyltransferase complex dimerization subunit,K14742,Genetic Information Processing,Essential,564,0.0,,1.0,25.0
+JCVISYN3A_0280,MMSYN1_0280,Ser,tRNA-Ser,K14233,Genetic Information Processing,Essential,90,0.0,,5.0,0.0
+JCVISYN3A_0281,MMSYN1_0281,0281,Uncharacterized protein,,Unclear,Essential,681,0.0,,1.0,25.0
+JCVISYN3A_0282,MMSYN1_0282,proRS,Proline--tRNA ligase,K01881,Genetic Information Processing,Essential,1425,0.0,,1.0,25.0
+JCVISYN3A_0283,MMSYN1_0283,rnhA,Double-stranded RNA binding RNase HI,K06993,Genetic Information Processing,Essential,618,0.0,,1.0,25.0
+JCVISYN3A_0285,MMSYN1_0285,lepA,Elongation factor 4,K03596,Genetic Information Processing,Quasiessential,1803,0.0,,1.0,25.0
+JCVISYN3A_0286,MMSYN1_0286,0286,Uncharacterized protein,,Unclear,Essential,807,0.0,,1.0,25.0
+JCVISYN3A_0287,MMSYN1_0287,aspRS,Aspartate--tRNA ligase,K01876,Genetic Information Processing,Essential,1725,0.0,,1.0,25.0
+JCVISYN3A_0288,MMSYN1_0288,hisRS,Histidine--tRNA ligase,K01892,Genetic Information Processing,Essential,1245,0.0,,1.0,25.0
+JCVISYN3A_0289,MMSYN1_0289,rbfA,Ribosome-binding factor A,K02834,Genetic Information Processing,Quasiessential,354,0.0,,1.0,25.0
+JCVISYN3A_0290,MMSYN1_0290,truB,tRNA pseudouridine(55) synthase,K03177,Genetic Information Processing,Quasiessential,879,0.0,,1.0,25.0
+JCVISYN3A_0291,MMSYN1_0291,ribF,FAD synthetase,K11753,Metabolism,Essential,555,0.0,,1.0,25.0
+JCVISYN3A_0294,MMSYN1_0294,rpsO,30S ribosomal protein S15,K02956,Genetic Information Processing,Quasiessential,267,0.0,,2.0,100.0
+JCVISYN3A_0295,MMSYN1_0295,Gly,tRNA-Gly,K14225,Genetic Information Processing,Essential,74,0.0,,5.0,0.0
+JCVISYN3A_0296,MMSYN1_0296,0296,Uncharacterized protein,,Unclear,Essential,645,0.0,,1.0,25.0
+JCVISYN3A_0297,MMSYN1_0297,infB,Translation initiation factor IF-2,K02519,Genetic Information Processing,Essential,1863,0.0,,1.0,25.0
+JCVISYN3A_0298,MMSYN1_0298,0298,Uncharacterized L7Ae family protein,,Unclear,Quasiessential,300,0.0,,1.0,25.0
+JCVISYN3A_0299,MMSYN1_0299,0299,Uncharacterized protein,K07742,Unclear,Quasiessential,282,0.0,,1.0,25.0
+JCVISYN3A_0300,MMSYN1_0300,nusA,Transcription termination/antitermination protein NusA,K02600,Genetic Information Processing,Essential,1755,0.0,,1.0,25.0
+JCVISYN3A_0301,MMSYN1_0301,rimP,Ribosome assembly cofactor,K09748,Genetic Information Processing,Quasiessential,495,0.0,,1.0,25.0
+JCVISYN3A_0302,MMSYN1_0302,fre,Flavin reductase,K05368,Metabolism,Essential,651,0.0,,1.0,25.0
+JCVISYN3A_0303,MMSYN1_0303,polC,PolC-type DNA polymerase III,K03763,Genetic Information Processing,Essential,4449,0.0,,1.0,25.0
+JCVISYN3A_0304,MMSYN1_0304,cdsA,Phosphatidate cytidylyltransferase,K00981,Metabolism,Essential,1029,0.0,,1.0,25.0
+JCVISYN3A_0305,MMSYN1_0305,0305,Uncharacterized metallopeptidase,K01262,Genetic Information Processing,Quasiessential,1077,0.0,,1.0,25.0
+JCVISYN3A_0308,MMSYN1_0308,trpRS,Tryptophan--tRNA ligase,K01867,Genetic Information Processing,Essential,1011,0.0,,1.0,25.0
+JCVISYN3A_0314,MMSYN1_0314,ecfS,Uncharacterized ECF transporter S component,,Metabolism,Essential,735,0.0,,1.0,25.0
+JCVISYN3A_0315,MMSYN1_0315,0315,Uncharacterized protein,,Unclear,Quasiessential,153,0.0,,1.0,25.0
+JCVISYN3A_0316,MMSYN1_0316,tkt,Transketolase,K00615,Metabolism,Quasiessential,1971,0.0,,1.0,25.0
+JCVISYN3A_0317,MMSYN1_0317,0317,Uncharacterized protein,K09976,Unclear,Essential,246,0.0,,1.0,25.0
+JCVISYN3A_0325,MMSYN1_0325,0325,Uncharacterized protein,,Unclear,Essential,1500,0.0,,1.0,25.0
+JCVISYN3A_0326,MMSYN1_0326,0326,Uncharacterized protein,,Unclear,Nonessential,762,0.0,,1.0,25.0
+JCVISYN3A_0327,MMSYN1_0327,scpA,Chromosome segregation protein A,K05896,Genetic Information Processing,Essential,837,0.0,,1.0,25.0
+JCVISYN3A_0328,MMSYN1_0328,scpB,Chromosome segregation protein B,K06024,Genetic Information Processing,Essential,630,0.0,,1.0,25.0
+JCVISYN3A_0329,MMSYN1_0329,rluB,Uncharacterized pseudouridine synthase,K06178,Genetic Information Processing,Quasiessential,759,0.0,,1.0,25.0
+JCVISYN3A_0330,MMSYN1_0330,dak1,Deoxyguanosine kinase,K15518,Metabolism,Nonessential,618,0.0,,1.0,25.0
+JCVISYN3A_0332,MMSYN1_0332,0332,Uncharacterized protein,,Unclear,Quasiessential,828,0.0,,1.0,25.0
+JCVISYN3A_0338,MMSYN1_0338,0338,Uncharacterized lipoprotein,,Unclear,Essential,720,0.0,,1.0,25.0
+JCVISYN3A_0344,MMSYN1_0344,ppa,Inorganic diphosphatase,K01507,Metabolism,Essential,561,0.0,,1.0,25.0
+JCVISYN3A_0345,MMSYN1_0345,ecfS,Uncharacterized ECF transporter S component,,Metabolism,Essential,891,0.0,,1.0,25.0
+JCVISYN3A_0346,MMSYN1_0346,0346,Uncharacterized protein,,Unclear,Nonessential,696,0.0,,1.0,25.0
+JCVISYN3A_0347,MMSYN1_0347,cmk,Cytidylate kinase,K00945,Metabolism,Quasiessential,663,0.0,,1.0,25.0
+JCVISYN3A_0348,MMSYN1_0348,engA,Ribosome biogenesis GTPase,K03977,Genetic Information Processing,Essential,1308,0.0,,1.0,25.0
+JCVISYN3A_0350,MMSYN1_0350,hupA,DNA-binding protein,K03530,Genetic Information Processing,Essential,273,0.0,,1.0,25.0
+JCVISYN3A_0352,MMSYN1_0352,0352,Uncharacterized protein,,Unclear,Essential,549,0.0,,1.0,25.0
+JCVISYN3A_0353,MMSYN1_0353,0353,Uncharacterized protein,,Unclear,Quasiessential,378,0.0,,1.0,25.0
+JCVISYN3A_0359,MMSYN1_0359,RNase Y,Ribonuclease Y,K18682,Genetic Information Processing,Essential,1530,0.0,,1.0,25.0
+JCVISYN3A_0360,MMSYN1_0360,ffh,Signal recognition particle protein,K03106,Genetic Information Processing,Essential,1344,0.0,,1.0,25.0
+JCVISYN3A_0361,MMSYN1_0361,rlmH,23S rRNA (pseudouridine(1915)-N3)-methyltransferase,K00783,Genetic Information Processing,Nonessential,468,0.0,,1.0,25.0
+JCVISYN3A_0362,MMSYN1_0362,rpsP,30S ribosomal protein S16,K02959,Genetic Information Processing,Essential,279,0.0,,2.0,100.0
+JCVISYN3A_0363,MMSYN1_0363,rimM,16S rRNA processing protein,K02860,Genetic Information Processing,Essential,495,0.0,,1.0,25.0
+JCVISYN3A_0364,MMSYN1_0364,trmD,tRNA (guanosine(37)-N1)-methyltransferase,K00554,Genetic Information Processing,Essential,723,0.0,,1.0,25.0
+JCVISYN3A_0365,MMSYN1_0365,rplS,50S ribosomal protein L19,K02884,Genetic Information Processing,Essential,384,0.0,,2.0,100.0
+JCVISYN3A_0366,MMSYN1_0366,ylqF,L16-binding dependent 50S subunit-maturation GTPase,K14540,Genetic Information Processing,Essential,951,0.0,,1.0,25.0
+JCVISYN3A_0371,MMSYN1_0371,ywjA,Flippase A,K06147,Metabolism,Essential,1872,0.0,,1.0,25.0
+JCVISYN3A_0372,MMSYN1_0372,ywjA,Flippase B,K06147,Metabolism,Essential,1854,0.0,,1.0,25.0
+JCVISYN3A_0373,MMSYN1_0373,0373,Uncharacterized protein,,Unclear,Essential,1608,0.0,,1.0,25.0
+JCVISYN3A_0374,MMSYN1_0374,Arg,tRNA-Arg,K14219,Genetic Information Processing,Essential,77,0.0,,5.0,0.0
+JCVISYN3A_0375,MMSYN1_0375,0375,Uncharacterized protein,,Unclear,Nonessential,741,0.0,,1.0,25.0
+JCVISYN3A_0376,MMSYN1_0376,0376,Uncharacterized protein,,Unclear,Quasiessential,345,0.0,,1.0,25.0
+JCVISYN3A_0377,MMSYN1_0377,obgE,Ribosome GTPase,K03979,Genetic Information Processing,Essential,1302,0.0,,1.0,25.0
+JCVISYN3A_0378,MMSYN1_0378,nadE,NAD(+) synthase,K01916,Metabolism,Essential,738,0.0,,1.0,25.0
+JCVISYN3A_0379,MMSYN1_0379,0379,Uncharacterized protein,,Unclear,Essential,279,0.0,,1.0,25.0
+JCVISYN3A_0380,MMSYN1_0380,nadD,Nicotinate (nicotinamide) nucleotide adenylyltransferase,K00969,Metabolism,Essential,1098,0.0,,1.0,25.0
+JCVISYN3A_0381,MMSYN1_0381,mtnN,5'-Methylthioadenosine nucleosidase,K01243,Metabolism,Nonessential,660,0.0,,1.0,25.0
+JCVISYN3A_0382,MMSYN1_0382,dak2,Deoxynucleoside kinase,K05961,Metabolism,Nonessential,639,0.0,,1.0,25.0
+JCVISYN3A_0387,MMSYN1_0387,mnmA,tRNA 2-thiouridine(34) synthase,K00566,Genetic Information Processing,Essential,1128,0.0,,1.0,25.0
+JCVISYN3A_0388,MMSYN1_0388,0388,Uncharacterized protein,,Unclear,Essential,618,0.0,,1.0,25.0
+JCVISYN3A_0389,MMSYN1_0389,0389,Uncharacterized protein,,Unclear,Quasiessential,2145,0.0,,1.0,25.0
+JCVISYN3A_0390,MMSYN1_0390,fmt,Methionyl-tRNA formyltransferase,K00604,Genetic Information Processing,Quasiessential,954,0.0,,1.0,25.0
+JCVISYN3A_0391,MMSYN1_0391,efp,Elongation factor P,K02356,Genetic Information Processing,Quasiessential,555,0.0,,1.0,25.0
+JCVISYN3A_0392,MMSYN1_0392,0392,Uncharacterized protein,,Unclear,Quasiessential,303,0.0,,1.0,25.0
+JCVISYN3A_0394,MMSYN1_0394,lon,Endopeptidase La,K01338,Genetic Information Processing,Quasiessential,2361,0.0,,1.0,25.0
+JCVISYN3A_0398,MMSYN1_0398,0398,Uncharacterized lipoprotein,,Unclear,Quasiessential,2463,0.0,,1.0,25.0
+JCVISYN3A_0399,MMSYN1_0399,0399,Uncharacterized efflux ABC transporter permease,,Metabolism,Quasiessential,5262,0.0,,1.0,25.0
+JCVISYN3A_0400,MMSYN1_0400,0400,Uncharacterized protease,K03152,Genetic Information Processing,Quasiessential,552,0.0,,1.0,25.0
+JCVISYN3A_0401,MMSYN1_0401,0401,Uncharacterized peptidase,,Metabolism,Nonessential,1848,0.0,,1.0,25.0
+JCVISYN3A_0402,MMSYN1_0402,ybeY,rRNA maturation RNase,K07042,Genetic Information Processing,Essential,495,0.0,,1.0,25.0
+JCVISYN3A_0403,MMSYN1_0403,era,Ribosome GTPase,K03595,Genetic Information Processing,Essential,906,0.0,,1.0,25.0
+JCVISYN3A_0404,MMSYN1_0404,recO,DNA repair protein,K03584,Genetic Information Processing,Nonessential,750,0.0,,1.0,25.0
+JCVISYN3A_0405,MMSYN1_0405,glyRS,Glycine--tRNA ligase,K01880,Genetic Information Processing,Essential,1371,0.0,,1.0,25.0
+JCVISYN3A_0406,MMSYN1_0406,dnaG,DNA primase,K02316,Genetic Information Processing,Essential,1839,0.0,,1.0,25.0
+JCVISYN3A_0407,MMSYN1_0407,rpoD,RNA polymerase subunit sigma,K03086,Genetic Information Processing,Essential,1521,0.0,,1.0,25.0
+JCVISYN3A_0408,MMSYN1_0408,trmK,Uncharacterized methyltransferase,K06967,Genetic Information Processing,Quasiessential,678,0.0,,1.0,25.0
+JCVISYN3A_0409,MMSYN1_0409,0409,Uncharacterized protein,,Unclear,Quasiessential,777,0.0,,1.0,25.0
+JCVISYN3A_0410,MMSYN1_0410,0410,Uncharacterized helicase,K18692,Genetic Information Processing,Quasiessential,1362,0.0,,1.0,25.0
+JCVISYN3A_0411,MMSYN1_0411,0411,Uncharacterized protein,,Unclear,Nonessential,1515,0.0,,1.0,25.0
+JCVISYN3A_0412,MMSYN1_0412,0412,Uncharacterized protein,,Unclear,Essential,4155,0.0,,1.0,25.0
+JCVISYN3A_0413,MMSYN1_0413,apt,Adenine phosphoribosyltransferase,K00759,Metabolism,Essential,513,0.0,,1.0,25.0
+JCVISYN3A_0414,MMSYN1_0414,relA,"Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",K00951,Metabolism,Quasiessential,2265,0.0,,1.0,25.0
+JCVISYN3A_0415,MMSYN1_0415,smc,Chromosome segregation protein,K03529,Genetic Information Processing,Essential,2967,0.0,,1.0,25.0
+JCVISYN3A_0416,MMSYN1_0416,0416,Uncharacterized protein,,Unclear,Quasiessential,390,0.0,,1.0,25.0
+JCVISYN3A_0418,MMSYN1_0418,RNase III,Ribonuclease III,K03685,Genetic Information Processing,Essential,699,0.0,,1.0,25.0
+JCVISYN3A_0419,MMSYN1_0419,plsX,Phosphate acyltransferase,K03621,Metabolism,Essential,1005,0.0,,1.0,25.0
+JCVISYN3A_0420,MMSYN1_0420,fakA,Fatty acid kinase subunit A,K07030,Metabolism,Essential,1644,0.0,,1.0,25.0
+JCVISYN3A_0421,MMSYN1_0421,0421,Uncharacterized protein,,Unclear,Quasiessential,312,0.0,,1.0,25.0
+JCVISYN3A_0422,MMSYN1_0422,rpmB,50S ribosomal protein L28,K02902,Genetic Information Processing,Quasiessential,198,0.0,,2.0,100.0
+JCVISYN3A_0423,MMSYN1_0423,Leu,tRNA-Leu,K14228,Genetic Information Processing,Essential,85,0.0,,5.0,0.0
+JCVISYN3A_0424,MMSYN1_0424,0424,Uncharacterized protein,,Unclear,Essential,444,0.0,,1.0,25.0
+JCVISYN3A_0425,MMSYN1_0425,pstS,Phosphate ABC transporter substrate-binding protein,K02040,Metabolism,Essential,1131,0.0,,1.0,25.0
+JCVISYN3A_0426,MMSYN1_0426,pstA,Phosphate ABC transporter permease,K08483,Metabolism,Essential,2091,0.0,,1.0,25.0
+JCVISYN3A_0427,MMSYN1_0427,pstB,Phosphate ABC transporter ATP-binding protein,K02036,Metabolism,Essential,810,0.0,,1.0,25.0
+JCVISYN3A_0428,MMSYN1_0428,phoU,Phosphate transport system regulatory protein,K02039,Metabolism,Essential,675,0.0,,1.0,25.0
+JCVISYN3A_0429,MMSYN1_0429,ftsY,Signal recognition particle-docking protein,K03110,Genetic Information Processing,Essential,1230,0.0,,1.0,25.0
+JCVISYN3A_0430,MMSYN1_0430,0430,Uncharacterized DNA-binding protein,K09787,Unclear,Essential,342,0.0,,1.0,25.0
+JCVISYN3A_0431,MMSYN1_0431,0431,Uncharacterized metallophosphoesterase,K09769,Unclear,Essential,774,0.0,,1.0,25.0
+JCVISYN3A_0933,,SAM-I,SAM riboswitch class I,,Unclear,Nonessential,96,0.0,,1.0,25.0
+JCVISYN3A_0432,MMSYN1_0432,metK,Methionine adenosyltransferase,K00789,Metabolism,Essential,1164,0.0,,1.0,25.0
+JCVISYN3A_0433,MMSYN1_0433,cutC,Uncharacterized protein,K06201,Metabolism,Nonessential,684,0.0,,1.0,25.0
+JCVISYN3A_0434,MMSYN1_0434,RlmFO,23S rRNA (uridine(1939)-m5)-methyltransferase,K04094,Genetic Information Processing,Nonessential,1317,0.0,,1.0,25.0
+JCVISYN3A_0435,MMSYN1_0435,manA,Mannose-6-phosphate isomerase,K01809,Metabolism,Nonessential,930,0.0,,1.0,25.0
+JCVISYN3A_0437,MMSYN1_0437,yhaM,Putative 3'-5' exoribonuclease,K03698,Genetic Information Processing,Essential,981,0.0,,1.0,25.0
+JCVISYN3A_0438,MMSYN1_0438,hinT,Uncharacterized protein,K02503,Metabolism,Nonessential,399,0.0,,1.0,25.0
+JCVISYN3A_0439,MMSYN1_0439,0439,Uncharacterized lipoprotein,,Unclear,Essential,2157,0.0,,1.0,25.0
+JCVISYN3A_0440,MMSYN1_0440,0440,Uncharacterized lipoprotein,,Unclear,Essential,2937,0.0,,1.0,25.0
+JCVISYN3A_0441,MMSYN1_0441,iscS,Cysteine desulfurase,K11717,Metabolism,Essential,1239,0.0,,1.0,25.0
+JCVISYN3A_0442,MMSYN1_0442,iscU,Iron-sulfur cluster assembly scaffold protein,K04488,Metabolism,Essential,438,0.0,,1.0,25.0
+JCVISYN3A_0443,MMSYN1_0443,ygfA,5-Formyltetrahydrofolate cyclo-ligase,K01934,Metabolism,Essential,564,0.0,,1.0,25.0
+JCVISYN3A_0444,MMSYN1_0444,0444,Uncharacterized peptidase,K07386,Genetic Information Processing,Quasiessential,1896,0.0,,1.0,25.0
+JCVISYN3A_0445,MMSYN1_0445,pgi,Glucose-6-phosphate isomerase,K01810,Metabolism,Essential,1284,0.0,,1.0,25.0
+JCVISYN3A_0447,MMSYN1_0447,dut,dUTP diphosphatase,K01520,Genetic Information Processing,Essential,504,0.0,,1.0,25.0
+JCVISYN3A_0448,MMSYN1_0448,0448,Uncharacterized rRNA methyltransferase,K03437,Genetic Information Processing,Essential,768,0.0,,1.0,25.0
+JCVISYN3A_0451,MMSYN1_0451,gapdh,Glyceraldehyde-3-phosphate dehydrogenase,K00131,Metabolism,Essential,1416,0.0,,1.0,25.0
+JCVISYN3A_0452,MMSYN1_0452,parE,DNA topoisomerase IV subunit B,K02622,Genetic Information Processing,Essential,1932,0.0,,1.0,25.0
+JCVISYN3A_0453,MMSYN1_0453,parC,DNA topoisomerase IV subunit A,K02621,Genetic Information Processing,Essential,2697,0.0,,1.0,25.0
+JCVISYN3A_0475,MMSYN1_0475,ldh,L-lactate dehydrogenase,K00016,Metabolism,Essential,957,0.0,,1.0,25.0
+JCVISYN3A_0478,MMSYN1_0478,0478,Uncharacterized protein,,Unclear,Essential,585,0.0,,1.0,25.0
+JCVISYN3A_0479,MMSYN1_0479,0479,Uncharacterized peptidase,,Genetic Information Processing,Quasiessential,1647,0.0,,1.0,25.0
+JCVISYN3A_0481,MMSYN1_0481,0481,Uncharacterized lipoprotein,,Unclear,Nonessential,438,0.0,,1.0,25.0
+JCVISYN3A_0482,MMSYN1_0482,rpsU,30S ribosomal protein S21,K02970,Genetic Information Processing,Essential,165,0.0,,2.0,100.0
+JCVISYN3A_0154,MMSYN1_0493,0493,Uncharacterized peptidase,K01255,Genetic Information Processing,Quasiessential,1356,0.0,,1.0,25.0
+JCVISYN3A_0493,,0493(3A),Uncharacterized peptidase,,Unclear,Quasiessential,1350,0.0,,1.0,25.0
+JCVISYN3A_0494,MMSYN1_0494,nanE,N-acetylmannosamine-6-phosphate 2-epimerase,K01788,Metabolism,Nonessential,681,0.0,,1.0,25.0
+JCVISYN3A_0495,MMSYN1_0495,0495,Uncharacterized kinase,K00885,Metabolism,Nonessential,876,0.0,,1.0,25.0
+JCVISYN3A_0499,MMSYN1_0499,rpmA,50S ribosomal protein L27,K02899,Genetic Information Processing,Essential,282,0.0,,2.0,100.0
+JCVISYN3A_0500,MMSYN1_0500,prp,Maturation protease for ribosomal protein L27,K07584,Genetic Information Processing,Essential,315,0.0,,2.0,100.0
+JCVISYN3A_0501,MMSYN1_0501,rplU,50S ribosomal protein L21,K02888,Genetic Information Processing,Essential,303,0.0,,2.0,100.0
+JCVISYN3A_0503,MMSYN1_0503,0503,Uncharacterized protein,,Unclear,Quasiessential,402,0.0,,1.0,25.0
+JCVISYN3A_0504,MMSYN1_0504,rsmI,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,K07056,Genetic Information Processing,Nonessential,888,0.0,,1.0,25.0
+JCVISYN3A_0930,,rpmG,50S ribosomal protein L33,K02913,Genetic Information Processing,Nonessential,144,0.0,,2.0,100.0
+JCVISYN3A_0505,MMSYN1_0505,0505,Uncharacterized lipoprotein,,Unclear,Nonessential,1074,0.0,,1.0,25.0
+JCVISYN3A_0506,MMSYN1_0506,Leu,tRNA-Leu,K14228,Genetic Information Processing,Essential,89,0.0,,5.0,0.0
+JCVISYN3A_0507,MMSYN1_0507,Lys,tRNA-Lys,K14229,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0508,MMSYN1_0508,Gln,tRNA-Gln,K14223,Genetic Information Processing,Essential,75,0.0,,5.0,0.0
+JCVISYN3A_0509,MMSYN1_0509,Tyr,tRNA-Tyr,K14236,Genetic Information Processing,Essential,84,0.0,,5.0,0.0
+JCVISYN3A_0510,MMSYN1_0510,Thr,tRNA-Thr,K14234,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0511,MMSYN1_0511,0511,Uncharacterized protein,,Unclear,Essential,624,0.0,,1.0,25.0
+JCVISYN3A_0512,MMSYN1_0512,plsC,Acyl-phosphate glycerol 3-phosphate acyltransferase,K00655,Metabolism,Essential,948,0.0,,1.0,25.0
+JCVISYN3A_0513,MMSYN1_0513,acpS,ACP synthase,K00997,Metabolism,Essential,333,0.0,,1.0,25.0
+JCVISYN3A_0515,MMSYN1_0515,dctD,Cytidine deaminase,K01493,Metabolism,Quasiessential,483,0.0,,1.0,25.0
+JCVISYN3A_0516,MMSYN1_0516,0516,Uncharacterized protein,,Unclear,Quasiessential,1302,0.0,,1.0,25.0
+JCVISYN3A_0517,MMSYN1_0517,rluD,Uncharacterized RNA pseudouridine synthase,K06180,Genetic Information Processing,Nonessential,933,0.0,,1.0,25.0
+JCVISYN3A_0518,MMSYN1_0518,lspA,Lipoprotein signal peptidase,K03101,Genetic Information Processing,Essential,609,0.0,,1.0,25.0
+JCVISYN3A_0519,MMSYN1_0519,ileRS,Isoleucine--tRNA ligase,K01870,Genetic Information Processing,Essential,2748,0.0,,1.0,25.0
+JCVISYN3A_0520,MMSYN1_0520,0520,Uncharacterized hydrolase,K06889,Unclear,Nonessential,990,0.0,,1.0,25.0
+JCVISYN3A_0521,MMSYN1_0521,sepF,Cell division protein,K09772,Cellular Processes,Nonessential,417,0.0,,1.0,25.0
+JCVISYN3A_0522,MMSYN1_0522,ftsZ,Cell division protein,K03531,Cellular Processes,Nonessential,1158,0.0,,1.0,25.0
+JCVISYN3A_0523,MMSYN1_0523,ftsA,Cell division protein,K03590,Cellular Processes,Nonessential,1161,0.0,,1.0,25.0
+JCVISYN3A_0524,MMSYN1_0524,rsmH,16S rRNA (cytosine(1402)-N(4))-methyltransferase,K03438,Genetic Information Processing,Nonessential,927,0.0,,1.0,25.0
+JCVISYN3A_0525,MMSYN1_0525,mraZ,Cell division/cell wall cluster transcriptional repressor,K03925,Genetic Information Processing,Nonessential,402,0.0,,1.0,25.0
+JCVISYN3A_0526,MMSYN1_0526,rpmF,50S ribosomal protein L32,K02911,Genetic Information Processing,Essential,180,0.0,,2.0,100.0
+JCVISYN3A_0527,MMSYN1_0527,0527,Uncharacterized protein,,Unclear,Nonessential,519,0.0,,1.0,25.0
+JCVISYN3A_0528,MMSYN1_0528,pheRS,Phenylalanine--tRNA ligase subunit beta,K01890,Genetic Information Processing,Essential,2385,0.0,,1.0,25.0
+JCVISYN3A_0529,MMSYN1_0529,pheS,Phenylalanine--tRNA ligase subunit alpha,K01889,Genetic Information Processing,Essential,1053,0.0,,1.0,25.0
+JCVISYN3A_0530,MMSYN1_0530,0530,Uncharacterized protein,,Unclear,Quasiessential,609,0.0,,1.0,25.0
+JCVISYN3A_0532,,rrfB,5S ribosomal RNA,K01985,Genetic Information Processing,Essential,109,0.0,,5.0,0.0
+JCVISYN3A_0533,,rrlB,23S ribosomal RNA,K01980,Genetic Information Processing,Essential,2914,0.0,,5.0,0.0
+JCVISYN3A_0534,,rrsB,16S ribosomal RNA,K01977,Genetic Information Processing,Essential,1535,0.0,,5.0,0.0
+JCVISYN3A_0535,MMSYN1_0535,argRS,Arginine--tRNA ligase,K01887,Genetic Information Processing,Essential,1665,0.0,,1.0,25.0
+JCVISYN3A_0536,MMSYN1_0536,frr,Ribosome recycling factor,K02838,Genetic Information Processing,Essential,549,0.0,,1.0,25.0
+JCVISYN3A_0537,MMSYN1_0537,pyrH,UMP kinase,K09903,Metabolism,Essential,714,0.0,,1.0,25.0
+JCVISYN3A_0538,MMSYN1_0538,0538,Uncharacterized protein,,Unclear,Nonessential,606,0.0,,1.0,25.0
+JCVISYN3A_0539,MMSYN1_0539,tsf,Translation elongation factor Ts,K02357,Genetic Information Processing,Essential,888,0.0,,1.0,25.0
+JCVISYN3A_0540,MMSYN1_0540,rpsB,30S ribosomal protein S2,K02967,Genetic Information Processing,Essential,879,0.0,,2.0,100.0
+JCVISYN3A_0541,MMSYN1_0541,dnaJ,Molecular chaperone,K03686,Genetic Information Processing,Essential,1119,0.0,,1.0,25.0
+JCVISYN3A_0542,MMSYN1_0542,dnaK,Molecular chaperone,K04043,Genetic Information Processing,Essential,1776,0.0,,1.0,25.0
+JCVISYN3A_0543,MMSYN1_0543,grpE,Nucleotide exchange factor,K03687,Genetic Information Processing,Essential,603,0.0,,1.0,25.0
+JCVISYN3A_0544,MMSYN1_0544,hrcA,Heat-inducible transcription repressor,K03705,Genetic Information Processing,Essential,1023,0.0,,1.0,25.0
+JCVISYN3A_0545,MMSYN1_0545,clpB,ATP-dependent Clp protease subunit B,K03695,Genetic Information Processing,Essential,2142,0.0,,1.0,25.0
+JCVISYN3A_0546,MMSYN1_0547,0547,Uncharacterized hydrolase,,Unclear,Nonessential,866,0.0,,1.0,25.0
+JCVISYN3A_0548,MMSYN1_0548,0548,tRNA (cytidine(34)-2'-O)-methyltransferase,K03216,Genetic Information Processing,Nonessential,546,0.0,,1.0,25.0
+JCVISYN3A_0549,MMSYN1_0549,rgdB,Non-canonical purine NTP pyrophosphatase,K02428,Metabolism,Nonessential,603,0.0,,1.0,25.0
+JCVISYN3A_0931,,Met14p,Adenylyl-sulfate kinase,K00860,Metabolism,Nonessential,609,0.0,,1.0,25.0
+JCVISYN3A_0592,MMSYN1_0592,0592,Uncharacterized protein,,Unclear,Quasiessential,1200,0.0,,1.0,25.0
+JCVISYN3A_0593,MMSYN1_0593,0593,Uncharacterized protein,,Unclear,Nonessential,279,0.0,,1.0,25.0
+JCVISYN3A_0599,MMSYN1_0599,0599,Uncharacterized protein,,Unclear,Nonessential,141,0.0,,1.0,25.0
+JCVISYN3A_0600,MMSYN1_0600,rnjA,Ribonuclease J,K12574,Genetic Information Processing,Essential,1833,0.0,,1.0,25.0
+JCVISYN3A_0601,MMSYN1_0601,0601,Uncharacterized protein,,Unclear,Nonessential,945,0.0,,1.0,25.0
+JCVISYN3A_0602,MMSYN1_0602,0602,Uncharacterized protein,,Unclear,Nonessential,1763,0.0,,1.0,25.0
+JCVISYN3A_0604,MMSYN1_0604,0604,Uncharacterized protein,K03744,Unclear,Nonessential,669,0.0,,1.0,25.0
+JCVISYN3A_0605,MMSYN1_0605,0605,Uncharacterized protein,,Unclear,Nonessential,309,0.0,,1.0,25.0
+JCVISYN3A_0606,MMSYN1_0606,pgk,Phosphoglycerate kinase,K00927,Metabolism,Essential,1215,0.0,,1.0,25.0
+JCVISYN3A_0607,MMSYN1_0607,gapDH,Type I glyceraldehyde-3-phosphate dehydrogenase,K00134,Metabolism,Essential,1017,0.0,,1.0,25.0
+JCVISYN3A_0608,MMSYN1_0608,dnaI,Primosomal protein,K11144,Genetic Information Processing,Essential,939,0.0,,1.0,25.0
+JCVISYN3A_0609,MMSYN1_0609,dnaB,Chromosome replication initiation protein,K03346,Genetic Information Processing,Essential,1185,0.0,,1.0,25.0
+JCVISYN3A_0610,MMSYN1_0610,mutM,DNA-formamidopyrimidine glycosylase,K10563,Genetic Information Processing,Nonessential,825,0.0,,1.0,25.0
+JCVISYN3A_0611,MMSYN1_0611,polA,DNA polymerase I,K02335,Genetic Information Processing,Essential,2736,0.0,,1.0,25.0
+JCVISYN3A_0612,MMSYN1_0612,dnaE,DNA polymerase III subunit alpha,K02337,Genetic Information Processing,Essential,2964,0.0,,1.0,25.0
+JCVISYN3A_0613,MMSYN1_0613,tyrRS,Tyrosine--tRNA ligase,K01866,Genetic Information Processing,Essential,1245,0.0,,1.0,25.0
+JCVISYN3A_0614,MMSYN1_0614,pncB,Nicotinate phosphoribosyltransferase,K00763,Metabolism,Essential,1062,0.0,,1.0,25.0
+JCVISYN3A_0615,MMSYN1_0615,0615,Uncharacterized protein,K06878,Unclear,Quasiessential,609,0.0,,1.0,25.0
+JCVISYN3A_0616,MMSYN1_0616,fakB,Fatty acid binding protein,,Metabolism,Essential,840,0.0,,1.0,25.0
+JCVISYN3A_0617,MMSYN1_0617,fakB,Fatty acid binding protein,,Metabolism,Quasiessential,852,0.0,,1.0,25.0
+JCVISYN3A_0618,MMSYN1_0618,Trp,tRNA-Trp,K14235,Genetic Information Processing,Nonessential,75,0.0,,5.0,0.0
+JCVISYN3A_0619,MMSYN1_0619,Trp,tRNA-Trp,K14235,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0620,MMSYN1_0620,0620,Uncharacterized transcriptional regulator,,Genetic Information Processing,Nonessential,465,0.0,,1.0,25.0
+JCVISYN3A_0621,MMSYN1_0621,acpA,Acyl carrier protein,K02078,Metabolism,Essential,222,0.0,,1.0,25.0
+JCVISYN3A_0622,MMSYN1_0622,0622,Uncharacterized lipoprotein,,Unclear,Nonessential,363,0.0,,1.0,25.0
+JCVISYN3A_0623,MMSYN1_0623,0623,Uncharacterized protein,,Unclear,Nonessential,1071,0.0,,1.0,25.0
+JCVISYN3A_0624,MMSYN1_0624,His,tRNA-His,K14226,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0634,MMSYN1_0634,leuRS,Leucine--tRNA ligase,K01869,Genetic Information Processing,Essential,2415,0.0,,1.0,25.0
+JCVISYN3A_0635,MMSYN1_0635,Ile,tRNA-Ile,K14227,Genetic Information Processing,Essential,77,0.0,,5.0,0.0
+JCVISYN3A_0636,MMSYN1_0636,0636,Uncharacterized lipoprotein,,Unclear,Essential,2790,0.0,,1.0,25.0
+JCVISYN3A_0637,MMSYN1_0637,rpsI,30S ribosomal protein S9,K02996,Genetic Information Processing,Essential,399,0.0,,2.0,100.0
+JCVISYN3A_0638,MMSYN1_0638,rplM,50S ribosomal protein L13,K02871,Genetic Information Processing,Essential,456,0.0,,2.0,100.0
+JCVISYN3A_0639,MMSYN1_0639,0639,Uncharacterized efflux ABC transporter permease protein,,Metabolism,Essential,4146,0.0,,1.0,25.0
+JCVISYN3A_0640,MMSYN1_0640,truA,tRNA pseudouridine(38-40) synthase,K06173,Genetic Information Processing,Quasiessential,756,0.0,,1.0,25.0
+JCVISYN3A_0641,MMSYN1_0641,ecfT,ECF transporter T component,K16785,Metabolism,Essential,1011,0.0,,1.0,25.0
+JCVISYN3A_0642,MMSYN1_0642,ecfA,ECF transporter ATPase,K16787,Metabolism,Essential,912,0.0,,1.0,25.0
+JCVISYN3A_0643,MMSYN1_0643,ecfA,ECF transporter ATPase,K16786,Metabolism,Essential,1227,0.0,,1.0,25.0
+JCVISYN3A_0644,MMSYN1_0644,rplQ,50S ribosomal protein L17,K02879,Genetic Information Processing,Essential,360,0.0,,2.0,100.0
+JCVISYN3A_0645,MMSYN1_0645,rpoA,DNA-directed RNA polymerase subunit alpha,K03040,Genetic Information Processing,Essential,954,0.0,,1.0,25.0
+JCVISYN3A_0646,MMSYN1_0646,rpsK,30S ribosomal protein S11,K02948,Genetic Information Processing,Essential,390,0.0,,2.0,100.0
+JCVISYN3A_0647,MMSYN1_0647,rpsM,30S ribosomal protein S13,K02952,Genetic Information Processing,Essential,366,0.0,,2.0,100.0
+JCVISYN3A_0648,,rpmJ,50S ribosomal protein L36,K02919,Genetic Information Processing,Essential,114,0.0,,2.0,100.0
+JCVISYN3A_0649,MMSYN1_0649,infA,Translation initiation factor IF-1,K02518,Genetic Information Processing,Essential,225,0.0,,1.0,25.0
+JCVISYN3A_0650,MMSYN1_0650,map,Type I methionyl aminopeptidase,K01265,Genetic Information Processing,Essential,756,0.0,,1.0,25.0
+JCVISYN3A_0651,MMSYN1_0651,adk,Adenylate kinase,K00939,Metabolism,Essential,642,0.0,,1.0,25.0
+JCVISYN3A_0652,MMSYN1_0652,secY,Preprotein translocase subunit,K03076,Genetic Information Processing,Essential,1449,0.0,,1.0,25.0
+JCVISYN3A_0653,MMSYN1_0653,rplO,50S ribosomal protein L15,K02876,Genetic Information Processing,Quasiessential,438,0.0,,2.0,100.0
+JCVISYN3A_0654,MMSYN1_0654,rpsE,30S ribosomal protein S5,K02988,Genetic Information Processing,Essential,765,0.0,,2.0,100.0
+JCVISYN3A_0655,MMSYN1_0655,rplR,50S ribosomal protein L18,K02881,Genetic Information Processing,Essential,351,0.0,,2.0,100.0
+JCVISYN3A_0656,MMSYN1_0656,rplF,50S ribosomal protein L6,K02933,Genetic Information Processing,Essential,543,0.0,,2.0,100.0
+JCVISYN3A_0657,MMSYN1_0657,rpsH,30S ribosomal protein S8,K02994,Genetic Information Processing,Essential,390,0.0,,2.0,100.0
+JCVISYN3A_0658,MMSYN1_0658,rpsN,30S ribosomal protein S14,K02954,Genetic Information Processing,Essential,186,0.0,,2.0,100.0
+JCVISYN3A_0659,MMSYN1_0659,rplE,50S ribosomal protein L5,K02931,Genetic Information Processing,Essential,543,0.0,,2.0,100.0
+JCVISYN3A_0660,MMSYN1_0660,rplX,50S ribosomal protein L24,K02895,Genetic Information Processing,Essential,327,0.0,,2.0,100.0
+JCVISYN3A_0661,MMSYN1_0661,rplN,50S ribosomal protein L14,K02874,Genetic Information Processing,Essential,369,0.0,,2.0,100.0
+JCVISYN3A_0662,MMSYN1_0662,rpsQ,30S ribosomal protein S17,K02961,Genetic Information Processing,Essential,261,0.0,,2.0,100.0
+JCVISYN3A_0663,MMSYN1_0663,rpmC,50S ribosomal protein L29,K02904,Genetic Information Processing,Essential,417,0.0,,2.0,100.0
+JCVISYN3A_0664,MMSYN1_0664,rplP,50S ribosomal protein L16,K02878,Genetic Information Processing,Essential,414,0.0,,2.0,100.0
+JCVISYN3A_0665,MMSYN1_0665,rpsC,30S ribosomal protein S3,K02982,Genetic Information Processing,Essential,702,0.0,,2.0,100.0
+JCVISYN3A_0666,MMSYN1_0666,rplV,50S ribosomal protein L22,K02890,Genetic Information Processing,Essential,336,0.0,,2.0,100.0
+JCVISYN3A_0667,MMSYN1_0667,rpsS,30S ribosomal protein S19,K02965,Genetic Information Processing,Essential,267,0.0,,2.0,100.0
+JCVISYN3A_0668,MMSYN1_0668,rplB,50S ribosomal protein L2,K02886,Genetic Information Processing,Essential,849,0.0,,2.0,100.0
+JCVISYN3A_0669,MMSYN1_0669,rplW,50S ribosomal protein L23,K02892,Genetic Information Processing,Essential,285,0.0,,2.0,100.0
+JCVISYN3A_0670,MMSYN1_0670,rplD,50S ribosomal protein L4,K02926,Genetic Information Processing,Essential,627,0.0,,2.0,100.0
+JCVISYN3A_0671,MMSYN1_0671,rplC,50S ribosomal protein L3,K02906,Genetic Information Processing,Essential,672,0.0,,2.0,100.0
+JCVISYN3A_0672,MMSYN1_0672,rpsJ,30S ribosomal protein S10,K02946,Genetic Information Processing,Essential,309,0.0,,2.0,100.0
+JCVISYN3A_0678,MMSYN1_0678,Thr,tRNA-Thr,K14234,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0679,MMSYN1_0679,Val,tRNA-Val,K14237,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0680,MMSYN1_0680,Glu,tRNA-Glu,K14224,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0681,MMSYN1_0681,Asn,tRNA-Asn,K14220,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0684,MMSYN1_0684,folD,"Bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase",K01491,Metabolism,Quasiessential,867,0.0,,1.0,25.0
+JCVISYN3A_0685,MMSYN1_0685,natA,Sodium transporter,K09697,Metabolism,Essential,1602,0.0,,1.0,25.0
+JCVISYN3A_0686,MMSYN1_0686,trkA,Potassium transporter,K03499,Metabolism,Essential,729,0.0,,1.0,25.0
+JCVISYN3A_0687,MMSYN1_0687,gatB,Glutamyl-tRNA amidotransferase subunit B,K02434,Genetic Information Processing,Essential,1440,0.0,,1.0,25.0
+JCVISYN3A_0688,MMSYN1_0688,gatA,Glutamyl-tRNA amidotransferase subunit A,K02433,Genetic Information Processing,Essential,1458,0.0,,1.0,25.0
+JCVISYN3A_0689,MMSYN1_0689,gatC,Glutamyl-tRNA amidotransferase subunit C,K02435,Genetic Information Processing,Essential,297,0.0,,1.0,25.0
+JCVISYN3A_0690,MMSYN1_0690,ligA,DNA ligase (NAD(+)),K01972,Genetic Information Processing,Essential,2007,0.0,,1.0,25.0
+JCVISYN3A_0691,MMSYN1_0691,0691,Uncharacterized protein,,Unclear,Essential,2022,0.0,,1.0,25.0
+JCVISYN3A_0692,MMSYN1_0692,0692,Uncharacterized pseudouridine synthase,K06179,Genetic Information Processing,Nonessential,909,0.0,,1.0,25.0
+JCVISYN3A_0693,MMSYN1_0693,0693,Uncharacterized protease,K07052,Genetic Information Processing,Essential,969,0.0,,1.0,25.0
+JCVISYN3A_0694,MMSYN1_0694,ptsH,Phosphocarrier protein,K11189,Metabolism,Essential,270,0.0,,1.0,25.0
+JCVISYN3A_0695,MMSYN1_0695,pcrA,ATP-dependent DNA helicase,K03657,Genetic Information Processing,Quasiessential,2169,0.0,,1.0,25.0
+JCVISYN3A_0696,MMSYN1_0696,0696,Uncharacterized transporter,,Metabolism,Essential,756,0.0,,1.0,25.0
+JCVISYN3A_0697,MMSYN1_0697,0697,Uncharacterized glycosyl transferase,,Metabolism,Quasiessential,957,0.0,,1.0,25.0
+JCVISYN3A_0706,MMSYN1_0706,thiB,Thiamine ABC transporter permease,K02063,Metabolism,Quasiessential,1749,0.0,,1.0,25.0
+JCVISYN3A_0707,MMSYN1_0707,thiQ,Thiamine ABC transporter ATP-binding protein,K02062,Metabolism,Quasiessential,750,0.0,,1.0,25.0
+JCVISYN3A_0708,MMSYN1_0708,0708,Thiamine ABC transporter substrate-binding protein,K02064,Metabolism,Quasiessential,1464,0.0,,1.0,25.0
+JCVISYN3A_0934,,TPP,TPP riboswitch (THI element),,Unclear,Quasiessential,91,0.0,,1.0,25.0
+JCVISYN3A_0710,MMSYN1_0710,0710,Uncharacterized hydrolase,,Unclear,Quasiessential,864,0.0,,1.0,25.0
+JCVISYN3A_0717,MMSYN1_0717,Arg,tRNA-Arg,K14219,Genetic Information Processing,Essential,77,0.0,,5.0,0.0
+JCVISYN3A_0718,MMSYN1_0718,Pro,tRNA-Pro,K14232,Genetic Information Processing,Essential,77,0.0,,5.0,0.0
+JCVISYN3A_0719,MMSYN1_0719,Ala,tRNA-Ala,K14218,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0720,MMSYN1_0720,Met,tRNA-Met,K14230,Genetic Information Processing,Essential,77,0.0,,5.0,0.0
+JCVISYN3A_0721,MMSYN1_0721,Met,tRNA-Met,K14230,Genetic Information Processing,Essential,77,0.0,,5.0,0.0
+JCVISYN3A_0722,MMSYN1_0722,Ser,tRNA-Ser,K14233,Genetic Information Processing,Essential,93,0.0,,5.0,0.0
+JCVISYN3A_0723,MMSYN1_0723,Met,tRNA-Met,K14230,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0724,MMSYN1_0724,Asp,tRNA-Asp,K14221,Genetic Information Processing,Essential,77,0.0,,5.0,0.0
+JCVISYN3A_0725,MMSYN1_0725,Phe,tRNA-Phe,K14231,Genetic Information Processing,Essential,76,0.0,,5.0,0.0
+JCVISYN3A_0726,MMSYN1_0726,nagB,Glucosamine-6-phosphate deaminase,K02564,Metabolism,Nonessential,735,0.0,,1.0,25.0
+JCVISYN3A_0727,MMSYN1_0727,tpiA,Triose-phosphate isomerase,K01803,Metabolism,Essential,747,0.0,,1.0,25.0
+JCVISYN3A_0728,MMSYN1_0728,0728,Uncharacterized hydrolase,,Unclear,Nonessential,837,0.0,,1.0,25.0
+JCVISYN3A_0729,MMSYN1_0729,pgm,"Phosphoglycerate mutase (2,3-diphosphoglycerate-independent)",K15633,Metabolism,Essential,1596,0.0,,1.0,25.0
+JCVISYN3A_0730,MMSYN1_0730,0730,Uncharacterized protein,,Unclear,Quasiessential,600,0.0,,1.0,25.0
+JCVISYN3A_0732,MMSYN1_0732,deoC,Deoxyribose-phosphate aldolase,K01619,Metabolism,Nonessential,669,0.0,,1.0,25.0
+JCVISYN3A_0733,MMSYN1_0733,deoB,Phosphopentomutase,K01835,Metabolism,Essential,1677,0.0,,1.0,25.0
+JCVISYN3A_0747,MMSYN1_0747,punA,Purine-nucleoside phosphorylase,K03784,Metabolism,Quasiessential,654,0.0,,1.0,25.0
+JCVISYN3A_0771,MMSYN1_0771,nrdE,Ribonucleotide-diphosphate reductase subunit alpha,K00525,Genetic Information Processing,Quasiessential,2163,0.0,,1.0,25.0
+JCVISYN3A_0772,MMSYN1_0772,nrdI,Ribonucleotide reductase assembly protein,K03647,Metabolism,Essential,474,0.0,,1.0,25.0
+JCVISYN3A_0773,MMSYN1_0773,nrdF,Ribonucleoside-diphosphate reductase subunit beta,K00526,Genetic Information Processing,Quasiessential,1020,0.0,,1.0,25.0
+JCVISYN3A_0774,MMSYN1_0774,secG,Preprotein translocase subunit,K03075,Genetic Information Processing,Quasiessential,285,0.0,,1.0,25.0
+JCVISYN3A_0775,MMSYN1_0775,rnr,Ribonuclease R,K12573,Genetic Information Processing,Essential,2115,0.0,,1.0,25.0
+JCVISYN3A_0776,MMSYN1_0776,smpB,SsrA-binding protein,K03664,Genetic Information Processing,Essential,447,0.0,,1.0,25.0
+JCVISYN3A_0777,MMSYN1_0777,0777,Uncharacterized protein,,Unclear,Quasiessential,486,0.0,,1.0,25.0
+JCVISYN3A_0778,MMSYN1_0778,0778,Uncharacterized protein,,Unclear,Essential,252,0.0,,1.0,25.0
+JCVISYN3A_0779,MMSYN1_0779,ptsG,PTS sugar transporter,K02778,Metabolism,Essential,2238,0.0,,1.0,25.0
+JCVISYN3A_0787,MMSYN1_0787,mgtA,Magnesium-translocating P-type ATPase,K01531,Metabolism,Essential,2829,0.0,,1.0,25.0
+JCVISYN3A_0789,MMSYN1_0789,atpC,F0F1 ATP synthase subunit delta/epsilon,,Metabolism,Essential,300,0.0,,1.0,25.0
+JCVISYN3A_0790,MMSYN1_0790,atpD,F0F1 ATP synthase subunit beta,,Metabolism,Essential,1428,0.0,,1.0,25.0
+JCVISYN3A_0791,MMSYN1_0791,atpG,F0F1 ATP synthase subunit gamma,,Metabolism,Essential,843,0.0,,1.0,25.0
+JCVISYN3A_0792,MMSYN1_0792,atpA,F0F1 ATP synthase subunit alpha,,Metabolism,Essential,1578,0.0,,1.0,25.0
+JCVISYN3A_0793,MMSYN1_0793,atpD,F0F1 ATP synthase subunit delta,,Metabolism,Essential,546,0.0,,1.0,25.0
+JCVISYN3A_0794,MMSYN1_0794,atpF,F0F1 ATP synthase subunit B,,Metabolism,Essential,546,0.0,,1.0,25.0
+JCVISYN3A_0795,MMSYN1_0795,atpE,F0F1 ATP synthase subunit C,,Metabolism,Essential,306,0.0,,1.0,25.0
+JCVISYN3A_0796,MMSYN1_0796,atpB,F0F1 ATP synthase subunit A,,Metabolism,Essential,864,0.0,,1.0,25.0
+JCVISYN3A_0797,MMSYN1_0797,0797,Uncharacterized protein,,Unclear,Essential,399,0.0,,1.0,25.0
+JCVISYN3A_0798,MMSYN1_0798,upp,Uracil phosphoribosyltransferase,K00761,Metabolism,Essential,624,0.0,,1.0,25.0
+JCVISYN3A_0799,MMSYN1_0799,glyA,Serine hydroxymethyltransferase,K00600,Metabolism,Quasiessential,1242,0.0,,1.0,25.0
+JCVISYN3A_0800,MMSYN1_0800,rpiB,Ribose 5-phosphate isomerase B,K01808,Metabolism,Quasiessential,444,0.0,,1.0,25.0
+JCVISYN3A_0803,MMSYN1_0803,rpoC,DNA-directed RNA polymerase subunit beta',K03046,Genetic Information Processing,Essential,3768,0.0,,1.0,25.0
+JCVISYN3A_0804,MMSYN1_0804,rpoB,DNA-directed RNA polymerase subunit beta,K03043,Genetic Information Processing,Essential,3876,0.0,,1.0,25.0
+JCVISYN3A_0805,MMSYN1_0805,0805,Uncharacterized protein,,Unclear,Essential,1176,0.0,,1.0,25.0
+JCVISYN3A_0806,MMSYN1_0806,rplG,50S ribosomal protein L7/L12,K02935,Genetic Information Processing,Essential,369,0.0,,2.0,100.0
+JCVISYN3A_0807,MMSYN1_0807,rplJ,50S ribosomal protein L10,K02864,Genetic Information Processing,Essential,498,0.0,,2.0,100.0
+JCVISYN3A_0809,MMSYN1_0809,rplA,50S ribosomal protein L1,K02863,Genetic Information Processing,Quasiessential,681,0.0,,2.0,100.0
+JCVISYN3A_0810,MMSYN1_0810,rplK,50S ribosomal protein L11,K02867,Genetic Information Processing,Quasiessential,429,0.0,,2.0,100.0
+JCVISYN3A_0813,MMSYN1_0813,galE,UDP-glucose 4-epimerase GalE,K01784,Metabolism,Essential,999,0.0,,1.0,25.0
+JCVISYN3A_0814,MMSYN1_0814,glf,UDP-galactopyranose mutase,K01854,Metabolism,Essential,1188,0.0,,1.0,25.0
+JCVISYN3A_0817,MMSYN1_0817,whiA,Uncharacterized DNA-binding protein,K09762,Genetic Information Processing,Quasiessential,930,0.0,,1.0,25.0
+JCVISYN3A_0818,MMSYN1_0818,lgt,Diacylglyceryl transferase,K13292,Metabolism,Essential,1431,0.0,,1.0,25.0
+JCVISYN3A_0819,MMSYN1_0819,trx,Thioredoxin-disulfide reductase,K00384,Metabolism,Essential,933,0.0,,1.0,25.0
+JCVISYN3A_0820,MMSYN1_0820,lgt,Diacylglyceryl transferase,K13292,Metabolism,Essential,1581,0.0,,1.0,25.0
+JCVISYN3A_0821,MMSYN1_0821,hpr,HPr(Ser) kinase/phosphatase,K06023,Metabolism,Nonessential,942,0.0,,1.0,25.0
+JCVISYN3A_0822,MMSYN1_0822,folT,Uncharacterized ECF transporter S component,,Metabolism,Quasiessential,675,0.0,,1.0,25.0
+JCVISYN3A_0823,MMSYN1_0823,folC,Dihydrofolate synthase,K11754,Metabolism,Quasiessential,1116,0.0,,1.0,25.0
+JCVISYN3A_0824,MMSYN1_0824,uvrA,Excinuclease ABC subunit A,K03701,Genetic Information Processing,Quasiessential,2841,0.0,,1.0,25.0
+JCVISYN3A_0825,MMSYN1_0825,uvrB,Excinuclease ABC subunit B,K03702,Genetic Information Processing,Quasiessential,1998,0.0,,1.0,25.0
+JCVISYN3A_0826,MMSYN1_0826,yqeN,DNA polymerase III subunit delta,K02340,Genetic Information Processing,Essential,951,0.0,,1.0,25.0
+JCVISYN3A_0827,MMSYN1_0827,0827,Uncharacterized protein,,Unclear,Quasiessential,1467,0.0,,1.0,25.0
+JCVISYN3A_0828,MMSYN1_0828,Cys,tRNA-Cys,K14222,Genetic Information Processing,Essential,75,0.0,,5.0,0.0
+JCVISYN3A_0830,MMSYN1_0830,0830,Uncharacterized protein,,Unclear,Nonessential,261,0.0,,1.0,25.0
+JCVISYN3A_0831,MMSYN1_0831,prs,Phosphoribosylpyrophosphate synthetase,K00948,Metabolism,Essential,1035,0.0,,1.0,25.0
+JCVISYN3A_0832,MMSYN1_0832,pth,Aminoacyl-tRNA hydrolase,K01056,Genetic Information Processing,Essential,561,0.0,,1.0,25.0
+JCVISYN3A_0833,MMSYN1_0833,rplI,50S ribosomal protein L9,K02939,Genetic Information Processing,Quasiessential,444,0.0,,2.0,100.0
+JCVISYN3A_0834,MMSYN1_0834,dnaC,Replicative DNA helicase,K02314,Genetic Information Processing,Essential,1317,0.0,,1.0,25.0
+JCVISYN3A_0835,MMSYN1_0835,0835,Uncharacterized lipoprotein,,Unclear,Essential,1308,0.0,,1.0,25.0
+JCVISYN3A_0836,MMSYN1_0836,ecfS,Uncharacterized ECF transporter S component,,Metabolism,Essential,927,0.0,,1.0,25.0
+JCVISYN3A_0837,MMSYN1_0837,cysRS,Cysteine--tRNA ligase,K01883,Genetic Information Processing,Essential,1326,0.0,,1.0,25.0
+JCVISYN3A_0838,MMSYN1_0838,rlmB,23S rRNA (guanosine(2251)-2'-O)-methyltransferase,K03218,Genetic Information Processing,Nonessential,735,0.0,,1.0,25.0
+JCVISYN3A_0932,,rpmG,50S ribosomal protein L33,K02913,Genetic Information Processing,Quasiessential,162,0.0,,2.0,100.0
+JCVISYN3A_0839,MMSYN1_0839,secE,Preprotein translocase subunit,K03073,Genetic Information Processing,Essential,324,0.0,,1.0,25.0
+JCVISYN3A_0840,MMSYN1_0840,nusG,Antitermination protein,K02601,Genetic Information Processing,Quasiessential,642,0.0,,1.0,25.0
+JCVISYN3A_0851,MMSYN1_0851,0851,Uncharacterized lipoprotein,,Unclear,Nonessential,183,0.0,,1.0,25.0
+JCVISYN3A_0852,MMSYN1_0852,0852,Uncharacterized protein,,Unclear,Nonessential,231,0.0,,1.0,25.0
+JCVISYN3A_0853,MMSYN1_0853,0853,Uncharacterized protein,,Unclear,Nonessential,720,0.0,,1.0,25.0
+JCVISYN3A_0859,MMSYN1_0859,topA,DNA topoisomerase I,K03168,Genetic Information Processing,Essential,1962,0.0,,1.0,25.0
+JCVISYN3A_0870,MMSYN1_0870,0870,Uncharacterized C4-dicarboxylate ABC transporter,,Metabolism,Quasiessential,1767,0.0,,1.0,25.0
+JCVISYN3A_0872,MMSYN1_0872,ychF,Uncharacterized ATPase,K06942,Genetic Information Processing,Quasiessential,1095,0.0,,1.0,25.0
+JCVISYN3A_0873,MMSYN1_0873,0873,Uncharacterized protein,,Unclear,Quasiessential,201,0.0,,1.0,25.0
+JCVISYN3A_0874,MMSYN1_0874,rsmG,16S rRNA (guanine(527)-N(7))-methyltransferase,K03501,Genetic Information Processing,Nonessential,696,0.0,,1.0,25.0
+JCVISYN3A_0875,MMSYN1_0875,pgsA,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,K00995,Metabolism,Essential,597,0.0,,1.0,25.0
+JCVISYN3A_0876,MMSYN1_0876,0876,Uncharacterized amino acid permease,,Metabolism,Nonessential,1581,0.0,,1.0,25.0
+JCVISYN3A_0877,MMSYN1_0877,0877,Uncharacterized protein,,Metabolism,Essential,681,0.0,,1.0,25.0
+JCVISYN3A_0878,MMSYN1_0878,0878,Uncharacterized amino acid permease,,Metabolism,Quasiessential,1539,0.0,,1.0,25.0
+JCVISYN3A_0879,MMSYN1_0879,corA,Magnesium transporter,K03284,Metabolism,Essential,2658,0.0,,1.0,25.0
+JCVISYN3A_0881,MMSYN1_0881,0881,Uncharacterized MFS transporter,,Metabolism,Essential,1428,0.0,,1.0,25.0
+JCVISYN3A_0885,MMSYN1_0885,mnmG,tRNA uridine(34) 5-carboxymethylaminomethyl synthesis enzyme,K03495,Genetic Information Processing,Quasiessential,1890,0.0,,1.0,25.0
+JCVISYN3A_0886,MMSYN1_0886,gltP,Proton-glutamate symporter,K11102,Metabolism,Quasiessential,1578,0.0,,1.0,25.0
+JCVISYN3A_0887,MMSYN1_0887,cdr,Coenzyme A Disulfide Reductase,K08255,Metabolism,Quasiessential,1344,0.0,,1.0,25.0
+JCVISYN3A_0906,MMSYN1_0906,0906,Uncharacterized protein,,Unclear,Essential,717,0.0,,1.0,25.0
+JCVISYN3A_0907,MMSYN1_0907,0907,Uncharacterized hydrolase,,Unclear,Quasiessential,795,0.0,,1.0,25.0
+JCVISYN3A_0908,MMSYN1_0908,yidC,Membrane protein insertase,K03217,Genetic Information Processing,Essential,1191,0.0,,1.0,25.0
+JCVISYN3A_0909,MMSYN1_0909,rnpA,Ribonuclease P protein component,K03536,Genetic Information Processing,Essential,330,0.0,,1.0,25.0
+JCVISYN3A_0910,MMSYN1_0910,rpmH,50S ribosomal protein L34,K02914,Genetic Information Processing,Quasiessential,135,0.0,,2.0,100.0
